@@ -1,0 +1,15 @@
+/* common */
+.nw_blind{padding:10px;overflow:hidden;}
+.nw_blind > .np{width:100%;height:100%;overflow:hidden;position:relative;}
+.nw_blind > .np > ul{position:static;top:0px;left:0px;width:100%;height:100%;margin:0px;padding:0px;}
+.nw_blind > .np > ul > li{position:static;width:100%;height:100%;list-style:none;text-align:center;background-size:contain;background-repeat:no-repeat;background-position:center;margin:0px;}
+.nw_blind > .np > ul > li > img{}
+.nw_blind > .np > .blind_prev{position:static;z-index:1;background:#000000;top:0px;left:0px;}
+.nw_blind > .np > .blind_next{position:static;z-index:1;background:#000000;top:0px;right:0px;}
+.nw_blind_blind{position:static;z-index:3;top:0px;left:0px;width:100%;height:100%;background:rgba(0,0,0,0.9);display:none;}
+.nw_blind_clone{cursor:pointer;position:static;list-style:none;padding:0px 0px 0px 0px;background:rgba(0,0,0,0.7);background-size:contain;background-repeat:no-repeat;background-position:center;margin:0px;}
+
+.nw_blind_black{background:#000000}
+.nw_blind_brown{background:rgba(102,38,29,0.6)}
+.nw_blind_brown > .np > .blind_prev{background:rgba(102,38,29,0.6)}
+.nw_blind_brown > .np > .blind_next{background:rgba(102,38,29,0.6)}

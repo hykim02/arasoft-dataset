@@ -1,0 +1,6 @@
+.nw_bounce{overflow:hidden;padding:10px;}
+.nw_bounce > .np{position:relative;width:100%;height:100%;margin:0px;padding:0px;}
+.nw_bounce > .np > ul{position:relative;width:100%;height:100%;margin:0px;padding:0px;overflow:hidden;}
+.nw_bounce > .np > ul > li{width:100%;height:100%;list-style:none;position:static;top:0px;z-index:1;text-align:center;overflow:hidden;background-size:contain;background-repeat:no-repeat;background-position:center;margin:0px;}
+.nw_bounce > .np > ul > li > img{width:100%;height:100%;}
+.nw_bounce > .np > .bounce_Images{position:static;z-index:1;width:100%;height:100%;}

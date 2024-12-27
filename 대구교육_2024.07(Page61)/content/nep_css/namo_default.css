@@ -1,0 +1,17 @@
+@import url(./pubtree_main.css);
+@import url(./pubtree_style.css);
+@import url(./pubtree_template.css);
+
+@font-face { font-family: "G마켓 산스 Bold"; src: url(../nep_font/font_0000.woff) format("woff"), url(../nep_font/font_0000.otf) format("opentype"); }
+
+
+
+@font-face { font-family: "학교안심 운동장 L"; src: url(../nep_font/font_0004.woff) format("woff"), url(../nep_font/font_0004.ttf) format("truetype"); }
+@font-face { font-family: "Pretendard Light"; src: url(../nep_font/font_0005.woff) format("woff"), url(../nep_font/font_0005.otf) format("opentype"); }
+@font-face { font-family: "에스코어 드림 6 Bold"; src: url(../nep_font/font_0006.woff) format("woff"), url(../nep_font/font_0006.otf) format("opentype"); }
+@font-face { font-family: "에스코어 드림 3 Light"; src: url(../nep_font/font_0007.woff) format("woff"), url(../nep_font/font_0007.otf) format("opentype"); }
+
+@font-face { font-family: "경기천년바탕 Regular"; src: url(../nep_font/font_0009.woff) format("woff"), url(../nep_font/font_0009.ttf) format("truetype"); }
+@font-face { font-family: "여기어때 잘난체 고딕"; src: url(../nep_font/font_0010.woff) format("woff"), url(../nep_font/font_0010.otf) format("opentype"); }
+@font-face { font-family: "땅스부대찌개 OTF Bold"; src: url(../nep_font/font_0011.woff) format("woff"), url(../nep_font/font_0011.otf) format("opentype"); }
+@font-face { font-family: "에스코어 드림 5 Medium"; src: url(../nep_font/font_0012.woff) format("woff"), url(../nep_font/font_0012.otf) format("opentype"); }
