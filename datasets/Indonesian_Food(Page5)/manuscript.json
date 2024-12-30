@@ -1,0 +1,46 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "THESE ARE DRINK MENUS"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/Indonesian_Food(Page5)/esteh3.jpg?raw=true"
+    },
+    "text002": {
+        "type": "text",
+        "content": "ICE TEA 2,000Won"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/Indonesian_Food(Page5)/cendol.jpg?raw=true"
+    },
+    "text003": {
+        "type": "text",
+        "content": "ICE CENDOL 2,800Won"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/Indonesian_Food(Page5)/lemon.jpg?raw=true"
+    },
+    "text004": {
+        "type": "text",
+        "content": "ICE CENDOL 2,800Won"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/Indonesian_Food(Page5)/alpukat.jpg?raw=true"
+    },
+    "text005": {
+        "type": "text",
+        "content": "ICE CENDOL 2,800Won"
+    },
+    "text006": {
+        "type": "text",
+        "content": "NEXT PAGE"
+    },
+    "text007": {
+        "type": "text",
+        "content": "BACK"
+    }
+}
