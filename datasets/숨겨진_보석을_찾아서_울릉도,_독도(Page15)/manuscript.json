@@ -1,0 +1,42 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "목차로 돌아가기"
+    },
+    "text002": {
+        "type": "text",
+        "content": "추천일정"
+    },
+    "text003": {
+        "type": "text",
+        "content": "1박2일 코스"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19142/OEBPS/nep_image/1.png"
+    },
+    "text004": {
+        "type": "text",
+        "content": "2박3일 코스"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19142/OEBPS/nep_image/2.png"
+    },
+    "text005": {
+        "type": "text",
+        "content": "3박4일 코스"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19142/OEBPS/nep_image/3.png"
+    },
+    "text006": {
+        "type": "text",
+        "content": "자투리 시간 코스"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19142/OEBPS/nep_image/4.png"
+    }
+}

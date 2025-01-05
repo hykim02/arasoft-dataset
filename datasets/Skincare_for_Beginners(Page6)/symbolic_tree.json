@@ -3,6 +3,14 @@
     "direction": "top2down",
     "children": [
         {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "image001",
+                "image002"
+            ]
+        },
+        {
             "symbol_name": "textbox",
             "direction": "top2down",
             "children": [
@@ -10,38 +18,20 @@
             ]
         },
         {
-            "symbol_name": "layerlist_slider",
-            "direction": "left2right",
+            "symbol_name": "layerlist_tab",
+            "direction": "down",
             "children": [
                 {
                     "symbol_name": "nac_title",
                     "direction": "top2down",
-                    "children": []
-                },
-                {
-                    "symbol_name": "nac_item",
-                    "direction": "top2down",
                     "children": [
-                        "image001",
-                        {
-                            "symbol_name": "textbox",
-                            "direction": "top2down",
-                            "children": [
-                                "text002"
-                            ]
-                        }
+                        "text002"
                     ]
                 },
                 {
-                    "symbol_name": "nac_title",
-                    "direction": "top2down",
-                    "children": []
-                },
-                {
                     "symbol_name": "nac_item",
                     "direction": "top2down",
                     "children": [
-                        "image002",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -54,32 +44,14 @@
                 {
                     "symbol_name": "nac_title",
                     "direction": "top2down",
-                    "children": []
-                },
-                {
-                    "symbol_name": "nac_item",
-                    "direction": "top2down",
                     "children": [
-                        "image003",
-                        {
-                            "symbol_name": "textbox",
-                            "direction": "top2down",
-                            "children": [
-                                "text004"
-                            ]
-                        }
+                        "text004"
                     ]
                 },
                 {
-                    "symbol_name": "nac_title",
-                    "direction": "top2down",
-                    "children": []
-                },
-                {
                     "symbol_name": "nac_item",
                     "direction": "top2down",
                     "children": [
-                        "image004",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -88,21 +60,27 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": [
+                        "text006"
+                    ]
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text007"
+                            ]
+                        }
+                    ]
                 }
-            ]
-        },
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text006"
-            ]
-        },
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text007"
             ]
         }
     ]
