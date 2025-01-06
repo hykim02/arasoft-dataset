@@ -1,0 +1,9 @@
+{
+    "symbol_name": "container",
+    "direction": "left2right",
+    "children": [
+        "image001",
+        "image002",
+        "image003"
+    ]
+}

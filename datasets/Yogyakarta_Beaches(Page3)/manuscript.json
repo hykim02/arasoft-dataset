@@ -1,0 +1,38 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "Apakah Kamu tahu Kota Yogyakarta ?"
+    },
+    "text002": {
+        "type": "text",
+        "content": "Kota Yogyakarta merupakan sebuah kota yang terletak di wilayah Pulau Jawa, tepatnya di Jawa Tengah. Yogyakarta juga biasa disebut dengan Kota Pelajar, Kota Gudeg dan juga Kota Budaya."
+    },
+    "text003": {
+        "type": "text",
+        "content": "Tahu tidak, jika Yogyakarata ini memiliki banyak sekali destinasi wisata favorit? Yuk, kita lihat ada apa saja disana..."
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/tugu.jpg"
+    },
+    "text004": {
+        "type": "text",
+        "content": "Image: Tugu Yogyakarta"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/keraton.jpeg"
+    },
+    "text005": {
+        "type": "text",
+        "content": "Image: Keraton Ngeyogyakarta Hadiningrat"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/plang-jalan-malioboro-by-pnrtourtravel.jpg"
+    },
+    "text006": {
+        "type": "text",
+        "content": "Image: Jalan Malioboro"
+    }
+}

@@ -1,0 +1,514 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "LISTEN AND CHOOSE THE CORRECT ANSWER"
+    },
+    "text002": {
+        "type": "text",
+        "content": "Question 11-13"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text003": {
+        "type": "text",
+        "content": "11. Why does the speaker apologise about the seats?"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q01.png"
+    },
+    "text004": {
+        "type": "text",
+        "content": "They are too small."
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q02.png"
+    },
+    "text005": {
+        "type": "text",
+        "content": "There are not enought of them."
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q03.png"
+    },
+    "text006": {
+        "type": "text",
+        "content": "Some of them are very close together."
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text007": {
+        "type": "text",
+        "content": "12. What does the speaker say about the age of volnteers?"
+    },
+    "image008": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q01.png"
+    },
+    "text008": {
+        "type": "text",
+        "content": "The age of volunteers is less important than other factors."
+    },
+    "image009": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q02.png"
+    },
+    "text009": {
+        "type": "text",
+        "content": "Young volunteers are less reliable than older ones."
+    },
+    "image010": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q03.png"
+    },
+    "text010": {
+        "type": "text",
+        "content": "Most volunteers are about 60 years old."
+    },
+    "image011": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "image012": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text011": {
+        "type": "text",
+        "content": "13. What does the speaker say about training?"
+    },
+    "image013": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q01.png"
+    },
+    "text012": {
+        "type": "text",
+        "content": "It is continuous."
+    },
+    "image014": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q02.png"
+    },
+    "text013": {
+        "type": "text",
+        "content": "It is conducted by a manager."
+    },
+    "image015": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q03.png"
+    },
+    "text014": {
+        "type": "text",
+        "content": "It takes place online"
+    },
+    "text015": {
+        "type": "text",
+        "content": "Question 14-15"
+    },
+    "image016": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "image017": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text016": {
+        "type": "text",
+        "content": "Which TWO issues does the speaker ask the audience to consider before they apply to be volunteers?"
+    },
+    "image018": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q01.png"
+    },
+    "text017": {
+        "type": "text",
+        "content": "their financial situation"
+    },
+    "image019": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q02.png"
+    },
+    "image020": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q03.png"
+    },
+    "text018": {
+        "type": "text",
+        "content": "their ambition"
+    },
+    "image021": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q04.png"
+    },
+    "text019": {
+        "type": "text",
+        "content": "their work experience"
+    },
+    "image022": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q05.png"
+    },
+    "text020": {
+        "type": "text",
+        "content": "their availability"
+    },
+    "text021": {
+        "type": "text",
+        "content": "Question 16-20"
+    },
+    "text022": {
+        "type": "text",
+        "content": "Choose the correct requirement or each activity."
+    },
+    "image023": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "image024": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text023": {
+        "type": "text",
+        "content": "16. Fundraising"
+    },
+    "image025": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q01.png"
+    },
+    "text024": {
+        "type": "text",
+        "content": "experience on stage"
+    },
+    "image026": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q02.png"
+    },
+    "text025": {
+        "type": "text",
+        "content": "original, new idea"
+    },
+    "image027": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q03.png"
+    },
+    "text026": {
+        "type": "text",
+        "content": "parenting skills"
+    },
+    "image028": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q04.png"
+    },
+    "text027": {
+        "type": "text",
+        "content": "an understanding of food and diet"
+    },
+    "image029": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q05.png"
+    },
+    "text028": {
+        "type": "text",
+        "content": "retail experience"
+    },
+    "image030": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q06.png"
+    },
+    "text029": {
+        "type": "text",
+        "content": "a good memory"
+    },
+    "image031": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q07.png"
+    },
+    "image032": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "image033": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text030": {
+        "type": "text",
+        "content": "17. Litter collection"
+    },
+    "image034": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q01.png"
+    },
+    "text031": {
+        "type": "text",
+        "content": "experience on stage"
+    },
+    "image035": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q02.png"
+    },
+    "text032": {
+        "type": "text",
+        "content": "original, new idea"
+    },
+    "image036": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q03.png"
+    },
+    "text033": {
+        "type": "text",
+        "content": "parenting skills"
+    },
+    "image037": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q04.png"
+    },
+    "text034": {
+        "type": "text",
+        "content": "an understanding of food and diet"
+    },
+    "image038": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q05.png"
+    },
+    "text035": {
+        "type": "text",
+        "content": "retail experience"
+    },
+    "image039": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q06.png"
+    },
+    "text036": {
+        "type": "text",
+        "content": "a good memory"
+    },
+    "image040": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q07.png"
+    },
+    "text037": {
+        "type": "text",
+        "content": "a good level of fitness"
+    },
+    "image041": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "image042": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text038": {
+        "type": "text",
+        "content": "18. 'Playmates'"
+    },
+    "image043": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q01.png"
+    },
+    "text039": {
+        "type": "text",
+        "content": "experience on stage"
+    },
+    "image044": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q02.png"
+    },
+    "text040": {
+        "type": "text",
+        "content": "original, new idea"
+    },
+    "image045": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q03.png"
+    },
+    "text041": {
+        "type": "text",
+        "content": "parenting skills"
+    },
+    "image046": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q04.png"
+    },
+    "text042": {
+        "type": "text",
+        "content": "an understanding of food and diet"
+    },
+    "image047": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q05.png"
+    },
+    "text043": {
+        "type": "text",
+        "content": "retail experience"
+    },
+    "image048": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q06.png"
+    },
+    "text044": {
+        "type": "text",
+        "content": "a good memory"
+    },
+    "image049": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q07.png"
+    },
+    "text045": {
+        "type": "text",
+        "content": "a good level of fitness"
+    },
+    "image050": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "image051": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text046": {
+        "type": "text",
+        "content": "19. Story club"
+    },
+    "image052": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q01.png"
+    },
+    "text047": {
+        "type": "text",
+        "content": "experience on stage"
+    },
+    "image053": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q02.png"
+    },
+    "text048": {
+        "type": "text",
+        "content": "original, new idea"
+    },
+    "image054": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q03.png"
+    },
+    "text049": {
+        "type": "text",
+        "content": "parenting skills"
+    },
+    "image055": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q04.png"
+    },
+    "text050": {
+        "type": "text",
+        "content": "an understanding of food and diet"
+    },
+    "image056": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q05.png"
+    },
+    "text051": {
+        "type": "text",
+        "content": "retail experience"
+    },
+    "image057": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q06.png"
+    },
+    "text052": {
+        "type": "text",
+        "content": "a good memory"
+    },
+    "image058": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q07.png"
+    },
+    "text053": {
+        "type": "text",
+        "content": "a good level of fitness"
+    },
+    "image059": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "image060": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text054": {
+        "type": "text",
+        "content": "20. First aid"
+    },
+    "image061": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q01.png"
+    },
+    "text055": {
+        "type": "text",
+        "content": "experience on stage"
+    },
+    "image062": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q02.png"
+    },
+    "text056": {
+        "type": "text",
+        "content": "original, new idea"
+    },
+    "image063": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q03.png"
+    },
+    "text057": {
+        "type": "text",
+        "content": "parenting skills"
+    },
+    "image064": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q04.png"
+    },
+    "text058": {
+        "type": "text",
+        "content": "an understanding of food and diet"
+    },
+    "image065": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q05.png"
+    },
+    "text059": {
+        "type": "text",
+        "content": "retail experience"
+    },
+    "image066": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q06.png"
+    },
+    "text060": {
+        "type": "text",
+        "content": "a good memory"
+    },
+    "image067": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22266/OEBPS/nep_image/q07.png"
+    },
+    "text061": {
+        "type": "text",
+        "content": "a good level of fitness"
+    }
+}

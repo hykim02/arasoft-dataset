@@ -1,0 +1,86 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "IN SURABAYA"
+    },
+    "text002": {
+        "type": "text",
+        "content": "JODER"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3621/OEBPS/nep_image/joder.png"
+    },
+    "text003": {
+        "type": "text",
+        "content": "CEPRREK CEPRUK"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3621/OEBPS/nep_image/gepruk2.png"
+    },
+    "text004": {
+        "type": "text",
+        "content": "IKAN BAKAR KEPUTIH"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3621/OEBPS/nep_image/20200712164617whatsapp-image-2020-07-12-at-44416-pm-16.jpeg"
+    },
+    "text005": {
+        "type": "text",
+        "content": "KODAM"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3621/OEBPS/nep_image/kodam1.png"
+    },
+    "text006": {
+        "type": "text",
+        "content": "NELONGSO"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3621/OEBPS/nep_image/nelongso1.png"
+    },
+    "text007": {
+        "type": "text",
+        "content": "J-ONE"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3621/OEBPS/nep_image/jone1.png"
+    },
+    "text008": {
+        "type": "text",
+        "content": "KANE"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3621/OEBPS/nep_image/kane.png"
+    },
+    "text009": {
+        "type": "text",
+        "content": "TOMBO LUWE"
+    },
+    "image008": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3621/OEBPS/nep_image/tomboluwe.png"
+    },
+    "text010": {
+        "type": "text",
+        "content": "FOOD COURT DELES"
+    },
+    "image009": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3621/OEBPS/nep_image/deles.png"
+    },
+    "text011": {
+        "type": "text",
+        "content": "MR.SUPREK"
+    },
+    "image010": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3621/OEBPS/nep_image/suprek.png"
+    }
+}

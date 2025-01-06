@@ -1,0 +1,948 @@
+{
+    "symbol_name": "container",
+    "direction": "top2down",
+    "children": [
+        {
+            "symbol_name": "textbox",
+            "direction": "top2down",
+            "children": [
+                "text001"
+            ]
+        },
+        {
+            "symbol_name": "layerlist_arccodian",
+            "direction": "top2down",
+            "children": [
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": [
+                        "text002"
+                    ]
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "layerlist_slider",
+                            "direction": "top2down",
+                            "children": [
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "top2down",
+                                    "children": [
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image001",
+                                                "image002"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text003"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image003",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text004"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image004",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text005"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image005",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text006"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "top2down",
+                                    "children": [
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image006",
+                                                "image007"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text007"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image008",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text008"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image009",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text009"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image010",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text010"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "top2down",
+                                    "children": [
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image011",
+                                                "image012"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text011"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image013",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text012"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image014",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text013"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image015",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text014"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": [
+                        "text015"
+                    ]
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "container",
+                            "direction": "top2down",
+                            "children": [
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "left2right",
+                                    "children": [
+                                        "image016",
+                                        "image017"
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "textbox",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "text016"
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "left2right",
+                                    "children": [
+                                        "image018",
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text017"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "left2right",
+                                    "children": [
+                                        "image019",
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "left2right",
+                                    "children": [
+                                        "image020",
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text018"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "left2right",
+                                    "children": [
+                                        "image021",
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text019"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "left2right",
+                                    "children": [
+                                        "image022",
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text020"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": [
+                        "text021"
+                    ]
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text022"
+                            ]
+                        },
+                        {
+                            "symbol_name": "layerlist_slider",
+                            "direction": "top2down",
+                            "children": [
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "top2down",
+                                    "children": [
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image023",
+                                                "image024"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text023"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image025",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text024"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image026",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text025"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image027",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text026"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image028",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text027"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image029",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text028"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image030",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text029"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image031",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "text",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "top2down",
+                                    "children": [
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image032",
+                                                "image033"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text030"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image034",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text031"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image035",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text032"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image036",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text033"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image037",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text034"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image038",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text035"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image039",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text036"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image040",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text037"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "top2down",
+                                    "children": [
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image041",
+                                                "image042"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text038"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image043",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text039"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image044",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text040"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image045",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text041"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image046",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text042"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image047",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text043"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image048",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text044"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image049",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "topdown",
+                                                    "children": [
+                                                        "text045"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "top2down",
+                                    "children": [
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image050",
+                                                "image051"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text046"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image052",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text047"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image053",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text048"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image054",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text049"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image055",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text050"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image056",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text051"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image057",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text052"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image058",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text053"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "container",
+                                    "direction": "top2down",
+                                    "children": [
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image059",
+                                                "image060"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "textbox",
+                                            "direction": "top2down",
+                                            "children": [
+                                                "text054"
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image061",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text055"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image062",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text056"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image063",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text057"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image064",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text058"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image065",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text059"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image066",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text060"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "symbol_name": "container",
+                                            "direction": "left2right",
+                                            "children": [
+                                                "image067",
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text061"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
