@@ -1,0 +1,22 @@
+{
+    "symbol_name": "container",
+    "direction": "top2down",
+    "children": [
+        "image001",
+        {
+            "symbol_name": "textbox",
+            "direction": "top2down",
+            "children": [
+                "text001"
+            ]
+        },
+        "image002",
+        {
+            "symbol_name": "textbox",
+            "direction": "top2down",
+            "children": [
+                "text002"
+            ]
+        }
+    ]
+}

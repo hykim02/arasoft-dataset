@@ -1,0 +1,84 @@
+{
+    "symbol_name": "container",
+    "direction": "top2down",
+    "children": [
+        {
+            "symbol_name": "container",
+            "direction": "top2down",
+            "children": [
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text001"
+                    ]
+                },
+                {
+                    "symbol_name": "textbox",
+                    "direction": "left2right",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text002"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text003"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "container",
+            "direction": "top2down",
+            "children": [
+                "image001",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text004"
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "MAPS",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "layerlist_slider",
+                    "direction": "top2down",
+                    "children": [
+                        "image002",
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text005"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
