@@ -1,0 +1,34 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "2023 진주 남강 유등 축제"
+    },
+    "text002": {
+        "type": "text",
+        "content": "진주성 현장스케치1"
+    },
+    "text003": {
+        "type": "text",
+        "content": "목차로 돌아가기"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/g75rb3j.png"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_181454.jpg"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_181533.jpg"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_181709.jpg"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_181727.jpg"
+    }
+}
