@@ -1,0 +1,238 @@
+{
+    "symbol_name": "container",
+    "direction": "top2down",
+    "children": [
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "image001",
+                "image002",
+                "image003",
+                "image004",
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": [
+                        "text001"
+                    ]
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text002"
+                            ]
+                        },
+                        "image005",
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text003"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text004"
+                            ]
+                        },
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "image006",
+                                "image007"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text005"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text006"
+                            ]
+                        },
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "image008",
+                                "image009"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text007"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text008"
+                            ]
+                        },
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "image010",
+                                "image011"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": [
+                        "text009"
+                    ]
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text010"
+                            ]
+                        },
+                        "image012",
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text011"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text012"
+                            ]
+                        },
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "image013",
+                                "image014"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text013"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text014"
+                            ]
+                        },
+                        {
+                            "symbol_name": "layerlist_slider",
+                            "direction": "left2right",
+                            "children": [
+                                {
+                                    "symbol_name": "nac_title",
+                                    "direction": "top2down",
+                                    "children": []
+                                },
+                                {
+                                    "symbol_name": "nac_item",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "image015"
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "nac_title",
+                                    "direction": "top2down",
+                                    "children": []
+                                },
+                                {
+                                    "symbol_name": "nac_item",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "image016"
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "nac_title",
+                                    "direction": "top2down",
+                                    "children": []
+                                },
+                                {
+                                    "symbol_name": "nac_item",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "image017"
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "nac_title",
+                                    "direction": "top2down",
+                                    "children": []
+                                },
+                                {
+                                    "symbol_name": "nac_item",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "image018"
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "nac_title",
+                                    "direction": "top2down",
+                                    "children": []
+                                },
+                                {
+                                    "symbol_name": "nac_item",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "image019"
+                                    ]
+                                },
+                                {
+                                    "symbol_name": "nac_title",
+                                    "direction": "top2down",
+                                    "children": []
+                                },
+                                {
+                                    "symbol_name": "nac_item",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "image020"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

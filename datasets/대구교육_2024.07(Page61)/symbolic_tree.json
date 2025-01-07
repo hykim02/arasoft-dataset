@@ -11,8 +11,8 @@
         },
         "image001",
         {
-            "symbol_name": "layerlist_slider",
-            "direction": "left2right",
+            "symbol_name": "layerlist_arccodian",
+            "direction": "top2down",
             "children": [
                 {
                     "symbol_name": "nac_title",
