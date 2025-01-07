@@ -1,0 +1,14 @@
+/* common */
+.nw_groupingslider{overflow:hidden;padding:10px;}
+.nw_groupingslider ul{padding:0px;margin:0px;position:relative;width:100%;height:100%;overflow:hidden;}
+.nw_groupingslider li{padding:0px;margin:0px;position:static;width:100%;height:100%;overflow:hidden;list-style:none;top:0px;z-index:1;background-size:contain;background-repeat:no-repeat;background-position:center;}
+.nw_groupingslider > .np{position:relative;width:100%;height:100%;margin:0px;padding:0px;}
+.nw_groupingslider > .np > .nav{position:static;color:#ffffff;width:10px;height:10px;z-index:2;font-size:8pt;cursor:default;background-color:rgba(0,0,0,0.3);line-height:1;padding:0px;}
+.nw_groupingslider > .np > .tree{position:static;white-space:pre-wrap;bottom:0px;right:0px;color:#ffffff;background-color:rgba(0,0,0,0.8);z-index:3;text-align:center;width:100%;height:10%;font-size:14pt;overflow:hidden;cursor:default;word-break:break-all;}
+.nw_groupingslider_clone{position:static;list-style:none;padding:0px 0px 0px 0px;background:rgba(0,0,0,0.7);background-size:contain;background-repeat:no-repeat;background-position:center;margin:0px;}
+
+.nw_groupingslider_default{background-color:transparent}
+.nw_groupingslider_black{background-color:#000000}
+.nw_groupingslider_black > .np > .tree{background-color:#000000}
+.nw_groupingslider_beige{background-color:#c9bc8f}
+.nw_groupingslider_beige > .np > .tree{background-color:#c9bc8f}

@@ -1,0 +1,10 @@
+@import url(./pubtree_style.css);
+@import url(./pubtree_main.css);
+@import url(./pubtree_template.css);
+
+@font-face { font-family: "SB 어그로 Bold"; src: url(../nep_font/font_0000.ttf) format("truetype"); }
+@font-face { font-family: "Pretendard JP ExtraBold"; src: url(../nep_font/font_0001.ttf) format("truetype"); }
+@font-face { font-family: "Pretendard JP Light"; src: url(../nep_font/font_0002.ttf) format("truetype"); }
+@font-face { font-family: "Pretendard JP SemiBold"; src: url(../nep_font/font_0003.ttf) format("truetype"); }
+@font-face { font-family: "Pretendard JP Black"; src: url(../nep_font/font_0004.ttf) format("truetype"); }
+@font-face { font-family: "Pretendard JP Medium"; src: url(../nep_font/font_0005.ttf) format("truetype"); }

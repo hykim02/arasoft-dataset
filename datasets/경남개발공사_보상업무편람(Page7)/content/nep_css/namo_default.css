@@ -1,0 +1,20 @@
+@import url(./pubtree_main.css);
+@import url(./pubtree_style.css);
+@import url(./pubtree_template.css);
+
+@font-face { font-family: "G마켓 산스 Bold"; src: url(../nep_font/font_0000.woff) format("woff"), url(../nep_font/font_0000.otf) format("opentype"); }
+@font-face { font-family: "G마켓 산스 Medium"; src: url(../nep_font/font_0001.woff) format("woff"), url(../nep_font/font_0001.otf) format("opentype"); }
+@font-face { font-family: "고도 B"; src: url(../nep_font/font_0002.woff) format("woff"), url(../nep_font/font_0002.ttf) format("truetype"); }
+
+@font-face { font-family: "Pretendard Light"; src: url(../nep_font/font_0004.woff) format("woff"), url(../nep_font/font_0004.otf) format("opentype"); }
+@font-face { font-family: "Pretendard ExtraBold"; src: url(../nep_font/font_0005.woff) format("woff"), url(../nep_font/font_0005.otf) format("opentype"); }
+@font-face { font-family: "Pretendard SemiBold"; src: url(../nep_font/font_0006.woff) format("woff"), url(../nep_font/font_0006.otf) format("opentype"); }
+
+@font-face { font-family: "세방고딕 Bold"; src: url(../nep_font/font_0001.woff) format("woff"), url(../nep_font/font_0001.ttf) format("truetype"); }
+@font-face { font-family: "G마켓 산스 Medium"; src: url(../nep_font/font_0002.woff) format("woff"), url(../nep_font/font_0002.otf) format("opentype"); }
+@font-face { font-family: "Pretendard Medium"; src: url(../nep_font/font_0003.woff) format("woff"), url(../nep_font/font_0003.otf) format("opentype"); }
+@font-face { font-family: "G마켓 산스 Bold"; src: url(../nep_font/font_0005.woff) format("woff"), url(../nep_font/font_0005.otf) format("opentype"); }
+@font-face { font-family: "G마켓 산스 Light"; src: url(../nep_font/font_0006.woff) format("woff"), url(../nep_font/font_0006.otf) format("opentype"); }
+@font-face { font-family: "고도 B"; src: url(../nep_font/font_0007.woff) format("woff"), url(../nep_font/font_0007.otf) format("opentype"); }
+@font-face { font-family: "Pretendard ExtraBold"; src: url(../nep_font/font_0008.woff) format("woff"), url(../nep_font/font_0008.otf) format("opentype"); }
+@font-face { font-family: "Pretendard SemiBold"; src: url(../nep_font/font_0009.woff) format("woff"), url(../nep_font/font_0009.otf) format("opentype"); }
