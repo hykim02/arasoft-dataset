@@ -1,0 +1,42 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "Platform \r\n\r\nIklan Internet"
+    },
+    "text002": {
+        "type": "text",
+        "content": "Self Service Ads"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19606/OEBPS/nep_image/selfserviceads1.png"
+    },
+    "text003": {
+        "type": "text",
+        "content": "Image Advertiser hanya membayar jika ada yang mengklik iklan tersebut. Jika tidak, Anda tidak wajib membayar. Beriklan dengan cara ini akan menghemat kendali atas anggaran iklan yang ada"
+    },
+    "text004": {
+        "type": "text",
+        "content": "Direct Ads"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19606/OEBPS/nep_image/directads1.png"
+    },
+    "text005": {
+        "type": "text",
+        "content": "Image Direct mail terdiri dari beberapa jenis, antara lain teks, gambar, dan banner"
+    },
+    "text006": {
+        "type": "text",
+        "content": "Soc-Med Ads"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19606/OEBPS/nep_image/socmedads1.png"
+    },
+    "text007": {
+        "type": "text",
+        "content": "Image Iklan yang ditampilkan kepada pengguna (calon pembeli) berdasarkan usia, wilayah, hobi, dll. "
+    }
+}

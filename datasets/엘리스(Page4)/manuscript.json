@@ -1,0 +1,86 @@
+{
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/m7j.png?raw=true"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/lwj.png?raw=true"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/IT_td00870000819_l2.jpg?raw=true"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/image2.png?raw=true"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/5n.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "▮ 기업"
+    },
+    "text002": {
+        "type": "text",
+        "content": "한국의 상위 20개 기업 중 19개 도입"
+    },
+    "text003": {
+        "type": "text",
+        "content": "• 디지털 전환 기술 향상 (인사 개발) \r\n\r\n• 데이터 기반 디지털 전환 프로젝트 지원\r\n\r\n• 코딩 테스트를 통한 채용 강화"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/pg5l-9.png?raw=true"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/pg5l-10.png?raw=true"
+    },
+    "image008": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/pg5l-2.png?raw=true"
+    },
+    "text004": {
+        "type": "text",
+        "content": "사내 데이터를 활용해 현업의 문제를 해결하는 엘리스 PBL(Project Based Learning)을 경험해보세요. 이미 수많은 대기업들이 엘리스와 함께 해당 기업 \r\n전용 프로젝트, 실습 콘텐츠로 임직원을 교육하고 있습니다. "
+    },
+    "text005": {
+        "type": "text",
+        "content": "HR 매니저"
+    },
+    "image009": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/pg5l-3.png?raw=true"
+    },
+    "text006": {
+        "type": "text",
+        "content": "객관적인 데이터에 기반한 학습 성취도 예측\r\n\r\n수강생의 데이터를 기반으로 학습 패턴을 분석합니다. 엘리스만의 정량화 시스템 EPS를 통해 높은 정확도로 성취도를 예측합니다."
+    },
+    "text007": {
+        "type": "text",
+        "content": "직원"
+    },
+    "image010": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/43.png?raw=true"
+    },
+    "text008": {
+        "type": "text",
+        "content": "50개 이상의 맞춤형 커리큘럼\r\n\r\n디지털 및 데이터 기술의 다양한 수준과\r\n\r\n요구를 충족시킵니다.  \r\n\r\n\r\n\r\n실습 학습\r\n\r\n고객 데이터를 효과적인 직원 교육\r\n\r\n콘텐츠로 변환합니다."
+    },
+    "text009": {
+        "type": "text",
+        "content": "임원"
+    },
+    "image011": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/44.png?raw=true"
+    },
+    "text010": {
+        "type": "text",
+        "content": "임직원 역량•수준에 맞춘 교과 설계\r\n\r\n임직원의 역량을 진단하고 그 결과에 맞춰 \r\n\r\n사전 교육 및 프로젝트 난이도를 조절합니다."
+    }
+}

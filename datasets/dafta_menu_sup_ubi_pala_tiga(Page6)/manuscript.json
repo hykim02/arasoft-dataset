@@ -1,0 +1,66 @@
+{
+    "image001": {
+        "type": "image",
+        "content": null
+    },
+    "image002": {
+        "type": "image",
+        "content": null
+    },
+    "text001": {
+        "type": "text",
+        "content": "SUP UBI IGA VS SUMSUM RP 40.000"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19118/OEBPS/nep_image/sububi14.jpg"
+    },
+    "text002": {
+        "type": "text",
+        "content": "SUP UBI IGA+BAKSO RP 35.000"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19118/OEBPS/nep_image/sububi23.jpg"
+    },
+    "text003": {
+        "type": "text",
+        "content": "SUP UBI SUMSUM RP 25.000"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19118/OEBPS/nep_image/4.jpg"
+    },
+    "text004": {
+        "type": "text",
+        "content": "SUP UBI BIASA RP 15.000"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19118/OEBPS/nep_image/6.jpg"
+    },
+    "text005": {
+        "type": "text",
+        "content": "SUP UBI IGA RP 30.000"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19118/OEBPS/nep_image/31.jpg"
+    },
+    "text006": {
+        "type": "text",
+        "content": "BARPNGKO RP 5.000"
+    },
+    "image008": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19118/OEBPS/nep_image/barongko.jpg"
+    },
+    "text007": {
+        "type": "text",
+        "content": "REMPEYE RP 5.000"
+    },
+    "image009": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19118/OEBPS/nep_image/rempeyek1.jpg"
+    }
+}

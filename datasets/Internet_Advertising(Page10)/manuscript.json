@@ -1,0 +1,14 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "RICH MEDIA : POP UP ADS"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19606/OEBPS/nep_image/popupads.png"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19606/OEBPS/nep_image/popupiklan.jpg"
+    }
+}
