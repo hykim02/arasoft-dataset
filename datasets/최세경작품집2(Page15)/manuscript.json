@@ -1,0 +1,42 @@
+{
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page15)/image/9tmvhbr73.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "그림을 눌러주세요"
+    },
+    "text002": {
+        "type": "text",
+        "content": "목차로 돌아가기"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page15)/image/g7br7.png?raw=true"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page15)/image/2021-1-Relationship-20210007-2021.jpg?raw=true"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page15)/image/2021-2-Relationship-20210005-2021.jpg?raw=true"
+    },
+    "text003": {
+        "type": "text",
+        "content": "2021-1 Relationship-20210007  16.5x15  acrylics, ink on canvas cloth"
+    },
+    "text004": {
+        "type": "text",
+        "content": "2021-2 Relationship-20210005  16.5×15.5  acrylics, ink on canvas cloth"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page15)/image/2021-3-Relationship-exchange-2021.jpg?raw=true"
+    },
+    "text005": {
+        "type": "text",
+        "content": "2021-3 Relationship-교류(exchange)  40×100  acrylics, pen on canvas penel"
+    }
+}

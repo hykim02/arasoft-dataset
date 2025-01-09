@@ -1,0 +1,50 @@
+{
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page25)/image/9tmvhbr73.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "그림을 눌러주세요"
+    },
+    "text002": {
+        "type": "text",
+        "content": "목차로 돌아가기"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page25)/image/g7br7.png?raw=true"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page25)/image/pic.PNG?raw=true"
+    },
+    "text003": {
+        "type": "text",
+        "content": "2019-6 치유의방-비워내기  400×350×300 (설치작업)  acrylics paints on PVC, led, installation"
+    },
+    "text004": {
+        "type": "text",
+        "content": "2019-7 치유의방-비워내기(관객체험)"
+    },
+    "text005": {
+        "type": "text",
+        "content": "2019-8 치유의방-비워내기(관객체험)"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page25)/image/2019-9--.jpg?raw=true"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page25)/image/2019-10--.jpg?raw=true"
+    },
+    "text006": {
+        "type": "text",
+        "content": "2019-9 에고의방(내부작업)  (350×120)3piece 중 부분  acrylics paints dripping on PVC"
+    },
+    "text007": {
+        "type": "text",
+        "content": "2019-10 에고의방(내부작업)  (350×120)3piec 중 부분  acrylics paints dripping on PVC"
+    }
+}

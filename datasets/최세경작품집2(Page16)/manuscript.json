@@ -1,0 +1,66 @@
+{
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page16)/image/9tmvhbr73.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "그림을 눌러주세요"
+    },
+    "text002": {
+        "type": "text",
+        "content": "목차로 돌아가기"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page16)/image/g7br7.png?raw=true"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page16)/image/2022-1-Relationship-embrace-.jpg?raw=true"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page16)/image/2022-4-Relationship--.jpg?raw=true"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page16)/image/2022-5-Relationship--.jpg?raw=true"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page16)/image/2022-6-Relationship-us002-.jpg?raw=true"
+    },
+    "text003": {
+        "type": "text",
+        "content": "2022-1 Relationship-embrace  18×15  acrylics, ink on canvas cloth"
+    },
+    "text004": {
+        "type": "text",
+        "content": "2022-4 Relationship-이중성  17×17  acrylics, ink on canvas cloth"
+    },
+    "text005": {
+        "type": "text",
+        "content": "2022-5 Relationship-깨어있을것  30×30  acrylics,goldink on canvas"
+    },
+    "text006": {
+        "type": "text",
+        "content": "2022-6 Relationship-us002  30×30  acrylics,gold,ink on canvas"
+    },
+    "text007": {
+        "type": "text",
+        "content": "2022-2 몰입-inside20220001  36×26  ink on paper"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page16)/image/2022-2--inside20220001-2022.jpg?raw=true"
+    },
+    "text008": {
+        "type": "text",
+        "content": "2022-3 몰입-inside20220002  36×26"
+    },
+    "image008": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page16)/image/2022-3--inside20220002-2022.jpg?raw=true"
+    }
+}

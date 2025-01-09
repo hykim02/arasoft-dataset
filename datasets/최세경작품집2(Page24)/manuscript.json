@@ -1,0 +1,58 @@
+{
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page24)/image/9tmvhbr73.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "그림을 눌러주세요"
+    },
+    "text002": {
+        "type": "text",
+        "content": "목차로 돌아가기"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page24)/image/g7br7.png?raw=true"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page24)/image/2017-4---001-.jpg?raw=true"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page24)/image/2017-5--.jpg?raw=true"
+    },
+    "text003": {
+        "type": "text",
+        "content": "2017-4 투영된 에고-001  45×45×13  acrylicbox, led조명"
+    },
+    "text004": {
+        "type": "text",
+        "content": "2017-5 투영된에고  200×90  acrylicbox, led조명"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page24)/image/2017-7-1-1.jpg?raw=true"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page24)/image/2017-8-2-2017.jpg?raw=true"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page24)/image/2017-6-Ego---.jpg?raw=true"
+    },
+    "text005": {
+        "type": "text",
+        "content": "2017-7 무경계프로젝트1  40×100  수집과 설치"
+    },
+    "text006": {
+        "type": "text",
+        "content": "2017-8 무경계프로젝트2  40.9×31.8  수집과 설치"
+    },
+    "text007": {
+        "type": "text",
+        "content": "2017-6 Ego-드러난 변주  34.5×45  나무박스, 아크릴물감"
+    }
+}

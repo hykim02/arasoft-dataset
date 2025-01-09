@@ -1,0 +1,58 @@
+{
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/9tmvhbr73.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "그림을 눌러주세요"
+    },
+    "text002": {
+        "type": "text",
+        "content": "목차로 돌아가기"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/g7br7.png?raw=true"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/2015-2-Human-Life---.jpg?raw=true"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/2015-3-Inside-assemble-1.jpg?raw=true"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/2015-3-1-Inside-assemble2.jpg?raw=true"
+    },
+    "text003": {
+        "type": "text",
+        "content": "2015-2 Human Life-토끼굴에 빠지다 150×300 pen on paper"
+    },
+    "text004": {
+        "type": "text",
+        "content": "2015-3 Inside-assemble 52×92 pen on paper"
+    },
+    "text005": {
+        "type": "text",
+        "content": "2015-3-1 Inside-assemble(부분상세컷)"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/2015-4-Thought-.jpg?raw=true"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/2015-5--.jpg?raw=true"
+    },
+    "text006": {
+        "type": "text",
+        "content": "2015-4 Thought 35×45 pen on paper"
+    },
+    "text007": {
+        "type": "text",
+        "content": "2015-5 토끼굴 35×45 pen on paper"
+    }
+}
