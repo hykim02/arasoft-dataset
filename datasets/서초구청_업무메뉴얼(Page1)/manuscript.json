@@ -1,0 +1,98 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "응답소 현장민원 관리"
+    },
+    "image001": {
+        "type": "image",
+        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC/content/nep_image/contents-1.png"
+    },
+    "image002": {
+        "type": "image",
+        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC/content/nep_image/contents-2.png"
+    },
+    "text002": {
+        "type": "text",
+        "content": "담당부서 l 감사담당관    l 담당팀 l 순찰팀    l 관련부서 l 전부서, 전동"
+    },
+    "image003": {
+        "type": "image",
+        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC/content/nep_image/tab_icon_1.png"
+    },
+    "text003": {
+        "type": "text",
+        "content": "업무개요"
+    },
+    "text004": {
+        "type": "text",
+        "content": "- 응답소 현장민원 처리부서 지정 및 처리현황 분석"
+    },
+    "text005": {
+        "type": "text",
+        "content": "업무 프로세스"
+    },
+    "text006": {
+        "type": "text",
+        "content": "<<응답소 현장민원>>"
+    },
+    "image004": {
+        "type": "image",
+        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC/content/nep_image/STEP-.png"
+    },
+    "text007": {
+        "type": "text",
+        "content": "응답소 현장민원 접수 확인"
+    },
+    "text008": {
+        "type": "text",
+        "content": "-  응답소(120)에서 서초구 업무담당자에게 배분한 현장민원 확인(새올을 통해 응답소 프로그램 접속, 수시 확인) ※ 응답소 기관관리자 권한 필요(권한 요청은 서울시 민원담당관으로 공문 제출)"
+    },
+    "image005": {
+        "type": "image",
+        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC/content/nep_image/STEP-2.png"
+    },
+    "text009": {
+        "type": "text",
+        "content": "응답소 현장민원 처리 확인"
+    },
+    "text010": {
+        "type": "text",
+        "content": "- 처리 지연 시 : 담당자 처리 독려\r\n\r\n- 담당자 재지정 요청 시\r\n\r\n   ∘ 담당자 재지정 : 민원업무 → 민원회수/처리자 재분배 → 민원 접수번호 입력 후 저장(기관 재지정은 서초구 외 다른 기관 이송)\r\n\r\n   ∘ 협조부서 요청 : 응답소 협조요청 관리 → 민원 접수번호 입력, 조회 → 민원 협조부서 선택 후 저장\r\n\r\n\r\n\r\n※ 현장민원의 경우 담당자 전결로 처리 (전자결재 생략)"
+    },
+    "text011": {
+        "type": "text",
+        "content": "관련 법규"
+    },
+    "image006": {
+        "type": "image",
+        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC/content/nep_image/icon-2.png"
+    },
+    "text012": {
+        "type": "text",
+        "content": "서울특별시 메시지민원 처리 규정"
+    },
+    "text013": {
+        "type": "text",
+        "content": "https://elis.go.kr (자치법규정보시스템 > 자치법규 본문) "
+    },
+    "image007": {
+        "type": "image",
+        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC/content/nep_image/55pj21.png"
+    },
+    "text014": {
+        "type": "text",
+        "content": "관련업무 및 유관기관 현황"
+    },
+    "image008": {
+        "type": "image",
+        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC/content/nep_image/icon-2.png"
+    },
+    "text015": {
+        "type": "text",
+        "content": " 응답소 - 서울특별시 민원제안 통합관리시스템 "
+    },
+    "image009": {
+        "type": "image",
+        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC/content/nep_image/55pj21.png"
+    }
+}

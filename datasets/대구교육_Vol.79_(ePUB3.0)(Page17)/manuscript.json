@@ -1,0 +1,54 @@
+{
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/daegu.png"
+    },
+    "text001": {
+        "type": "text",
+        "content": "목차 페이지로 이동"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image10.png"
+    },
+    "text002": {
+        "type": "text",
+        "content": "박희정  효성여자고등학교 교사"
+    },
+    "text003": {
+        "type": "text",
+        "content": "① 꼭 알아야 하는 학습 내용을 자신의 것이 되도록 깊게 학습하기\r\n\r\n② 프로젝트처럼 여러 교과에서 배운 내용을 서로 연결하고 통합하여 문제 \r\n\r\n해결하기\r\n\r\n③ 생활과 관련지어 학습 내용을 받아들이고 배운 내용을 생활에 적용하기\r\n\r\n④ 스스로 자신이 어떻게 배우고 문제를 해결하는지 학습 과정 돌아보고 \r\n\r\n생각하기"
+    },
+    "text004": {
+        "type": "text",
+        "content": "질문 1"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image97.png"
+    },
+    "text005": {
+        "type": "text",
+        "content": "질문 2"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image100.png"
+    },
+    "text006": {
+        "type": "text",
+        "content": "질문 3"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image101.png"
+    },
+    "text007": {
+        "type": "text",
+        "content": "질문 4"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image102.png"
+    }
+}
