@@ -4,7 +4,7 @@
     "children": [
         {
             "symbol_name": "container",
-            "direction": "leftright",
+            "direction": "left2right",
             "children": [
                 "image001",
                 {
