@@ -12,23 +12,14 @@
                     "children": [
                         "text001"
                     ]
-                },
-                "image001",
-                "image002"
+                }
             ]
         },
         {
             "symbol_name": "textbox",
             "direction": "top2down",
             "children": [
-                "text002"
-            ]
-        },
-        "image003",
-        {
-            "symbol_name": "layerlist_arccodian",
-            "direction": "top2down",
-            "children": [
+                "text002",
                 {
                     "symbol_name": "nac_title",
                     "direction": "top2down",
@@ -71,7 +62,6 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image004",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -92,7 +82,6 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image005",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -126,7 +115,6 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image006",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -146,8 +134,7 @@
                                     "children": [
                                         "text013"
                                     ]
-                                },
-                                "image007"
+                                }
                             ]
                         }
                     ]
@@ -167,15 +154,13 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image008",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
                                     "children": [
                                         "text015"
                                     ]
-                                },
-                                "image009"
+                                }
                             ]
                         }
                     ]
