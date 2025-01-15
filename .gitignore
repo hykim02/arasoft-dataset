@@ -1,3 +1,5 @@
 /.venv
 /output
 dataset.csv
+credentials.json
+.env
