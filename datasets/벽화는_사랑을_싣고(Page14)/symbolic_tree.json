@@ -21,7 +21,13 @@
                     "children": [
                         "text002"
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "symbol_name": "textbox",
+            "direction": "top2down",
+            "children": [
                 "text003"
             ]
         },
