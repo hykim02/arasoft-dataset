@@ -2,26 +2,26 @@
     "symbol_name": "container",
     "direction": "top2down",
     "children": [
-        "image001",
         {
-            "symbol_name": "textbox",
-            "direction": "top2down",
+            "symbol_name": "container",
+            "direction": "leftright",
             "children": [
-                "text001"
-            ]
-        },
-        "image002",
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text002"
-            ]
-        },
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
+                "image001",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text001"
+                    ]
+                },
+                "image002",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text002"
+                    ]
+                },
                 "text003"
             ]
         },
