@@ -1,22 +1,18 @@
 {
-    "symbol_name": "container",
-    "direction": "top2down",
-    "children": [
-        "image001",
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text001"
-            ]
-        },
-        "image002",
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text002"
-            ]
-        }
-    ]
+  "symbol_name": "container",
+  "direction": "top2down",
+  "children": [
+    "icon001",
+    {
+      "symbol_name": "textbox",
+      "direction": "top2down",
+      "children": ["text001"]
+    },
+    "image001",
+    {
+      "symbol_name": "textbox",
+      "direction": "top2down",
+      "children": ["text002"]
+    }
+  ]
 }
