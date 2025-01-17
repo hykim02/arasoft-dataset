@@ -11,13 +11,19 @@
         },
         {
             "symbol_name": "layerlist_tab",
-            "direction": "down",
+            "direction": "top",
             "children": [
                 {
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "text002"
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text002"
+                            ]
+                        }
                     ]
                 },
                 {

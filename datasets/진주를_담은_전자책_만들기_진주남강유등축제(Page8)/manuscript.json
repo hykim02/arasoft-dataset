@@ -11,8 +11,8 @@
         "type": "text",
         "content": "목차로 돌아가기"
     },
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/g75rb3j.png"
     },
     "text004": {
@@ -23,43 +23,43 @@
         "type": "text",
         "content": " [힐링존] - 진주성 둘레길"
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_1826077.jpg"
     },
-    "image003": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_1850291.jpg"
     },
-    "image004": {
+    "image003": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_1853521.jpg"
     },
-    "image005": {
+    "image004": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_1856151.jpg"
     },
-    "image006": {
+    "image005": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/3mb_31.jpg"
     },
-    "image007": {
+    "image006": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_1903471.jpg"
     },
-    "image008": {
+    "image007": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_1851322.jpg"
     },
-    "image009": {
+    "image008": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/am1.jpg"
     },
-    "image010": {
+    "image009": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/82.jpg"
     },
-    "image011": {
+    "image010": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/73_Edit20231016155753567.jpg"
     },
@@ -67,19 +67,19 @@
         "type": "text",
         "content": " [하모존] - 진주성 공북문 주변"
     },
-    "image012": {
+    "image011": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_182031.jpg"
     },
-    "image013": {
+    "image012": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_181947.jpg"
     },
-    "image014": {
+    "image013": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_181913.jpg"
     },
-    "image015": {
+    "image014": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_182221.jpg"
     },
@@ -87,35 +87,35 @@
         "type": "text",
         "content": " [주제존] - 진주성 김시민장군 동상 앞"
     },
-    "image016": {
+    "image015": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_191147.jpg"
     },
-    "image017": {
+    "image016": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_192015.jpg"
     },
-    "image018": {
+    "image017": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_191214.jpg"
     },
-    "image019": {
+    "image018": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_191704.jpg"
     },
-    "image020": {
+    "image019": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_191305.jpg"
     },
-    "image021": {
+    "image020": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_191429.jpg"
     },
-    "image022": {
+    "image021": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_182440.jpg"
     },
-    "image023": {
+    "image022": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_183324.jpg"
     },
@@ -123,27 +123,27 @@
         "type": "text",
         "content": " [K-기업가존] - 진주성 '우물복원'주변"
     },
-    "image024": {
+    "image023": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_190655_Edit20231016022806404.jpg"
     },
-    "image025": {
+    "image024": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_190643.jpg"
     },
-    "image026": {
+    "image025": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_1905471.jpg"
     },
-    "image027": {
+    "image026": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_190856.jpg"
     },
-    "image028": {
+    "image027": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_183040.jpg"
     },
-    "image029": {
+    "image028": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_195814.jpg"
     },
@@ -151,23 +151,23 @@
         "type": "text",
         "content": " [역사존] - 진주성 영남포정사 주변"
     },
-    "image030": {
+    "image029": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_9.jpg"
     },
-    "image031": {
+    "image030": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/jl.jpg"
     },
-    "image032": {
+    "image031": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_184629.jpg"
     },
-    "image033": {
+    "image032": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231014_184548.jpg"
     },
-    "image034": {
+    "image033": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/kx8v.jpg"
     },
@@ -175,35 +175,35 @@
         "type": "text",
         "content": " [휴식존] - 진주성 야외공연장 주변"
     },
-    "image035": {
+    "image034": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_10.jpg"
     },
-    "image036": {
+    "image035": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_1839422.jpg"
     },
-    "image037": {
+    "image036": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_11.jpg"
     },
-    "image038": {
+    "image037": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_12.jpg"
     },
-    "image039": {
+    "image038": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_1812131.jpg"
     },
-    "image040": {
+    "image039": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_1816301.jpg"
     },
-    "image041": {
+    "image040": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_13.jpg"
     },
-    "image042": {
+    "image041": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_181322.jpg"
     }

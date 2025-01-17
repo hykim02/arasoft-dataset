@@ -1,22 +1,22 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/m7j.png?raw=true"
     },
-    "image002": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/lwj.png?raw=true"
     },
-    "image003": {
-        "type": "image",
+    "icon003": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/IT_td00870000819_l2.jpg?raw=true"
     },
-    "image004": {
-        "type": "image",
+    "icon004": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/image2.png?raw=true"
     },
-    "image005": {
-        "type": "image",
+    "icon005": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/5n.png?raw=true"
     },
     "text001": {
@@ -31,15 +31,15 @@
         "type": "text",
         "content": "• 디지털 전환 기술 향상 (인사 개발) \r\n\r\n• 데이터 기반 디지털 전환 프로젝트 지원\r\n\r\n• 코딩 테스트를 통한 채용 강화"
     },
-    "image006": {
+    "image001": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/pg5l-9.png?raw=true"
     },
-    "image007": {
+    "image002": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/pg5l-10.png?raw=true"
     },
-    "image008": {
+    "image003": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/pg5l-2.png?raw=true"
     },
@@ -51,7 +51,7 @@
         "type": "text",
         "content": "HR 매니저"
     },
-    "image009": {
+    "image004": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/pg5l-3.png?raw=true"
     },
@@ -63,7 +63,7 @@
         "type": "text",
         "content": "직원"
     },
-    "image010": {
+    "image005": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/43.png?raw=true"
     },
@@ -75,7 +75,7 @@
         "type": "text",
         "content": "임원"
     },
-    "image011": {
+    "image006": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page4)/image/44.png?raw=true"
     },

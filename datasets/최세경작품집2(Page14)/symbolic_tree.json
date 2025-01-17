@@ -13,7 +13,7 @@
                         "text001"
                     ]
                 },
-                "image001"
+                "icon001"
             ]
         },
         {
@@ -24,7 +24,7 @@
                     "symbol_name": "container",
                     "direction": "top2down",
                     "children": [
-                        "image002",
+                        "image001",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -38,7 +38,7 @@
                     "symbol_name": "container",
                     "direction": "top2down",
                     "children": [
-                        "image003",
+                        "icon002",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -54,9 +54,9 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image004",
-                "image005",
-                "image006"
+                "image002",
+                "image003",
+                "image004"
             ]
         },
         {
@@ -80,7 +80,7 @@
                 "text006"
             ]
         },
-        "image007",
+        "image005",
         {
             "symbol_name": "textbox",
             "direction": "top2down",

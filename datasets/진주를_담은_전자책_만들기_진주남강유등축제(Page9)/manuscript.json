@@ -11,24 +11,28 @@
         "type": "text",
         "content": "목차로 돌아가기"
     },
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/g75rb3j.png"
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_181454.jpg"
     },
-    "image003": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_181533.jpg"
     },
-    "image004": {
+    "image003": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_181709.jpg"
     },
-    "image005": {
+    "image004": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/20231008_181727.jpg"
+    },
+    "text004": {
+        "type": "text",
+        "content": "\r\n촉석루가 있는 진주성 안에\r\n\r\n다양한 주제의 유등들이 눈을 사로 잡습니다.\r\n\r\n길을 따라 걷다 보면 옛 선조들의 일상생활과 전통미를 잘 표현한 유등들을 감상할 수 있습니다.\r\n\r\n"
     }
 }

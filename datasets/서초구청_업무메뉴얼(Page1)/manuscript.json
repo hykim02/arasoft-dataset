@@ -3,9 +3,21 @@
         "type": "text",
         "content": "응답소 현장민원 관리"
     },
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD_%EC%97%85%EB%AC%B4%EB%A9%94%EB%89%B4%EC%96%BC(Page1)/image/img.png?raw=true"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD_%EC%97%85%EB%AC%B4%EB%A9%94%EB%89%B4%EC%96%BC(Page1)/image/img2.png?raw=true"
+    },
     "text002": {
         "type": "text",
         "content": "담당부서 l 감사담당관    l 담당팀 l 순찰팀    l 관련부서 l 전부서, 전동"
+    },
+    "icon003": {
+        "type": "icon",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD_%EC%97%85%EB%AC%B4%EB%A9%94%EB%89%B4%EC%96%BC(Page1)/image/tip.png?raw=true"
     },
     "text003": {
         "type": "text",
@@ -21,7 +33,11 @@
     },
     "text006": {
         "type": "text",
-        "content": "<<응답소 현장민원>>"
+        "content": "응답소 현장민원"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD_%EC%97%85%EB%AC%B4%EB%A9%94%EB%89%B4%EC%96%BC(Page1)/image/step1.png?raw=true"
     },
     "text007": {
         "type": "text",
@@ -30,6 +46,10 @@
     "text008": {
         "type": "text",
         "content": "-  응답소(120)에서 서초구 업무담당자에게 배분한 현장민원 확인(새올을 통해 응답소 프로그램 접속, 수시 확인) ※ 응답소 기관관리자 권한 필요(권한 요청은 서울시 민원담당관으로 공문 제출)"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD_%EC%97%85%EB%AC%B4%EB%A9%94%EB%89%B4%EC%96%BC(Page1)/image/step2.png?raw=true"
     },
     "text009": {
         "type": "text",
@@ -43,20 +63,36 @@
         "type": "text",
         "content": "관련 법규"
     },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD_%EC%97%85%EB%AC%B4%EB%A9%94%EB%89%B4%EC%96%BC(Page1)/image/setting.png?raw=true"
+    },
     "text012": {
         "type": "text",
         "content": "서울특별시 메시지민원 처리 규정"
     },
     "text013": {
         "type": "text",
-        "content": "https://elis.go.kr (자치법규정보시스템 > 자치법규 본문) "
+        "content": "https://elis.go.kr (자치법규정보시스템  자치법규 본문) "
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD_%EC%97%85%EB%AC%B4%EB%A9%94%EB%89%B4%EC%96%BC(Page1)/image/view.png?raw=true"
     },
     "text014": {
         "type": "text",
         "content": "관련업무 및 유관기관 현황"
     },
+    "image005": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD_%EC%97%85%EB%AC%B4%EB%A9%94%EB%89%B4%EC%96%BC(Page1)/image/setting.png?raw=true"
+    },
     "text015": {
         "type": "text",
         "content": " 응답소 - 서울특별시 민원제안 통합관리시스템 "
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD_%EC%97%85%EB%AC%B4%EB%A9%94%EB%89%B4%EC%96%BC(Page1)/image/view.png?raw=true"
     }
 }

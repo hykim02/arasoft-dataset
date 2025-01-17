@@ -7,8 +7,8 @@
         "type": "text",
         "content": "목차로 돌아가기"
     },
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/g75rb3j.png"
     },
     "text003": {
@@ -19,7 +19,7 @@
         "type": "text",
         "content": "진주하면 유등, 하모? \r\n\r\n진주의 또 다른 자랑거리\r\n\r\n실크!!"
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/20502/OEBPS/nep_image/fbnd.png"
     },

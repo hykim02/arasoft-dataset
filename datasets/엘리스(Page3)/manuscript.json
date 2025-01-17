@@ -1,22 +1,22 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/m7j.png?raw=true"
     },
-    "image002": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/lwj.png?raw=true"
     },
-    "image003": {
-        "type": "image",
+    "icon003": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/IT_td00870000819_l2.jpg?raw=true"
     },
-    "image004": {
-        "type": "image",
+    "icon004": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/image2.png?raw=true"
     },
-    "image005": {
-        "type": "image",
+    "icon005": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/5n.png?raw=true"
     },
     "text001": {
@@ -31,15 +31,15 @@
         "type": "text",
         "content": "고객"
     },
-    "image006": {
+    "image001": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/37.png?raw=true"
     },
-    "image007": {
+    "image002": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/lt31qp.png?raw=true"
     },
-    "image008": {
+    "image003": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/lt31qp2.png?raw=true"
     },
@@ -47,19 +47,19 @@
         "type": "text",
         "content": "사용 사례"
     },
-    "image009": {
+    "image004": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/image1.png?raw=true"
     },
-    "image010": {
+    "image005": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/pg5l.png?raw=true"
     },
-    "image011": {
+    "image006": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/image7.png?raw=true"
     },
-    "image012": {
+    "image007": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/image8.png?raw=true"
     },
@@ -75,7 +75,7 @@
         "type": "text",
         "content": "하나의 대시보드에 모든 학습 데이터 수집\r\n\r\n체계적인 히스토리 확인 가능\r\n\r\n부정행위 걱정 없는 역량 테스트 솔루션"
     },
-    "image013": {
+    "image008": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/vh47.png?raw=true"
     },
@@ -83,15 +83,15 @@
         "type": "text",
         "content": "자동 채점으로 실시간 피드백 제공\n\n콘텐츠 제작 및 라이브러리 등록하기\n\n학습자료 기반 퀴즈 자동 생성"
     },
-    "image014": {
+    "image009": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/pg5l-32.png?raw=true"
     },
-    "image015": {
+    "image010": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/vh45.png?raw=true"
     },
-    "image016": {
+    "image011": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/pg5l-33.png?raw=true"
     },
@@ -103,23 +103,23 @@
         "type": "text",
         "content": "복잡한 환경세팅과 VOD 중심 강의 대신 웹 기반 실습환경으로 오로지 학습에만 집중하세요.\r\n\r\nAI 헬피는 자체보유 코딩 질의응답 스레드를 기반으로 훈련되었습니다.\r\n\r\n게임과 같은 시스템으로 학습자에게 동기를 부여할 수 있습니다."
     },
-    "image017": {
+    "image012": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/vh71.png?raw=true"
     },
-    "image018": {
+    "image013": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/home_codeedit-2.gif?raw=true"
     },
-    "image019": {
+    "image014": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/pg5l-48.png?raw=true"
     },
-    "image020": {
+    "image015": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/vh72.png?raw=true"
     },
-    "image021": {
+    "image016": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%97%98%EB%A6%AC%EC%8A%A4(Page3)/image/pg5l-49.png?raw=true"
     }

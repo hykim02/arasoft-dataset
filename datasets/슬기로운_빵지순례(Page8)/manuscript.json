@@ -3,19 +3,19 @@
         "type": "text",
         "content": "베이커리 수도"
     },
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/24816/OEBPS/nep_image/vjr5n-removebg-preview.png"
     },
     "text002": {
         "type": "text",
         "content": "부부 파티쉐가 운영하는 일본 제과점 느낌이 나는 빵집입니다. 오픈시간에도 이미 줄이 서 있는 인기 있는 빵집입니다."
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/24816/OEBPS/nep_image/fjbb.jpg"
     },
-    "image003": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/24816/OEBPS/nep_image/9rr1fj.jpg"
     }

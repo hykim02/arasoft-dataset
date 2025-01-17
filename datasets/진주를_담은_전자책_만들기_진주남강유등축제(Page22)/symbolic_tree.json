@@ -24,7 +24,7 @@
                                 "text002"
                             ]
                         },
-                        "image001"
+                        "icon001"
                     ]
                 },
                 {
@@ -34,7 +34,7 @@
                         "text003"
                     ]
                 },
-                "image002",
+                "image001",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -42,7 +42,7 @@
                         "text004"
                     ]
                 },
-                "image003"
+                "image002"
             ]
         }
     ]

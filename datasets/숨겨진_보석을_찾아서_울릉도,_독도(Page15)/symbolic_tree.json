@@ -13,7 +13,13 @@
             "symbol_name": "textbox",
             "direction": "top2down",
             "children": [
-                "text002",
+                "text002"
+            ]
+        },
+        {
+            "symbol_name": "layerlist_arccodion",
+            "direction": "top2down",
+            "children": [
                 {
                     "symbol_name": "nac_title",
                     "direction": "top2down",

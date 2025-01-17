@@ -10,7 +10,7 @@
                     "symbol_name": "container",
                     "direction": "top2down",
                     "children": [
-                        "image001",
+                        "icon001",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -27,17 +27,17 @@
                         "text002"
                     ]
                 },
-                "image002"
+                "icon002"
             ]
         },
         {
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
+                "image001",
+                "image002",
                 "image003",
-                "image004",
-                "image005",
-                "image006"
+                "image004"
             ]
         },
         {
@@ -79,7 +79,7 @@
                         "text007"
                     ]
                 },
-                "image007"
+                "image005"
             ]
         },
         {
@@ -93,7 +93,7 @@
                         "text008"
                     ]
                 },
-                "image008"
+                "image006"
             ]
         }
     ]

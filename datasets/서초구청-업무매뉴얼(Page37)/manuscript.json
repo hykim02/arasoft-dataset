@@ -3,39 +3,39 @@
         "type": "text",
         "content": "서초구립도서관 \n도서 대출 이용"
     },
-    "image001": {
-        "type": "image",
-        "content": null
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC(Page37)/image/contents-6.png?raw=true"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC(Page37)/image/1bg7_r31.png?raw=true"
+    },
+    "icon003": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC(Page37)/image/contents-7.png?raw=true"
+    },
+    "icon004": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%97%85%EB%AC%B4%EB%A7%A4%EB%89%B4%EC%96%BC(Page37)/image/sbg7_r31.png?raw=true"
     },
     "text002": {
         "type": "text",
-        "content": "전체목차"
-    },
-    "image002": {
-        "type": "image",
-        "content": null
+        "content": "l 담당부서 l 교육지원과    l 담당팀 l 도서관팀    "
     },
     "text003": {
         "type": "text",
-        "content": "부서목차"
+        "content": "업무개요"
     },
     "text004": {
         "type": "text",
-        "content": "l 담당부서 l 교육지원과    l 담당팀 l 도서관팀    "
+        "content": "□ 서초구립도서관 이용자가 도서관 내에 비치된 도서를 대출하는 방법 안내\r\n□ 대출자격 : 회원증을 발급 받은 정회원    \r\n□ 대출조건 : 회원증은 본인만 사용가능 (단, 가족회원으로 신청한 경우 대리사용 가능)\r\n□ 대출권수 : 1인당 최대 \"도서 5권\" 또는 \"도서 4권 +비도서 1점\"\r\n□ 대출기간 : 2주(14일) / 비도서 1주(7일)\r\n□ 대출자료 : 일반도서, 아동도서, 비도서"
     },
     "text005": {
         "type": "text",
-        "content": "업무개요"
-    },
-    "text006": {
-        "type": "text",
-        "content": "□ 서초구립도서관 이용자가 도서관 내에 비치된 도서를 대출하는 방법 안내\r\n□ 대출자격 : 회원증을 발급 받은 정회원    \r\n□ 대출조건 : 회원증은 본인만 사용가능 (단, 가족회원으로 신청한 경우 대리사용 가능)\r\n□ 대출권수 : 1인당 최대 \"도서 5권\" 또는 \"도서 4권 +비도서 1점\"\r\n□ 대출기간 : 2주(14일) / 비도서 1주(7일)\r\n□ 대출자료 : 일반도서, 아동도서, 비도서"
-    },
-    "text007": {
-        "type": "text",
         "content": "업무 프로세스"
     },
-    "text008": {
+    "text006": {
         "type": "text",
         "content": " 도서관에 본인 명의 회원증 지참하여 방문\r\n 도서관에서 대출할 도서를 사서데스크 및 무인대출반납기를 통해 대출"
     }

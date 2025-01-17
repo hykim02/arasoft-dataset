@@ -1,6 +1,6 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page21)/image/9tmvhbr73.png?raw=true"
     },
     "text001": {
@@ -11,11 +11,11 @@
         "type": "text",
         "content": "목차로 돌아가기"
     },
-    "image002": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page21)/image/g7br7.png?raw=true"
     },
-    "image003": {
+    "image001": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page21)/image/2010-3-Move--2.jpg?raw=true"
     },
@@ -23,11 +23,11 @@
         "type": "text",
         "content": "2010-3 Move-흐름 40×40 ink on PVC"
     },
-    "image004": {
+    "image002": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page21)/image/2010-4-Move----.jpg?raw=true"
     },
-    "image005": {
+    "image003": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page21)/image/2010-5-Human--.jpg?raw=true"
     },

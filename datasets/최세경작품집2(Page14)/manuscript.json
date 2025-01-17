@@ -3,11 +3,11 @@
         "type": "text",
         "content": "목차로 돌아가기"
     },
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page14)/image/g7br7.png?raw=true"
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page14)/image/2019-1-Life-white-2019.jpg?raw=true"
     },
@@ -15,23 +15,23 @@
         "type": "text",
         "content": "2019-1 Life-white  40.9×31.8  acrylics on panel"
     },
-    "image003": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page14)/image/9tmvhbr73.png?raw=true"
     },
     "text003": {
         "type": "text",
         "content": "그림을 눌러주세요"
     },
-    "image004": {
+    "image002": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page14)/image/2019-2-Relationship-red2-1.jpg?raw=true"
     },
-    "image005": {
+    "image003": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page14)/image/2019-3-Relationship-yellow-1.jpg?raw=true"
     },
-    "image006": {
+    "image004": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page14)/image/2019-5-Relationship-black-.jpg?raw=true"
     },
@@ -47,7 +47,7 @@
         "type": "text",
         "content": "2019-5 Relationship-black  122×240  acrylics and pen on canvas panel"
     },
-    "image007": {
+    "image005": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page14)/image/2019-4-Relationship-outside0925-2.jpg?raw=true"
     },

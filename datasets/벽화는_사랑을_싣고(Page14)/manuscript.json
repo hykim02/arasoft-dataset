@@ -1,14 +1,14 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/176.jpg"
     },
     "text001": {
         "type": "text",
         "content": "차례로 이동"
     },
-    "image002": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/google-maps-1797882_640-removebg-preview1.png"
     },
     "text002": {
@@ -19,43 +19,43 @@
         "type": "text",
         "content": "2-3.벽화 갤러리"
     },
-    "image003": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/image126.jpg"
     },
-    "image004": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/image127.jpg"
     },
-    "image005": {
+    "image003": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/124.jpg"
     },
-    "image006": {
+    "image004": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/125.jpg"
     },
-    "image007": {
+    "image005": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/126.jpg"
     },
-    "image008": {
+    "image006": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/129.jpg"
     },
-    "image009": {
+    "image007": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/128.jpg"
     },
-    "image010": {
+    "image008": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/cyl5r1.jpg"
     },
-    "image011": {
+    "image009": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/cy3bj1.jpg"
     },
-    "image012": {
+    "image010": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/cy3bj2.jpg"
     }

@@ -1,6 +1,6 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/9tmvhbr73.png?raw=true"
     },
     "text001": {
@@ -11,19 +11,19 @@
         "type": "text",
         "content": "목차로 돌아가기"
     },
-    "image002": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/g7br7.png?raw=true"
     },
-    "image003": {
+    "image001": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/2015-2-Human-Life---.jpg?raw=true"
     },
-    "image004": {
+    "image002": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/2015-3-Inside-assemble-1.jpg?raw=true"
     },
-    "image005": {
+    "image003": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/2015-3-1-Inside-assemble2.jpg?raw=true"
     },
@@ -39,11 +39,11 @@
         "type": "text",
         "content": "2015-3-1 Inside-assemble(부분상세컷)"
     },
-    "image006": {
+    "image004": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/2015-4-Thought-.jpg?raw=true"
     },
-    "image007": {
+    "image005": {
         "type": "image",
         "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page22)/image/2015-5--.jpg?raw=true"
     },

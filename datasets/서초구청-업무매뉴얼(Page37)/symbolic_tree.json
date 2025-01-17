@@ -21,28 +21,16 @@
                             "symbol_name": "container",
                             "direction": "top2down",
                             "children": [
-                                "image001",
-                                {
-                                    "symbol_name": "textbox",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text002"
-                                    ]
-                                }
+                                "icon001",
+                                "icon002"
                             ]
                         },
                         {
                             "symbol_name": "container",
                             "direction": "top2down",
                             "children": [
-                                "image002",
-                                {
-                                    "symbol_name": "textbox",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text003"
-                                    ]
-                                }
+                                "icon003",
+                                "icon004"
                             ]
                         }
                     ]
@@ -53,12 +41,50 @@
             "symbol_name": "textbox",
             "direction": "top2down",
             "children": [
-                "text004",
+                "text002"
+            ]
+        },
+        {
+            "symbol_name": "layerlist_arccodion",
+            "direction": "top2down",
+            "children": [
                 {
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "text005"
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text003"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text005"
+                            ]
+                        }
                     ]
                 },
                 {
@@ -70,26 +96,6 @@
                             "direction": "top2down",
                             "children": [
                                 "text006"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "symbol_name": "nac_title",
-                    "direction": "top2down",
-                    "children": [
-                        "text007"
-                    ]
-                },
-                {
-                    "symbol_name": "nac_item",
-                    "direction": "top2down",
-                    "children": [
-                        {
-                            "symbol_name": "textbox",
-                            "direction": "top2down",
-                            "children": [
-                                "text008"
                             ]
                         }
                     ]

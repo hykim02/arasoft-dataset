@@ -27,13 +27,25 @@
                         "text003"
                     ]
                 },
-                "image001"
+                "icon001"
             ]
         },
         {
             "symbol_name": "layerlist_slider",
             "direction": "left2right",
             "children": [
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": []
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        "image001"
+                    ]
+                },
                 {
                     "symbol_name": "nac_title",
                     "direction": "top2down",
@@ -189,18 +201,6 @@
                     "children": [
                         "image014"
                     ]
-                },
-                {
-                    "symbol_name": "nac_title",
-                    "direction": "top2down",
-                    "children": []
-                },
-                {
-                    "symbol_name": "nac_item",
-                    "direction": "top2down",
-                    "children": [
-                        "image015"
-                    ]
                 }
             ]
         },
@@ -215,7 +215,7 @@
                         "text004"
                     ]
                 },
-                "image016"
+                "image015"
             ]
         }
     ]

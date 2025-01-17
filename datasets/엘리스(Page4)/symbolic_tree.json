@@ -6,11 +6,11 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image001",
-                "image002",
-                "image003",
-                "image004",
-                "image005"
+                "icon001",
+                "icon002",
+                "icon003",
+                "icon004",
+                "icon005"
             ]
         },
         {
@@ -38,9 +38,9 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image006",
-                "image007",
-                "image008"
+                "image001",
+                "image002",
+                "image003"
             ]
         },
         {
@@ -69,7 +69,7 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image009",
+                                "image004",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -96,7 +96,7 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image010",
+                                "image005",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -123,7 +123,7 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image011",
+                                "image006",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",

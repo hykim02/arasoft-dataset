@@ -1,45 +1,41 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/baby_011.png"
     },
     "text001": {
         "type": "text",
         "content": "문제1"
     },
-    "image002": {
-        "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/hinh-nen-powerpoint-dep-2.jpg"
-    },
-    "image003": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_hint.png"
     },
-    "image004": {
-        "type": "image",
+    "icon003": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_explain.png"
     },
-    "image005": {
-        "type": "image",
+    "icon004": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_check.png"
     },
     "text002": {
         "type": "text",
         "content": "1. 티셔츠를 입는 여자는 어디에 가요?"
     },
-    "image006": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/Statsbiblioteket_lsesalen-2.jpg"
     },
-    "image007": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/co_so_1.jpg"
     },
-    "image008": {
+    "image003": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/anh-benh-vien.png"
     },
-    "image009": {
+    "image004": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/anh-rap-chieu-phim.jpg"
     },
@@ -47,39 +43,35 @@
         "type": "text",
         "content": "문제 2"
     },
-    "image010": {
-        "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/hinh-nen-powerpoint-dep-2.jpg"
-    },
-    "image011": {
-        "type": "image",
+    "icon005": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_hint.png"
     },
-    "image012": {
-        "type": "image",
+    "icon006": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_explain.png"
     },
-    "image013": {
-        "type": "image",
+    "icon007": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_check.png"
     },
     "text004": {
         "type": "text",
         "content": "2. 도서관이 어디에 있어요?"
     },
-    "image014": {
+    "image005": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/c-s-2.jpg"
     },
-    "image015": {
+    "image006": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/co-so-.jpg"
     },
-    "image016": {
+    "image007": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/co_so_3.jpg"
     },
-    "image017": {
+    "image008": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/co-sow-3.jpg"
     },
@@ -87,20 +79,16 @@
         "type": "text",
         "content": "문제 3"
     },
-    "image018": {
-        "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/hinh-nen-powerpoint-dep-2.jpg"
-    },
-    "image019": {
-        "type": "image",
+    "icon008": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_hint.png"
     },
-    "image020": {
-        "type": "image",
+    "icon009": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_explain.png"
     },
-    "image021": {
-        "type": "image",
+    "icon010": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_check.png"
     },
     "text006": {

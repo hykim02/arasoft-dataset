@@ -1,7 +1,7 @@
 {
-    "image001": {
-        "type": "image",
-        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/content/nep_image/9tmvhbr73.png?raw=true"
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/image/9tmvhbr73.png?raw=true"
     },
     "text001": {
         "type": "text",
@@ -11,29 +11,29 @@
         "type": "text",
         "content": "목차로 돌아가기"
     },
-    "image002": {
-        "type": "image",
-        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/content/nep_image/g7br7.png?raw=true"
+    "icon002": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/image/g7br7.png?raw=true"
     },
-    "image003": {
+    "image001": {
         "type": "image",
-        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/2016-1-InsideFlow-2016--2.jpg?raw=true"
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/image/2016-1-InsideFlow-2016--2.jpg?raw=true"
     },
     "text003": {
         "type": "text",
         "content": "2016-1 Inside...Flow 50×50 pen on paper"
     },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/image/2016-3-Flow-2016.jpg?raw=true"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/image/2016-4--2016.jpg?raw=true"
+    },
     "image004": {
         "type": "image",
-        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/2016-3-Flow-2016.jpg?raw=true"
-    },
-    "image005": {
-        "type": "image",
-        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/2016-4--2016.jpg?raw=true"
-    },
-    "image006": {
-        "type": "image",
-        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/2016-7--.jpg?raw=true"
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%B5%9C%EC%84%B8%EA%B2%BD%EC%9E%91%ED%92%88%EC%A7%912(Page11)/image/2016-7--.jpg?raw=true"
     },
     "text004": {
         "type": "text",

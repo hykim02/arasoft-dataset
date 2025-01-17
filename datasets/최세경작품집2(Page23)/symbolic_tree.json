@@ -10,7 +10,7 @@
                     "symbol_name": "container",
                     "direction": "top2down",
                     "children": [
-                        "image001",
+                        "icon001",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -27,14 +27,14 @@
                         "text002"
                     ]
                 },
-                "image002"
+                "icon002"
             ]
         },
         {
             "symbol_name": "container",
             "direction": "top2down",
             "children": [
-                "image003",
+                "image001",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -52,7 +52,7 @@
                     "symbol_name": "container",
                     "direction": "left2right",
                     "children": [
-                        "image004",
+                        "image002",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -60,7 +60,7 @@
                                 "text004"
                             ]
                         },
-                        "image005"
+                        "image003"
                     ]
                 },
                 {
