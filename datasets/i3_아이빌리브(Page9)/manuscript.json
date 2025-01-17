@@ -1,7 +1,7 @@
 {
-    "image001": {
-        "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/32.png"
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/eng.png?raw=true"
     },
     "text001": {
         "type": "text",
@@ -27,9 +27,9 @@
         "type": "text",
         "content": "\r\n아이의 실시간 위치와 이동 경로를 확인하고 안심 구역 설정을 통해 \r\n\r\n   안심하고 일상에 집중할 수 있습니다."
     },
-    "image002": {
+    "image001": {
         "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/brt1x_1ljbvlf_onlyx7-4.png"
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/phone.png?raw=true"
     },
     "text007": {
         "type": "text",
@@ -39,9 +39,9 @@
         "type": "text",
         "content": "아이들이 실제로 유해컨텐츠를 가장 많이 접하는 유튜브, 틱톡, 페이스북, \r\n\r\n웹사이트 모니터링은 물론 영상/채널/도메인 차단 등의 관리가 가능합니다."
     },
-    "image003": {
+    "image002": {
         "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/only-4-1.png"
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/phone2.png?raw=true"
     },
     "text009": {
         "type": "text",
@@ -51,9 +51,9 @@
         "type": "text",
         "content": "아이가 어떤 파일을 다운로드 받는지 실시간으로 확인할 수 있습니다."
     },
-    "image004": {
+    "image003": {
         "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/only-4-2.png"
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/phone3.png?raw=true"
     },
     "text011": {
         "type": "text",
@@ -67,9 +67,9 @@
         "type": "text",
         "content": "게임처럼, 놀이처럼 즐겁게! 부모님들이 주는 미션을 아이들이 \r\n\r\n   수행하고 그에 따라 앱내 보상을 지급함으로써 성취감과 동기부여를 \r\n\r\n   동시에 제공합니다."
     },
-    "image005": {
+    "image004": {
         "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/only-5.png"
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/phone5.png?raw=true"
     },
     "text014": {
         "type": "text",
@@ -79,9 +79,9 @@
         "type": "text",
         "content": "자녀와 반복되는 다툼은 이제 그만! 하루약속 시간과 취침시간 약속모드 \r\n\r\n   설정으로 아이들이 스스로 시간을 분배하고 야간 스마트폰 사용을 \r\n\r\n   제한하여 정서적·신체적 성장을 도와줍니다."
     },
-    "image006": {
+    "image005": {
         "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/only-5-1.png"
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/phone6.png?raw=true"
     },
     "text016": {
         "type": "text",
@@ -91,9 +91,9 @@
         "type": "text",
         "content": "우리 가족 소통의 메신저! 매일 공개되는 온가족이 함께 답변하는 질문,\r\n\r\n   공감 카드를 통해 서로에 대해 조금씩 더 알아가게 됩니다."
     },
-    "image007": {
+    "image006": {
         "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/only-5-3.png"
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/phone7.png?raw=true"
     },
     "text018": {
         "type": "text",
@@ -103,9 +103,9 @@
         "type": "text",
         "content": "   아이들의 올바른 스마트폰 사용 습관! 스케줄 기반 개별 앱 차단 및 아이의\r\n\r\n   스마트폰 사용 습관 분석을 통한 올바른 사용 습관 확립이 가능합니다."
     },
-    "image008": {
+    "image007": {
         "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/only-5-4.png"
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/phone4.png?raw=true"
     },
     "text020": {
         "type": "text",
@@ -115,40 +115,44 @@
         "type": "text",
         "content": "한 눈에 들어오도록!"
     },
-    "image009": {
-        "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/only-6.png"
-    },
     "text022": {
         "type": "text",
-        "content": "자녀용 아이빌리브"
+        "content": "내 아이에 대한 모든 정보, 간편하고 알기 쉬운 화면 구성, \r\n\r\n   사용자가 직접 배치 커스텀도 가능하게!"
+    },
+    "image008": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/phone8.png?raw=true"
     },
     "text023": {
         "type": "text",
-        "content": "   내 아이에게는 게임처럼 친근하게,\r\n\r\n   미션을 수행하며 앱을 접속할때마다 즐겁게, 신나게!"
-    },
-    "image010": {
-        "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/only-6-5.png"
+        "content": "자녀용 아이빌리브"
     },
     "text024": {
         "type": "text",
-        "content": "아바타 시스템"
+        "content": "   내 아이에게는 게임처럼 친근하게,\r\n\r\n   미션을 수행하며 앱을 접속할때마다 즐겁게, 신나게!"
+    },
+    "image009": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/phone9.png?raw=true"
     },
     "text025": {
         "type": "text",
-        "content": "아이들의  습관 형성을 더욱 즐겁게!\r\n\r\n아이가 아바타를 꾸미며 앱에 대한 재미 UP!"
+        "content": "아바타 시스템"
     },
     "text026": {
         "type": "text",
-        "content": "아이빌리브 스쿨"
+        "content": "\r\n아이들의  습관 형성을 더욱 즐겁게!\r\n\r\n아이가 아바타를 꾸미며 앱에 대한 재미 UP!"
     },
     "text027": {
         "type": "text",
+        "content": "아이빌리브 스쿨"
+    },
+    "text028": {
+        "type": "text",
         "content": "스마트폰 압수에서 선생님들과 학생을 자유롭게!"
     },
-    "image011": {
+    "image010": {
         "type": "image",
-        "content": "file:///C:/Users/Algorithm/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/i3%20%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C%20nep/content/nep_image/only-6-.png"
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page9)/image/img.png?raw=true"
     }
 }
