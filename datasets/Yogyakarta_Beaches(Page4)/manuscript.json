@@ -7,17 +7,81 @@
         "type": "text",
         "content": "Sebelumnya merupakan wisata ikonik yang ada di Yogyakarta. Lalu, apakah ada wisata lain yaa? Pastinya ada dong!"
     },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
+    },
+    "image008": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
+    },
+    "image009": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
+    },
+    "image010": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
+    },
+    "image011": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
+    },
+    "image012": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "image013": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/nac_qs_explain.png"
+    },
+    "image014": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/nac_qs_check.png"
+    },
     "text002": {
         "type": "text",
         "content": "Nah, coba kalian tebak! Manakah wisata yang ada di Yogyakarta?"
     },
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/alphas01.png"
+    },
     "text003": {
         "type": "text",
-        "content": " Curug Kiara"
+        "content": "Curug Kiara"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/alphas02.png"
     },
     "text004": {
         "type": "text",
         "content": "Pantai Parangtritis"
+    },
+    "icon003": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/alphas03.png"
     },
     "text005": {
         "type": "text",
@@ -27,7 +91,7 @@
         "type": "text",
         "content": "Bagaimana? Apakah kalian sudah mencoba untuk menjawabnya? Jika sudah, yuk lihat informasi berikut yang berkaitan dengan pertanyaan di atas ya..."
     },
-    "image002": {
+    "image015": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/tanda_seru-removebg-preview.png"
     },
@@ -35,7 +99,7 @@
         "type": "text",
         "content": "Di Yogyakarta tentunya memiliki tempat-tempat indah lainnya yang dapat dijadikan sebagai wisata. Curug atau air terjun, serta danau juga tentunya ada, hanya saja dengan nama yang berbeda.\r\n\r\nJika kalian sudah mencoba, namun jawaban kalian salah, yuk kita lihat jawaban yang benar!"
     },
-    "image003": {
+    "image016": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/pantaiparangtritis2.jpg"
     },
@@ -43,15 +107,15 @@
         "type": "text",
         "content": "Jawaban yang tepat adalah\r\n\r\nPantai Parangtritis"
     },
-    "image004": {
+    "image017": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/pantaiparangtritis12.jpg"
     },
-    "image005": {
+    "image018": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/pantaiparangtritis3.jpg"
     },
-    "image006": {
+    "image019": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/pantaiparangtritis4.jpg"
     }

@@ -17,7 +17,7 @@
     },
     "text004": {
         "type": "text",
-        "content": "\r\nIndonesia lies along the equator, and its climate tends to be relatively even year-round.[83] Indonesia has two seasons—a wet season and a dry season—with no extremes of summer or winter.[84] For most of Indonesia, the dry season falls between May and October, with the wet season between November and April.[84] Indonesia's climate is almost entirely tropical, dominated by the tropical rainforest climate found in every large island of Indonesia. More cooling climate types do exist in mountainous regions that are 1,300 to 1,500 metres (4,300 to 4,900 feet) above sea level. The oceanic climate (Köppen Cfb) prevails in highland areas adjacent to rainforest climates, with reasonably uniform precipitation year-round. In highland areas near the tropical monsoon and tropical savanna climates, the subtropical highland climate (Köppen Cwb) is prevalent with a more pronounced dry season."
+        "content": "Indonesia lies along the equator, and its climate tends to be relatively even year-round.[83] Indonesia has two seasons—a wet season and a dry season—with no extremes of summer or winter.[84] For most of Indonesia, the dry season falls between May and October, with the wet season between November and April.[84] Indonesia's climate is almost entirely tropical, dominated by the tropical rainforest climate found in every large island of Indonesia. More cooling climate types do exist in mountainous regions that are 1,300 to 1,500 metres (4,300 to 4,900 feet) above sea level. The oceanic climate (Köppen Cfb) prevails in highland areas adjacent to rainforest climates, with reasonably uniform precipitation year-round. In highland areas near the tropical monsoon and tropical savanna climates, the subtropical highland climate (Köppen Cwb) is prevalent with a more pronounced dry season."
     },
     "text005": {
         "type": "text",
@@ -31,8 +31,8 @@
         "type": "text",
         "content": "- Where History Lives Forever -"
     },
-    "image003": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3546/OEBPS/nep_image/button02.png"
     }
 }

@@ -1,37 +1,81 @@
 {
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/tanda_tanya-removebg-preview.png"
+    },
     "text001": {
         "type": "text",
-        "content": "Apakah Kamu tahu Kota Yogyakarta ?"
+        "content": "Apakah Kamu tahu Kota Yogyakarta?"
     },
     "text002": {
         "type": "text",
         "content": "Kota Yogyakarta merupakan sebuah kota yang terletak di wilayah Pulau Jawa, tepatnya di Jawa Tengah. Yogyakarta juga biasa disebut dengan Kota Pelajar, Kota Gudeg dan juga Kota Budaya."
     },
-    "text003": {
-        "type": "text",
-        "content": "Tahu tidak, jika Yogyakarata ini memiliki banyak sekali destinasi wisata favorit? Yuk, kita lihat ada apa saja disana..."
-    },
-    "image001": {
-        "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/tugu.jpg"
-    },
-    "text004": {
-        "type": "text",
-        "content": "Image: Tugu Yogyakarta"
-    },
     "image002": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/keraton.jpeg"
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/lokasi-removebg-preview.png"
     },
-    "text005": {
+    "text003": {
         "type": "text",
-        "content": "Image: Keraton Ngeyogyakarta Hadiningrat"
+        "content": "Location here.."
+    },
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/nac_llt_thumb1.png"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/bunga-removebg-preview.png"
+    },
+    "icon003": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/bunga-removebg-preview.png"
+    },
+    "icon004": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/bunga-removebg-preview.png"
+    },
+    "icon005": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/bunga-removebg-preview.png"
+    },
+    "icon006": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/bunga-removebg-preview.png"
+    },
+    "icon007": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/bunga-removebg-preview.png"
     },
     "image003": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/plang-jalan-malioboro-by-pnrtourtravel.jpg"
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/yell-removebg-preview.png"
+    },
+    "text004": {
+        "type": "text",
+        "content": "Tahu tidak, jika Yogyakarta ini memiliki banyak sekali destinasi wisata favorit? Yuk, kita lihat ada apa saja disana..."
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/tugu.jpg"
+    },
+    "text005": {
+        "type": "text",
+        "content": "Image: Tugu Yogyakarta"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/keraton.jpeg"
     },
     "text006": {
+        "type": "text",
+        "content": "Image: Keraton Ngeyogyakarta Hadiningrat"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/plang-jalan-malioboro-by-pnrtourtravel.jpg"
+    },
+    "text007": {
         "type": "text",
         "content": "Image: Jalan Malioboro"
     }

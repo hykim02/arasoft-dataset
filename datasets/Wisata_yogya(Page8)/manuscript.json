@@ -1,129 +1,273 @@
 {
     "text001": {
         "type": "text",
-        "content": "Wisata \r\n\r\n QUIZ YOGYA"
+        "content": "Wisata"
+    },
+    "text002": {
+        "type": "text",
+        "content": "QUIZ YOGYA"
     },
     "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/tugu-jogja-6263253-51225171.png"
     },
-    "text002": {
+    "text003": {
         "type": "text",
         "content": "1"
     },
-    "text003": {
-        "type": "text",
-        "content": "Manakah foto obyek wisata Malioboro dibawah ini yang benar?"
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_explain.png"
     },
     "image002": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/8.jpg"
-    },
-    "image003": {
-        "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/MALIOBORO4.jpg"
-    },
-    "image004": {
-        "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/9.jpg"
-    },
-    "image005": {
-        "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/10.jpg"
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_check.png"
     },
     "text004": {
         "type": "text",
-        "content": "2"
+        "content": "Manakah foto obyek wisata Malioboro dibawah ini yang benar?"
     },
-    "text005": {
-        "type": "text",
-        "content": "Manakah menu makanan khas yogya dibawah ini?"
+    "icon003": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q01.png"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/8.jpg"
+    },
+    "icon004": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q02.png"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/MALIOBORO4.jpg"
+    },
+    "icon005": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q03.png"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/9.jpg"
+    },
+    "icon006": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q04.png"
     },
     "image006": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/makasar-3.jpg"
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/10.jpg"
+    },
+    "text005": {
+        "type": "text",
+        "content": "2"
+    },
+    "icon007": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "icon008": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_explain.png"
     },
     "image007": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/gudeg4.jpg"
-    },
-    "image008": {
-        "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/makasar1.jpg"
-    },
-    "image009": {
-        "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/padang2.jpg"
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_check.png"
     },
     "text006": {
         "type": "text",
-        "content": "3"
+        "content": "Manakah menu makanan khas yogya dibawah ini?"
+    },
+    "icon009": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q01.png"
+    },
+    "image008": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/makasar-3.jpg"
+    },
+    "icon010": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q02.png"
+    },
+    "image009": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/gudeg4.jpg"
+    },
+    "icon011": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q03.png"
+    },
+    "image010": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/makasar1.jpg"
+    },
+    "icon012": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q04.png"
+    },
+    "image011": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/padang2.jpg"
     },
     "text007": {
         "type": "text",
-        "content": "Wayang merupakan salah satu kesenian tradisional dari pulau.."
+        "content": "3"
+    },
+    "icon013": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "icon014": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_explain.png"
+    },
+    "image012": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_check.png"
     },
     "text008": {
         "type": "text",
-        "content": "Jawa"
+        "content": "Wayang merupakan salah satu kesenian tradisional dari pulau.."
+    },
+    "icon015": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q01.png"
     },
     "text009": {
         "type": "text",
-        "content": "Sumatra"
+        "content": "Jawa"
+    },
+    "icon016": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q02.png"
     },
     "text010": {
         "type": "text",
-        "content": "alimantan"
+        "content": "Sumatra"
+    },
+    "icon017": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q03.png"
     },
     "text011": {
         "type": "text",
-        "content": "Sulawesi"
+        "content": "Kalimantan"
+    },
+    "icon018": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q04.png"
     },
     "text012": {
         "type": "text",
-        "content": "4"
+        "content": "Sulawesi"
     },
     "text013": {
         "type": "text",
-        "content": "Candi borobudur adalah peninggalan agama..."
+        "content": "4"
+    },
+    "icon019": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "icon020": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_explain.png"
+    },
+    "image013": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_check.png"
     },
     "text014": {
         "type": "text",
-        "content": "Islam"
+        "content": "Candi borobudur adalah peninggalan agama..."
+    },
+    "icon021": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q01.png"
     },
     "text015": {
         "type": "text",
-        "content": "Hindu"
+        "content": "Islam"
+    },
+    "icon022": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q02.png"
     },
     "text016": {
         "type": "text",
-        "content": "Budha"
+        "content": "Hindu"
+    },
+    "icon023": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q03.png"
     },
     "text017": {
         "type": "text",
-        "content": "konghucu"
+        "content": "Budha"
+    },
+    "icon024": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q04.png"
     },
     "text018": {
         "type": "text",
-        "content": "5"
+        "content": "konghucu"
     },
     "text019": {
         "type": "text",
-        "content": "Keraton Ngayogyakarta Hadiningrat atau Keraton Yogyakarta didirikan pada tahun..."
+        "content": "5"
+    },
+    "icon025": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "icon026": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_explain.png"
+    },
+    "icon027": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_check.png"
     },
     "text020": {
         "type": "text",
-        "content": "Tahun 1775"
+        "content": "Keraton Ngayogyakarta Hadiningrat atau Keraton Yogyakarta didirikan pada tahun..."
+    },
+    "icon028": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q01.png"
     },
     "text021": {
         "type": "text",
-        "content": "Tahun 1770"
+        "content": "Tahun 1775"
+    },
+    "icon029": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q02.png"
     },
     "text022": {
         "type": "text",
-        "content": "Tahun 1750"
+        "content": "Tahun 1770"
+    },
+    "icon030": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q03.png"
     },
     "text023": {
+        "type": "text",
+        "content": "Tahun 1750"
+    },
+    "icon031": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q04.png"
+    },
+    "text024": {
         "type": "text",
         "content": "Tahun 1755"
     }
