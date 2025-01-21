@@ -1,0 +1,65 @@
+{
+  "name": "build_symbolic_tree",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "symbol_name": {
+        "type": "string",
+        "description": "노드의 종류, 예) container, nac_item, textbox 등"
+      },
+      "direction": {
+        "type": "string",
+        "description": "노드의 레이아웃 방향, 예) top2down, left2right 등"
+      },
+      "children": {
+        "type": "array",
+        "description": "문자열 혹은 하위 노드(재귀) 배열",
+        "items": {
+          "anyOf": [
+            {
+              "type": "string",
+              "description": "단순 텍스트로 자식이 들어가는 경우"
+            },
+            {
+              "$ref": "#/$defs/symbolic_node"
+            }
+          ]
+        }
+      }
+    },
+    "required": ["symbol_name", "direction", "children"],
+    "additionalProperties": false,
+    "$defs": {
+      "symbolic_node": {
+        "type": "object",
+        "properties": {
+          "symbol_name": {
+            "type": "string",
+            "description": "노드의 종류, 예) container, nac_item, textbox 등"
+          },
+          "direction": {
+            "type": "string",
+            "description": "노드의 레이아웃 방향, 예) top2down, left2right 등"
+          },
+          "children": {
+            "type": "array",
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "description": "단순 텍스트로 자식이 들어가는 경우"
+                },
+                {
+                  "$ref": "#/$defs/symbolic_node"
+                }
+              ]
+            }
+          }
+        },
+        "required": ["symbol_name", "direction", "children"],
+        "additionalProperties": false
+      }
+    }
+  }
+}
