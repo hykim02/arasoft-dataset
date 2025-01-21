@@ -1,17 +1,17 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22412/OEBPS/nep_image/icons8-home-48.png"
     },
-    "image002": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22412/OEBPS/nep_image/icons8-arrow-48718.png"
     },
-    "image003": {
-        "type": "image",
+    "icon003": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22412/OEBPS/nep_image/icons8-arrow-48.png"
     },
-    "image004": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22412/OEBPS/nep_image/tt4.png"
     },
@@ -21,7 +21,7 @@
     },
     "text002": {
         "type": "text",
-        "content": "Barbie adalah film fantasi komedi tahun 2023 yang disutradarai oleh Greta Gerwig dari skenario yang ditulisnya bersama Noah Baumbach. Berdasarkan pada boneka fashion bernama sama dari Mattel, ini merupakan film Barbie pertama dalam versi live-action setelah banyak film dan spesial animasi komputer.\r\n\r\n\r\n\r\nFilm ini dibintangi oleh Margot Robbie sebagai tokoh utama dan Ryan Gosling sebagai Ken, mengikuti perjalanan keduanya dalam menemukan diri mereka sendiri setelah mengalami krisis eksistensial. Pemeran pendukung meliputi America Ferrera, Issa Rae, dan Will Ferrell."
+        "content": "Barbie adalah film fantasi komedi tahun 2023 yang disutradarai oleh Greta Gerwig dari skenario yang ditulisnya bersama Noah Baumbach. Berdasarkan pada boneka fashion bernama sama dari Mattel, ini merupakan film Barbie pertama dalam versi live-action setelah banyak film dan spesial animasi komputer.\n\n\n\nFilm ini dibintangi oleh Margot Robbie sebagai tokoh utama dan Ryan Gosling sebagai Ken, mengikuti perjalanan keduanya dalam menemukan diri mereka sendiri setelah mengalami krisis eksistensial. Pemeran pendukung meliputi America Ferrera, Issa Rae, dan Will Ferrell."
     },
     "text003": {
         "type": "text",

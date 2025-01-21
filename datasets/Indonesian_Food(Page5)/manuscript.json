@@ -5,7 +5,7 @@
     },
     "image001": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19124/OEBPS/nep_image/esteh3.jpg"
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/Indonesian_Food(Page5)/image/esteh3.jpg?raw=true"
     },
     "text002": {
         "type": "text",
@@ -13,7 +13,7 @@
     },
     "image002": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19124/OEBPS/nep_image/cendol.jpg"
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/Indonesian_Food(Page5)/image/cendol.jpg?raw=true"
     },
     "text003": {
         "type": "text",
@@ -21,7 +21,7 @@
     },
     "image003": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19124/OEBPS/nep_image/lemon.jpg"
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/Indonesian_Food(Page5)/image/lemon.jpg?raw=true"
     },
     "text004": {
         "type": "text",
@@ -29,7 +29,7 @@
     },
     "image004": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19124/OEBPS/nep_image/alpukat.jpg"
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/Indonesian_Food(Page5)/image/alpukat.jpg?raw=true"
     },
     "text005": {
         "type": "text",

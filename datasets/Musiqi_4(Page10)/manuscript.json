@@ -3,8 +3,8 @@
         "type": "text",
         "content": "2 Azərbaycan xalq musiqisi"
     },
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/home.png"
     },
     "text002": {
@@ -39,23 +39,23 @@
         "type": "text",
         "content": "Səndə tarixlərin çox nişanı var,\r\n\r\nHər daşın köksündə ox nişanı var,\r\n\r\nİndi nə xanı var, nə sultanı var.\r\n\r\nNəqərat:\r\n\r\nEy könül mülkünün barı\r\n\r\nNaxçıvan, a gülüm,\r\n\r\nEllərin sevgili yarı Naxçıvan."
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/5.png"
     },
-    "image003": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/20220304_092829_258.jpg"
     },
-    "image004": {
+    "image003": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/20220304_101741_906.jpg"
     },
-    "image005": {
+    "image004": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/20220304_101821_410.jpg"
     },
-    "image006": {
+    "image005": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/20220304_101935_759.jpg"
     },
@@ -63,7 +63,7 @@
         "type": "text",
         "content": "AZƏRBAYCAN XALQ MAHNILARI\r\n\r\nAzərbaycan xalq mahnılarının məzmunu\r\n\r\nçoxzəngindir. Bu mahnılar xalq qəhrəmanlarına,  \r\n\r\nvətənin flora və faunasına, şəhər və kəndlərinə həsr\r\n\r\nolunub. «Ninni», «Beşik başında», «Layla» kimi uşaq\r\n\r\nxalq mahnıları da var. II sinifdə onlardan birini—«Tutu\r\n\r\nnənəm» Azərbaycan xalq mahnısını öyrənmişik.\r\n\r\n    \r\n                        Naxçıvan Muxtar Respublikası"
     },
-    "image007": {
+    "image006": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/22.jpg"
     }

@@ -11,7 +11,7 @@
         },
         {
             "symbol_name": "layerlist_tab",
-            "direction": "down",
+            "direction": "top",
             "children": [
                 {
                     "symbol_name": "nac_title",

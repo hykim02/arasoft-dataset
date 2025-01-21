@@ -1,192 +1,70 @@
 {
-    "symbol_name": "container",
-    "direction": "top2down",
-    "children": [
-        {
-            "symbol_name": "container",
-            "direction": "left2right",
-            "children": [
-                {
-                    "symbol_name": "textbox",
-                    "direction": "top2down",
-                    "children": [
-                        "text001"
-                    ]
-                },
-                "image001"
-            ]
-        },
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text002"
-            ]
-        },
-        {
-            "symbol_name": "container",
-            "direction": "left2right",
-            "children": [
-                {
-                    "symbol_name": "container",
-                    "direction": "top2down",
-                    "children": [
-                        {
-                            "symbol_name": "textbox",
-                            "direction": "top2down",
-                            "children": [
-                                "text003"
-                            ]
-                        },
-                        {
-                            "symbol_name": "layerlist_tab",
-                            "direction": "down",
-                            "children": [
-                                {
-                                    "symbol_name": "nac_title",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text004"
-                                    ]
-                                },
-                                {
-                                    "symbol_name": "nac_item",
-                                    "direction": "top2down",
-                                    "children": [
-                                        {
-                                            "symbol_name": "textbox",
-                                            "direction": "top2down",
-                                            "children": [
-                                                "text005"
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "symbol_name": "nac_title",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text006"
-                                    ]
-                                },
-                                {
-                                    "symbol_name": "nac_item",
-                                    "direction": "top2down",
-                                    "children": [
-                                        {
-                                            "symbol_name": "textbox",
-                                            "direction": "top2down",
-                                            "children": [
-                                                "text007"
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "symbol_name": "nac_title",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text008"
-                                    ]
-                                },
-                                {
-                                    "symbol_name": "nac_item",
-                                    "direction": "top2down",
-                                    "children": [
-                                        {
-                                            "symbol_name": "textbox",
-                                            "direction": "top2down",
-                                            "children": [
-                                                "text009"
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "symbol_name": "layerlist_slider",
-                    "direction": "left2right",
-                    "children": [
-                        {
-                            "symbol_name": "nac_title",
-                            "direction": "top2down",
-                            "children": []
-                        },
-                        {
-                            "symbol_name": "nac_item",
-                            "direction": "top2down",
-                            "children": [
-                                "image002"
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_title",
-                            "direction": "top2down",
-                            "children": []
-                        },
-                        {
-                            "symbol_name": "nac_item",
-                            "direction": "top2down",
-                            "children": [
-                                "image003"
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_title",
-                            "direction": "top2down",
-                            "children": []
-                        },
-                        {
-                            "symbol_name": "nac_item",
-                            "direction": "top2down",
-                            "children": [
-                                "image004"
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_title",
-                            "direction": "top2down",
-                            "children": []
-                        },
-                        {
-                            "symbol_name": "nac_item",
-                            "direction": "top2down",
-                            "children": [
-                                "image005"
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_title",
-                            "direction": "top2down",
-                            "children": []
-                        },
-                        {
-                            "symbol_name": "nac_item",
-                            "direction": "top2down",
-                            "children": [
-                                "image006"
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "symbol_name": "container",
-            "direction": "left2right",
-            "children": [
-                {
-                    "symbol_name": "textbox",
-                    "direction": "top2down",
-                    "children": [
-                        "text010"
-                    ]
-                },
-                "image007"
-            ]
-        }
-    ]
+    "text001": {
+        "type": "text",
+        "content": "2 Azərbaycan xalq musiqisi"
+    },
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/home.png"
+    },
+    "text002": {
+        "type": "text",
+        "content": "Naxçıvan şəhəri Naxçıvan Muxtar Respublikasının paytaxtıdır. Naxçıvan Böyük İpək Yolunun üzərində yerləşir. \r\n\r\nEl arasında ona «Şərqin qapısı» deyilir. Bu şəhər qədim tarixi abidələri ilə məşhurdur. Naxçıvanda «Badamlı» və «Siab» kimi mineral su yataqları var. \r\n\r\nBu yataqlar Naxçıvanın millisərvətihesab edilir."
+    },
+    "text003": {
+        "type": "text",
+        "content": "N A X Ç I V A N\r\n\r\n                Musiqisi Məmməd Cavadovun,\r\n\r\n                sözləri Hüseyn Əzimindir"
+    },
+    "text004": {
+        "type": "text",
+        "content": "I"
+    },
+    "text005": {
+        "type": "text",
+        "content": "Mən səni vəsf edim bir canan kimi,\r\n\r\nSarılıb boynuna mehriban kimi,\r\n\r\nGöyündə ulduzlar sayrışan kimi.\r\n\r\nNəqərat:\r\n\r\nEy könül mülkünün barı,\r\n\r\nNaxçıvan, a gülüm ,\r\n\r\nEllərin sevgili yarı, Naxçıvan."
+    },
+    "text006": {
+        "type": "text",
+        "content": "II"
+    },
+    "text007": {
+        "type": "text",
+        "content": "Qoynuna gülüzlü şux nigar gəlir,\r\n\r\nMüjdə ver bülbülə ilk bahar gəlir,\r\n\r\nQızlar bulağına nazlı yar gəlir..\r\n\r\nNəqərat:\r\n\r\nEy könül mülkünün barı,\r\n\r\nNaxçıvan, a gülüm ,\r\n\r\nEllərin sevgili yarı, Naxçıvan."
+    },
+    "text008": {
+        "type": "text",
+        "content": "III"
+    },
+    "text009": {
+        "type": "text",
+        "content": "Səndə tarixlərin çox nişanı var,\r\n\r\nHər daşın köksündə ox nişanı var,\r\n\r\nİndi nə xanı var, nə sultanı var.\r\n\r\nNəqərat:\r\n\r\nEy könül mülkünün barı\r\n\r\nNaxçıvan, a gülüm,\r\n\r\nEllərin sevgili yarı Naxçıvan."
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/5.png"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/20220304_092829_258.jpg"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/20220304_101741_906.jpg"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/20220304_101821_410.jpg"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/20220304_101935_759.jpg"
+    },
+    "text010": {
+        "type": "text",
+        "content": "AZƏRBAYCAN XALQ MAHNILARI\r\n\r\nAzərbaycan xalq mahnılarının məzmunu\r\n\r\nçoxzəngindir. Bu mahnılar xalq qəhrəmanlarına,  \r\n\r\nvətənin flora və faunasına, şəhər və kəndlərinə həsr\r\n\r\nolunub. «Ninni», «Beşik başında», «Layla» kimi uşaq\r\n\r\nxalq mahnıları da var. II sinifdə onlardan birini—«Tutu\r\n\r\nnənəm» Azərbaycan xalq mahnısını öyrənmişik.\r\n\r\n    \r\n                        Naxçıvan Muxtar Respublikası"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/3857/OEBPS/nep_image/22.jpg"
+    }
 }

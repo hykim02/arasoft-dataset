@@ -1,10 +1,10 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22413/OEBPS/nep_image/7-removebg-preview-1.png"
     },
-    "image002": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22413/OEBPS/nep_image/home-removebg-preview2.png"
     },
     "text001": {
@@ -15,7 +15,7 @@
         "type": "text",
         "content": "Goa Sunyaragi"
     },
-    "image003": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22413/OEBPS/nep_image/goa-sunyaragi-.jpg"
     },
@@ -27,7 +27,7 @@
         "type": "text",
         "content": "Keraton Kesepuhan"
     },
-    "image004": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22413/OEBPS/nep_image/keraton-kesepuhan2.jpeg"
     },
@@ -39,7 +39,7 @@
         "type": "text",
         "content": "Makam Sunan Gunung Jati"
     },
-    "image005": {
+    "image003": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22413/OEBPS/nep_image/makan-sunan-gunung-jati.jpg"
     },
@@ -47,12 +47,12 @@
         "type": "text",
         "content": " Salah satu daerah di Jawa Barat yang kerap menjadi incaran wisatawan adalah Cirebon. Selain karena kekayaan makanannya, Cirebon juga memiliki berbagai tempat wisata yang tidak kalah menarik. Salah satunya adalah Makam Sunan Gunung Jati.\r\n\r\n    Makam Sunan Gunung Jati terletak hanya 4,5 km dari Stasiun Cirebon, tepatnya di Jalan Alun-Alun Ciledug Nomor 53, Kecamatan Gunungjati, Kabupaten Cirebon.\r\n\r\n    Jejak sejarah penyebaran Islam di Indonesia ini kerap menjadi destinasi wisata religi atau tempat berziarah. Sunan Gunung Jati yang lahir dengan nama Syarif Hidayatullah adalah salah satu wali dari sembilan wali atau Wali Songo yang menyebarkan agama Islam di tanah Jawa. Sunan Gunung Jati lahir tahun 1448 dan tutup usia pada 1568.\r\n\r\n    Selain sebagai penyebar agama Islam, Sunan Gunung Jati juga sempat diangkat sebagai Raja Cirebon ke-2 pada 1479. Dirinya menikah dan senantiasa didampingi oleh Putri Ong Tien Nio yang berasal dari Tiongkok.\r\n\r\n    Keberagaman latar belakang Sunan Gunung Jati dan Ong Tien Nio itu juga menjadi salah satu alasan keunikan arsitektur yang terdapat di area Makam Sunan Gunung Jati. Pasalnya, kompleks makam tersebut memadukan arsitektur Jawa, Arab, dan Tiongkok. Memasuki kawasan tersebut, aroma dupa dapat langsung tercium. Saat mengunjungi Makam Sunan Gunung Jati, detikers juga perlu melepas alas kaki sebelum memasuki pintu masuk.\r\n\r\n    Setelah itu, Anda dapat mengisi buku tamu.  Kompleks Makam Sunan Gunung Jati memiliki 9 pintu utama atau lawang sanga. Kendati demikian, peziarah umum hanya diizinkan sampai pintu ke-4 di serambi muka Pesambangan.  Sementara itu, pintu kelima sampai sembilan hanya diperuntukkan bagi keturunan Sunan Gunung Jati, yaitu para sultan dan kerabatnya di Keraton Kasepuhan, Kanoman, dan Kacirebonan.\r\n\r\n    Pusat dari kompleks tersebut adalah Makam Sunan Gunung Jati yang terletak setelah pintu ke-9, terletak di puncak Gunung Sembung yang tingginya mencapai 20 meter.\r\n\r\n    Di sebelah barat serambi muka, terdapat Lawang Mergu yang diperuntukkan bagi para peziarah Tionghoa yang ingin berdoa untuk Putri Ong Tien Nio. Oleh karena itu, meski Sunan Gunung Jati merupakan sebuah tokoh di agama Islam, kompleks makam tersebut juga kerap dikunjungi oleh masyarakat dari latar belakang agama yang beragam.\r\n\r\n    Di area Lawang Mergu, terdapat banyak keramik terawat dan ornamen unik dengan berbagai gambar seperti burung, bunga, hingga orang berpakaian khas Tionghoa. Konon, keramik tersebut dibawa oleh Putri Ong Tien Nio dari Tiongkok.\r\n\r\n    Meski tidak dipungut biaya, pengunjung disarankan memberi uang seikhlasnya bagi juru kunci yang turut menjaga dan melestarikan Makam Sunan Gunung Jati. Destinasi wisata religi ini buka setiap hari selama 24 jam."
     },
-    "image006": {
-        "type": "image",
+    "icon003": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22413/OEBPS/nep_image/panah_kiri-removebg-preview3.png"
     },
-    "image007": {
-        "type": "image",
+    "icon004": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22413/OEBPS/nep_image/panah_kanan-removebg-preview-2.png"
     }
 }

@@ -6,56 +6,20 @@
             "symbol_name": "textbox",
             "direction": "top2down",
             "children": [
-                "text001"
+                "text001",
+                "image001",
+                "text002",
+                "text003",
+                "image002",
+                "text004",
+                "image003",
+                "text005",
+                "image004",
+                "text006",
+                "image005",
+                "text007",
+                "image006"
             ]
-        },
-        "image001",
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text002"
-            ]
-        },
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text003"
-            ]
-        },
-        "image002",
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text004"
-            ]
-        },
-        "image003",
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text005"
-            ]
-        },
-        "image004",
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text006"
-            ]
-        },
-        "image005",
-        {
-            "symbol_name": "textbox",
-            "direction": "top2down",
-            "children": [
-                "text007"
-            ]
-        },
-        "image006"
+        }
     ]
 }

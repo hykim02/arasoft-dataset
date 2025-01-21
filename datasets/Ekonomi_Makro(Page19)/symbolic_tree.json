@@ -6,7 +6,7 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image001",
+                "icon001",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -14,8 +14,8 @@
                         "text001"
                     ]
                 },
-                "image002",
-                "image003"
+                "icon002",
+                "icon003"
             ]
         },
         {
@@ -27,13 +27,19 @@
         },
         {
             "symbol_name": "layerlist_tab",
-            "direction": "down",
+            "direction": "top",
             "children": [
                 {
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "text003"
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text003"
+                            ]
+                        }
                     ]
                 },
                 {
@@ -53,7 +59,13 @@
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "text005"
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text005"
+                            ]
+                        }
                     ]
                 },
                 {

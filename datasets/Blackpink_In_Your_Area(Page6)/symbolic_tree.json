@@ -2,8 +2,14 @@
     "symbol_name": "container",
     "direction": "top2down",
     "children": [
-        "image001",
-        "image002",
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "icon001",
+                "icon002"
+            ]
+        },
         {
             "symbol_name": "textbox",
             "direction": "top2down",
@@ -16,18 +22,34 @@
             "direction": "left2right",
             "children": [
                 {
-                    "symbol_name": "container",
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": []
+                },
+                {
+                    "symbol_name": "nac_item",
                     "direction": "top2down",
                     "children": [
-                        "image003",
+                        "image001",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
                             "children": [
                                 "text002"
                             ]
-                        },
-                        "image004",
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": []
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        "image002",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",

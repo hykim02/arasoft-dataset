@@ -17,7 +17,7 @@
     },
     "image002": {
         "type": "image",
-        "content": null
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19117/OEBPS/nep_image/cucur.jpg"
     },
     "text004": {
         "type": "text",
@@ -25,7 +25,7 @@
     },
     "image003": {
         "type": "image",
-        "content": null
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19117/OEBPS/nep_image/bolu.jpg"
     },
     "text005": {
         "type": "text",
@@ -33,7 +33,7 @@
     },
     "image004": {
         "type": "image",
-        "content": null
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19117/OEBPS/nep_image/baruasa1.jpg"
     },
     "text006": {
         "type": "text",
@@ -41,7 +41,7 @@
     },
     "image005": {
         "type": "image",
-        "content": null
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19117/OEBPS/nep_image/lapa.jpg"
     },
     "text007": {
         "type": "text",
@@ -49,6 +49,6 @@
     },
     "image006": {
         "type": "image",
-        "content": null
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19117/OEBPS/nep_image/nasuwolio.jpg"
     }
 }

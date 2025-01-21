@@ -1,18 +1,18 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/4065/OEBPS/nep_image/1r-br.png"
     },
     "text001": {
         "type": "text",
         "content": "EMPAT PASAR MAKRO"
     },
-    "image002": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/4065/OEBPS/nep_image/ffp.png"
     },
-    "image003": {
-        "type": "image",
+    "icon003": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/4065/OEBPS/nep_image/g7fp.png"
     },
     "text002": {
@@ -25,7 +25,7 @@
     },
     "text004": {
         "type": "text",
-        "content": "Kaum klasik: di pasar barang tidak mungkin terjadi kelebihan atau kekurangan produksi untuk jangka waktu lama.\r\n\r\n\r\n\r\nLandasan:\r\n\r\n    a. Hukum Say (Say's law) \"setiap barang yang diproduksi selalu ada yang membutuhkannya” [Supply creates its own demand]\r\n\r\n    Logika Hukum say: Setiap proses produksi dr suatu barang & jasa mempunyai dua akibat:g\r\n\r\n        1. Menghasilkan barang/jasa sbg hasil produksi.\r\n\r\n        2. Memberikan penghasilan kepada pemilik faktor produksi yg digunakan dalam proses produksi tersebut."
+        "content": "Kaum klasik: di pasar barang tidak mungkin terjadi kelebihan atau kekurangan produksi untuk jangka waktu lama.\r\n\r\n\r\n\r\nLandasan:\r\n\r\n    a. Hukum Say (Say's law) \"setiap barang yang diproduksi selalu ada yang membutuhkannya” [Supply creates its own demand]\r\n\r\n    Logika Hukum say: Setiap proses produksi dr suatu barang &amp; jasa mempunyai dua akibat:g\r\n\r\n        1. Menghasilkan barang/jasa sbg hasil produksi.\r\n\r\n        2. Memberikan penghasilan kepada pemilik faktor produksi yg digunakan dalam proses produksi tersebut."
     },
     "text005": {
         "type": "text",
