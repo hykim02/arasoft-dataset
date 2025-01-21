@@ -1,25 +1,25 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/korea.png?raw=true"
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/title.png?raw=true"
     },
-    "image003": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/click.png?raw=true"
     },
     "text001": {
         "type": "text",
         "content": "Click on the logo to visit the company website."
     },
-    "image004": {
+    "image002": {
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/text.png?raw=true"
     },
-    "image005": {
+    "image003": {
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/phone.png?raw=true"
     },
@@ -39,33 +39,33 @@
         "type": "text",
         "content": "Features"
     },
-    "image006": {
+    "image004": {
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/easay.png?raw=true"
     },
-    "image007": {
+    "image005": {
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/heart.png?raw=true"
     },
-    "image008": {
+    "image006": {
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/pre.png?raw=true"
     },
-    "image009": {
+    "image007": {
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/nav.png?raw=true"
     },
-    "image010": {
+    "image008": {
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/mode.png?raw=true"
     },
-    "image011": {
+    "image009": {
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/custom.png?raw=true"
     },
     "text006": {
         "type": "text",
-        "content": "< More features, lower prices >"
+        "content": " More features, lower prices "
     },
     "text007": {
         "type": "text",

@@ -6,15 +6,15 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image001",
-                "image002"
+                "icon001",
+                "image001"
             ]
         },
         {
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image003",
+                "image002",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -22,7 +22,7 @@
                         "text001"
                     ]
                 },
-                "image004"
+                "image003"
             ]
         },
         {
@@ -38,7 +38,7 @@
                     "symbol_name": "nac_item",
                     "direction": "top2down",
                     "children": [
-                        "image005",
+                        "image004",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -57,7 +57,7 @@
                     "symbol_name": "nac_item",
                     "direction": "top2down",
                     "children": [
-                        "image006",
+                        "image005",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -76,7 +76,7 @@
                     "symbol_name": "nac_item",
                     "direction": "top2down",
                     "children": [
-                        "image007",
+                        "image006",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -95,7 +95,7 @@
                     "symbol_name": "nac_item",
                     "direction": "top2down",
                     "children": [
-                        "image008",
+                        "image007",
                         {
                             "symbol_name": "textbox",
                             "direction": "top2down",
@@ -107,7 +107,7 @@
                 }
             ]
         },
-        "icon001",
+        "icon002",
         {
             "symbol_name": "textbox",
             "direction": "top2down",

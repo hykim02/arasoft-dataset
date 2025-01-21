@@ -2,13 +2,13 @@
     "symbol_name": "container",
     "direction": "top2down",
     "children": [
-        "image001",
+        "icon001",
         {
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image002",
-                "image003"
+                "image001",
+                "icon002"
             ]
         },
         {
@@ -22,8 +22,8 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image004",
-                "image005"
+                "image002",
+                "image003"
             ]
         },
         {
@@ -70,12 +70,12 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
+                "image004",
+                "image005",
                 "image006",
                 "image007",
                 "image008",
-                "image009",
-                "image010",
-                "image011"
+                "image009"
             ]
         },
         {

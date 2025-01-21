@@ -47,23 +47,23 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/daun_1-removebg-preview1.png"
     },
-    "image012": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/nac_qs_hint.png"
     },
-    "image013": {
-        "type": "image",
+    "icon002": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/nac_qs_explain.png"
     },
-    "image014": {
-        "type": "image",
+    "icon003": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/nac_qs_check.png"
     },
     "text002": {
         "type": "text",
         "content": "Nah, coba kalian tebak! Manakah wisata yang ada di Yogyakarta?"
     },
-    "icon001": {
+    "icon004": {
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/alphas01.png"
     },
@@ -71,7 +71,7 @@
         "type": "text",
         "content": "Curug Kiara"
     },
-    "icon002": {
+    "icon005": {
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/alphas02.png"
     },
@@ -79,7 +79,7 @@
         "type": "text",
         "content": "Pantai Parangtritis"
     },
-    "icon003": {
+    "icon006": {
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/alphas03.png"
     },
@@ -91,7 +91,7 @@
         "type": "text",
         "content": "Bagaimana? Apakah kalian sudah mencoba untuk menjawabnya? Jika sudah, yuk lihat informasi berikut yang berkaitan dengan pertanyaan di atas ya..."
     },
-    "image015": {
+    "image012": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/tanda_seru-removebg-preview.png"
     },
@@ -99,7 +99,7 @@
         "type": "text",
         "content": "Di Yogyakarta tentunya memiliki tempat-tempat indah lainnya yang dapat dijadikan sebagai wisata. Curug atau air terjun, serta danau juga tentunya ada, hanya saja dengan nama yang berbeda.\r\n\r\nJika kalian sudah mencoba, namun jawaban kalian salah, yuk kita lihat jawaban yang benar!"
     },
-    "image016": {
+    "image013": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/pantaiparangtritis2.jpg"
     },
@@ -107,15 +107,15 @@
         "type": "text",
         "content": "Jawaban yang tepat adalah\r\n\r\nPantai Parangtritis"
     },
-    "image017": {
+    "image014": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/pantaiparangtritis12.jpg"
     },
-    "image018": {
+    "image015": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/pantaiparangtritis3.jpg"
     },
-    "image019": {
+    "image016": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19584/OEBPS/nep_image/pantaiparangtritis4.jpg"
     }
