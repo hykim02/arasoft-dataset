@@ -1,13 +1,13 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/daegu.png"
     },
     "text001": {
         "type": "text",
         "content": "목차 페이지로 이동"
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image10.png"
     },
@@ -17,13 +17,13 @@
     },
     "text003": {
         "type": "text",
-        "content": "① 꼭 알아야 하는 학습 내용을 자신의 것이 되도록 깊게 학습하기\r\n\r\n② 프로젝트처럼 여러 교과에서 배운 내용을 서로 연결하고 통합하여 문제 \r\n\r\n해결하기\r\n\r\n③ 생활과 관련지어 학습 내용을 받아들이고 배운 내용을 생활에 적용하기\r\n\r\n④ 스스로 자신이 어떻게 배우고 문제를 해결하는지 학습 과정 돌아보고 \r\n\r\n생각하기"
+        "content": "2022 개정 교육과정은 교과 교육에서 ‘깊이 있는 학습’을 통해 역량을 함양할 수 있도록 교과 간 연계와 통합, 학생의 삶과 연계된 학습, 학습에 대한 성찰 등을 강화하고 있다. 여기에서 말하는 ‘깊이 있는 학습’이란 무엇이며 ‘깊이 있는 학습’이 이루어지기 위해 수업이나 학습이 어떻게 진행되면 좋을지에 관해 학생들과 대화를 나누어 보았다. 학생들은 생각보다 진지하게 이 문제에 대해 인식하고 있었고 평소 자신의 학습 방법과 교사의 수업 방법에 대해 깊이 고민하고 있었다. 아래 내용은 학생들과 주고받은 질문과 대답 내용 중 일부이다.\r\n\r\n \r\n\r\n 학생들은 공통적으로 스스로 찾아서 문제를 탐구하는 능동적인 학습 태도를 강조하였고, 현실에 적용할 수 있고 자신 주변의 문제를 해결할 수 있는 힘을 기르는 학습을 ‘깊이 있는 학습’으로 생각하고 있었다. 또한 일방적 수업보다는 모둠 활동이나 프로젝트 활동 등 자신의 생각을 구체적으로 펼칠 수 있는 수업 방식을 선호하였으며 이미 많은 수업에서 그런 활동들이 이루어지고 있다고 답했다. 마지막으로 이 내용을 강조하며 글을 마무리한다. ‘깊이 있는 학습’은 학습 내용을 자신의 것으로 이해하여 그것을 새로운 상황에 적용하고 실천하는 것인데 다음 학습 방법을 실천하면 좋다.\r\n\r\n\r\n\r\n① 꼭 알아야 하는 학습 내용을 자신의 것이 되도록 깊게 학습하기\r\n\r\n② 프로젝트처럼 여러 교과에서 배운 내용을 서로 연결하고 통합하여 문제 \r\n\r\n해결하기\r\n\r\n③ 생활과 관련지어 학습 내용을 받아들이고 배운 내용을 생활에 적용하기\r\n\r\n④ 스스로 자신이 어떻게 배우고 문제를 해결하는지 학습 과정 돌아보고 \r\n\r\n생각하기"
     },
     "text004": {
         "type": "text",
         "content": "질문 1"
     },
-    "image003": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image97.png"
     },
@@ -31,7 +31,7 @@
         "type": "text",
         "content": "질문 2"
     },
-    "image004": {
+    "image003": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image100.png"
     },
@@ -39,7 +39,7 @@
         "type": "text",
         "content": "질문 3"
     },
-    "image005": {
+    "image004": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image101.png"
     },
@@ -47,7 +47,7 @@
         "type": "text",
         "content": "질문 4"
     },
-    "image006": {
+    "image005": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image102.png"
     }

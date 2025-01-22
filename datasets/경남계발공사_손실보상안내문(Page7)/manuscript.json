@@ -3,9 +3,9 @@
         "type": "text",
         "content": "의령 평촌 자연재해위험개선지구 정비사업"
     },
-    "image001": {
-        "type": "image",
-        "content": null
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EA%B2%BD%EB%82%A8%EA%B3%84%EB%B0%9C%EA%B3%B5%EC%82%AC_%EC%86%90%EC%8B%A4%EB%B3%B4%EC%83%81%EC%95%88%EB%82%B4%EB%AC%B8(Page7)/image/5.png?raw=true"
     },
     "text002": {
         "type": "text",
@@ -31,9 +31,9 @@
         "type": "text",
         "content": "보상금 수령절차"
     },
-    "image002": {
+    "image001": {
         "type": "image",
-        "content": null
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EA%B2%BD%EB%82%A8%EA%B3%84%EB%B0%9C%EA%B3%B5%EC%82%AC_%EC%86%90%EC%8B%A4%EB%B3%B4%EC%83%81%EC%95%88%EB%82%B4%EB%AC%B8(Page7)/image/20241017_105437_202.jpg?raw=true"
     },
     "text008": {
         "type": "text",

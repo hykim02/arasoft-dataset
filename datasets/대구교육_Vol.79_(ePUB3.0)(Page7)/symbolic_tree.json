@@ -1,38 +1,38 @@
 {
     "symbol_name": "container",
-    "direction": "left2right",
+    "direction": "top2down",
     "children": [
         {
             "symbol_name": "container",
-            "direction": "top2down",
+            "direction": "left2right",
             "children": [
                 {
-                    "symbol_name": "container",
-                    "direction": "left2right",
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
                     "children": [
-                        {
-                            "symbol_name": "textbox",
-                            "direction": "top2down",
-                            "children": [
-                                "text001"
-                            ]
-                        },
-                        "image001"
+                        "text001"
                     ]
-                }
+                },
+                "icon001"
             ]
         },
-        "image002",
-        "image003",
+        "image001",
+        "icon002",
         {
-            "symbol_name": "layerlist_arccodian",
+            "symbol_name": "layerlist_arccodion",
             "direction": "top2down",
             "children": [
                 {
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "text002"
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text002"
+                            ]
+                        }
                     ]
                 },
                 {
@@ -52,7 +52,13 @@
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "text004"
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text004"
+                            ]
+                        }
                     ]
                 },
                 {
@@ -63,14 +69,8 @@
                             "symbol_name": "textbox",
                             "direction": "top2down",
                             "children": [
-                                "text005"
-                            ]
-                        },
-                        "image004",
-                        {
-                            "symbol_name": "textbox",
-                            "direction": "top2down",
-                            "children": [
+                                "text005",
+                                "image002",
                                 "text006"
                             ]
                         }
@@ -80,7 +80,13 @@
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "text007"
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text007"
+                            ]
+                        }
                     ]
                 },
                 {
@@ -100,7 +106,13 @@
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "text009"
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text009"
+                            ]
+                        }
                     ]
                 },
                 {
@@ -112,134 +124,6 @@
                             "direction": "top2down",
                             "children": [
                                 "text010"
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "symbol_name": "container",
-            "direction": "top2down",
-            "children": [
-                "image005",
-                {
-                    "symbol_name": "textbox",
-                    "direction": "top2down",
-                    "children": [
-                        "text011"
-                    ]
-                },
-                {
-                    "symbol_name": "layerlist_arccodian",
-                    "direction": "top2down",
-                    "children": [
-                        {
-                            "symbol_name": "nac_title",
-                            "direction": "top2down",
-                            "children": [
-                                "text012"
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_item",
-                            "direction": "top2down",
-                            "children": [
-                                {
-                                    "symbol_name": "textbox",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text013"
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_title",
-                            "direction": "top2down",
-                            "children": [
-                                "text014"
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_item",
-                            "direction": "top2down",
-                            "children": [
-                                {
-                                    "symbol_name": "textbox",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text015"
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_title",
-                            "direction": "top2down",
-                            "children": [
-                                "text016"
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_item",
-                            "direction": "top2down",
-                            "children": [
-                                {
-                                    "symbol_name": "textbox",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text017"
-                                    ]
-                                },
-                                "image006",
-                                {
-                                    "symbol_name": "textbox",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text018"
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_title",
-                            "direction": "top2down",
-                            "children": [
-                                "text019"
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_item",
-                            "direction": "top2down",
-                            "children": [
-                                {
-                                    "symbol_name": "textbox",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text020"
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_title",
-                            "direction": "top2down",
-                            "children": [
-                                "text021"
-                            ]
-                        },
-                        {
-                            "symbol_name": "nac_item",
-                            "direction": "top2down",
-                            "children": [
-                                {
-                                    "symbol_name": "textbox",
-                                    "direction": "top2down",
-                                    "children": [
-                                        "text022"
-                                    ]
-                                }
                             ]
                         }
                     ]

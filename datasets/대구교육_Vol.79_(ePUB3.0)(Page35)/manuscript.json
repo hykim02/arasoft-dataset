@@ -1,6 +1,6 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/daegu.png"
     },
     "text001": {
@@ -55,11 +55,11 @@
         "type": "text",
         "content": "초등학교 5학년 국어 독서단원에는 친구들과 돌아가며 이야기를 쓰는 활동이 존재한다. 문학 작품을 창작하는 수업에서 학생들의 배경지식이나 경험을 불러일으키는 사전 활동이나 짧은 문장을 창작하는 등의 단계를 배제하고 곧바로 창작 단계로 들어가는 경우가 많다. 그러나 학생들은 문학 작품을 창작한 경험이 적어서 부담감을 많이 느낀다. 이에 이야기를쉽게 생성해내는 생성형 인공지능의 특징을 활용해 친구들과 돌아가며 이야기를 이어 쓰는 활동 전 인공지능과 일대일로 이야기를 생성하는 연습을 하였다. 학습활동은 다음과 같은 순서로 이루어졌다."
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image229.png"
     },
-    "image003": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image230.png"
     },
@@ -67,7 +67,7 @@
         "type": "text",
         "content": "뤼튼에서는 생성형 인공지능을 활용한 여러 기능들을 ‘프롬프트 허브’를 통해 제공하는데 이 중 하나인 ‘AI와 이야기 이어쓰기’툴을 활용하였다. 프롬프트 허브에서는 이야기를 이어쓰는 활동을 위한 프롬프트를 제공하기 때문에 학생들이 손쉽게 활동을 시작할 수 있다는 장점이 있다.\r\n\r\n\r\n\r\n  이렇게 인공지능과 이야기 이어쓰기 활동을 한 후, 친구들과 이야기를 이어쓰는 활동을 진행하였다. 인공지능과의 연습으로 훨씬 익숙하게 이야기를 만들 수 있었고 만든 이야기에 뤼튼에서 제공하는 이미지 생성 AI 기능을 활용하여 손쉽게 이미지를 덧입히고 패들렛을 통해 공유하였다."
     },
-    "image004": {
+    "image003": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image193.png"
     },
@@ -79,7 +79,7 @@
         "type": "text",
         "content": "초등학교 고학년에서는 종종 토론 활동이 필요하다. 실제로 토론 수업을 하다보면, 학생들이 자신이 준비한 문장을 무의미하게 반복적으로 발화하는 모습을 볼 수 있다. 학생들은 제대로 된 반박 경험이 없기에 질 높은 반박을 학생들끼리 주고받기란 어려운 일이다. 따라서 교사가 반박 경험을 제공해줄 때, 인공지능을 활용하는 것으로 구성하였다. 교사 한 명이 다수의 학생이 반박하는 것에 재반박을 하는 것은 사실상 불가능하다. 그러나 뤼튼을 활용하여 반박 논거를 생성한다면, 교사가 40분이라는 시간 내에 충분히 학생들에게 재반박을 할 수 있게 된다. 이처럼 뤼튼을 활용하여 토론 학습지 제작이나 재반박논거 생성을 하면서 효과적인 토론 수업을 지원할 수 있었다. 학습활동은 다음과 같은 순서로 이루어졌다."
     },
-    "image005": {
+    "image004": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image194.png"
     },
@@ -87,7 +87,7 @@
         "type": "text",
         "content": "이 수업에서는 기후 위기에 관한 글을 읽고 ‘기후 위기는 우리 모두의 책임인가?’라는 논제로 토론을 진행하였다. 이를 위해 먼저 기후 위기에 관한 기사를 읽으며 기후 위기 용어의 의미를 알고 기후 위기의 다양한 요인을 파악하였다. 학생들은 기사를 읽으며 추가 질문을 생성하였다. 내용 질문, 추론 질문, 확장 질문으로 나누어 젬보드에 질문을 올리고 서로 답하는 과정을 거친 후 토론을 진행하였다."
     },
-    "image006": {
+    "image005": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image195.png"
     },
@@ -95,7 +95,7 @@
         "type": "text",
         "content": "이 수업에서 교사는 ‘기후 위기는 우리 모두의 책임이 아니다’라는 입장을 취하였고 학생들은 ‘기후 위기는 우리 모두의 책임이다’라는 입장으로 토론을 진행하였다. 학생들의 주장에 교사는 ChatGPT를 활용하여 반박 논거를 생성하여 제시함으로써 학생들에게 즉각적인 피드백을 제공할 수 있었다. 다음은 ChatGPT가 생성한 반박 논거의 일부이다."
     },
-    "image007": {
+    "image006": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image231.png"
     },

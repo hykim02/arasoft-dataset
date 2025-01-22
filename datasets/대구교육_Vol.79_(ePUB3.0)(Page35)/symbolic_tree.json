@@ -6,10 +6,10 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image001",
+                "icon001",
                 {
                     "symbol_name": "textbox",
-                    "direction": "topdown",
+                    "direction": "top2down",
                     "children": [
                         "text001"
                     ]
@@ -21,14 +21,20 @@
             "direction": "top2down",
             "children": [
                 {
-                    "symbol_name": "layerlist_arccodian",
+                    "symbol_name": "layerlist_arccodion",
                     "direction": "top2down",
                     "children": [
                         {
                             "symbol_name": "nac_title",
                             "direction": "top2down",
                             "children": [
-                                "text002"
+                                {
+                                    "symbol_name": "textbox",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "text002"
+                                    ]
+                                }
                             ]
                         },
                         {
@@ -48,7 +54,13 @@
                             "symbol_name": "nac_title",
                             "direction": "top2down",
                             "children": [
-                                "text004"
+                                {
+                                    "symbol_name": "textbox",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "text004"
+                                    ]
+                                }
                             ]
                         },
                         {
@@ -63,14 +75,20 @@
                                     ]
                                 },
                                 {
-                                    "symbol_name": "layerlist_arccodian",
+                                    "symbol_name": "layerlist_arccodion",
                                     "direction": "top2down",
                                     "children": [
                                         {
                                             "symbol_name": "nac_title",
                                             "direction": "top2down",
                                             "children": [
-                                                "text006"
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text006"
+                                                    ]
+                                                }
                                             ]
                                         },
                                         {
@@ -90,7 +108,13 @@
                                             "symbol_name": "nac_title",
                                             "direction": "top2down",
                                             "children": [
-                                                "text008"
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text008"
+                                                    ]
+                                                }
                                             ]
                                         },
                                         {
@@ -110,7 +134,13 @@
                                             "symbol_name": "nac_title",
                                             "direction": "top2down",
                                             "children": [
-                                                "text010"
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text010"
+                                                    ]
+                                                }
                                             ]
                                         },
                                         {
@@ -134,7 +164,13 @@
                             "symbol_name": "nac_title",
                             "direction": "top2down",
                             "children": [
-                                "text012"
+                                {
+                                    "symbol_name": "textbox",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "text012"
+                                    ]
+                                }
                             ]
                         },
                         {
@@ -148,8 +184,8 @@
                                         "text013"
                                     ]
                                 },
+                                "image001",
                                 "image002",
-                                "image003",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -157,14 +193,20 @@
                                         "text014"
                                     ]
                                 },
-                                "image004"
+                                "image003"
                             ]
                         },
                         {
                             "symbol_name": "nac_title",
                             "direction": "top2down",
                             "children": [
-                                "text015"
+                                {
+                                    "symbol_name": "textbox",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "text015"
+                                    ]
+                                }
                             ]
                         },
                         {
@@ -178,7 +220,7 @@
                                         "text016"
                                     ]
                                 },
-                                "image005",
+                                "image004",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -186,7 +228,7 @@
                                         "text017"
                                     ]
                                 },
-                                "image006",
+                                "image005",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -194,7 +236,7 @@
                                         "text018"
                                     ]
                                 },
-                                "image007",
+                                "image006",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -208,7 +250,13 @@
                             "symbol_name": "nac_title",
                             "direction": "top2down",
                             "children": [
-                                "text020"
+                                {
+                                    "symbol_name": "textbox",
+                                    "direction": "top2down",
+                                    "children": [
+                                        "text020"
+                                    ]
+                                }
                             ]
                         },
                         {
@@ -223,14 +271,20 @@
                                     ]
                                 },
                                 {
-                                    "symbol_name": "layerlist_arccodian",
+                                    "symbol_name": "layerlist_arccodion",
                                     "direction": "top2down",
                                     "children": [
                                         {
                                             "symbol_name": "nac_title",
                                             "direction": "top2down",
                                             "children": [
-                                                "text022"
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text022"
+                                                    ]
+                                                }
                                             ]
                                         },
                                         {
@@ -250,7 +304,13 @@
                                             "symbol_name": "nac_title",
                                             "direction": "top2down",
                                             "children": [
-                                                "text024"
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text024"
+                                                    ]
+                                                }
                                             ]
                                         },
                                         {
@@ -270,7 +330,13 @@
                                             "symbol_name": "nac_title",
                                             "direction": "top2down",
                                             "children": [
-                                                "text026"
+                                                {
+                                                    "symbol_name": "textbox",
+                                                    "direction": "top2down",
+                                                    "children": [
+                                                        "text026"
+                                                    ]
+                                                }
                                             ]
                                         },
                                         {

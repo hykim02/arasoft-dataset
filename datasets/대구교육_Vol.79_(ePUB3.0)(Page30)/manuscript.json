@@ -3,8 +3,8 @@
         "type": "text",
         "content": "목차 페이지로 이동"
     },
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/daegu.png"
     },
     "text002": {
@@ -13,45 +13,45 @@
     },
     "text003": {
         "type": "text",
-        "content": "<교육과정 분석>"
+        "content": "교육과정 분석"
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image128.png"
     },
     "text004": {
         "type": "text",
-        "content": "<'지식의 구조'에 기반한 탐구 주제망>"
+        "content": "'지식의 구조'에 기반한 탐구 주제망"
     },
-    "image003": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image129.png"
     },
     "text005": {
         "type": "text",
-        "content": "<탐구 평가 계획>"
+        "content": "탐구 평가 계획"
     },
-    "image004": {
+    "image003": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image130.png"
     },
     "text006": {
         "type": "text",
-        "content": "<프로젝트설계> "
+        "content": "프로젝트설계 "
     },
-    "image005": {
+    "image004": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image132.png"
     },
-    "image006": {
+    "image005": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image133.png"
     },
     "text007": {
         "type": "text",
-        "content": "<수업의 흐름>"
+        "content": "수업의 흐름"
     },
-    "image007": {
+    "image006": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image134.png"
     },
