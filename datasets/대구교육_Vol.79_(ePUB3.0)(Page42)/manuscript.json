@@ -1,13 +1,13 @@
 {
-    "image001": {
-        "type": "image",
+    "icon001": {
+        "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/daegu.png"
     },
     "text001": {
         "type": "text",
         "content": "목차 페이지로 이동"
     },
-    "image002": {
+    "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image238.png"
     },
@@ -29,9 +29,9 @@
     },
     "text006": {
         "type": "text",
-        "content": "10월 가을 산행을 앞두고 ‘우리마을 교육나눔 월성2동 추진위원회’와 달서구청에서 주관하는 <탄소중립 실천 중> 행사 홍보글을 보았다. 탄소중립 실천 미션 중 하나가 학산공원 정상에 올라 쓰레기를 줍고 인증사진을 찍는 것이었다. 좋은 기회다 싶어 행사 담당자에게 연락을 해서 학교에서 하는 학산 산행과 연계해서 참여할 수 있겠냐고 문의하였고, 흔쾌히 행사 참가에 필요한 소품(쓰레기 봉투, 토퍼)을 제공해 줄 수 있다는 답변을 받았다."
+        "content": "10월 가을 산행을 앞두고 ‘우리마을 교육나눔 월성2동 추진위원회’와 달서구청에서 주관하는 탄소중립 실천 중 행사 홍보글을 보았다. 탄소중립 실천 미션 중 하나가 학산공원 정상에 올라 쓰레기를 줍고 인증사진을 찍는 것이었다. 좋은 기회다 싶어 행사 담당자에게 연락을 해서 학교에서 하는 학산 산행과 연계해서 참여할 수 있겠냐고 문의하였고, 흔쾌히 행사 참가에 필요한 소품(쓰레기 봉투, 토퍼)을 제공해 줄 수 있다는 답변을 받았다."
     },
-    "image003": {
+    "image002": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/PD4.png"
     },
@@ -43,7 +43,7 @@
         "type": "text",
         "content": "여기는 탄소중립 실천 중 인증샷"
     },
-    "image004": {
+    "image003": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/0311lvbwiflwv2w021.jpg"
     },
@@ -51,7 +51,7 @@
         "type": "text",
         "content": "산불 현장을 둘러보며 안타까워 하는 친구들"
     },
-    "image005": {
+    "image004": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/07t3f8dvtprfrdtdlrr12.jpg"
     },
@@ -67,7 +67,7 @@
         "type": "text",
         "content": "학산 들머리에서 집게를 높이 들고서"
     },
-    "image006": {
+    "image005": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/05et151f1k7l1r1n15.jpg"
     },
@@ -75,7 +75,7 @@
         "type": "text",
         "content": "학산 정상에서 인증샷"
     },
-    "image007": {
+    "image006": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/06eticf1v2w3.jpg"
     },
@@ -87,7 +87,7 @@
         "type": "text",
         "content": "친구들이 찾은 생활쓰레기"
     },
-    "image008": {
+    "image007": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/10rr1rt961tnj1.jpg"
     },
@@ -95,7 +95,7 @@
         "type": "text",
         "content": "쓰담쓰담 동네 한바퀴"
     },
-    "image009": {
+    "image008": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/09tftf6rh5n2.jpg"
     }

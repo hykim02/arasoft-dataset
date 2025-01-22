@@ -6,7 +6,7 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image001",
+                "icon001",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -20,7 +20,7 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image002",
+                "icon002",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -34,7 +34,7 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image003",
+                "icon003",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -48,7 +48,7 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image004",
+                "icon004",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -62,7 +62,7 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image005",
+                "icon005",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -76,7 +76,7 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image006",
+                "icon006",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -90,7 +90,7 @@
             "symbol_name": "container",
             "direction": "left2right",
             "children": [
-                "image007",
+                "icon007",
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
@@ -107,6 +107,6 @@
                 "text008"
             ]
         },
-        "image008"
+        "icon008"
     ]
 }
