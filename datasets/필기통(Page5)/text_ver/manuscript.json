@@ -1,0 +1,42 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "차시"
+    },
+    "text002": {
+        "type": "text",
+        "content": "2"
+    },
+    "text003": {
+        "type": "text",
+        "content": "과목명"
+    },
+    "text004": {
+        "type": "text",
+        "content": "인성 덕목 실천"
+    },
+    "text005": {
+        "type": "text",
+        "content": "ChatGPT"
+    },
+    "text006": {
+        "type": "text",
+        "content": "자기주도학습"
+    },
+    "text007": {
+        "type": "text",
+        "content": "행복한 세상"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%ED%95%84%EA%B8%B0%ED%86%B5(Page5)/image/happyworld-1.png?raw=true"
+    },
+    "text008": {
+        "type": "text",
+        "content": "행복한 우리나라"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%ED%95%84%EA%B8%B0%ED%86%B5(Page5)/image/happyworld-2.png?raw=true"
+    }
+}
