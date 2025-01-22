@@ -1,0 +1,157 @@
+{
+    "symbol_name": "container",
+    "direction": "top2down",
+    "children": [
+        "icon001",
+        {
+            "symbol_name": "layerlist_tab",
+            "direction": "top",
+            "children": [
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text001"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "icon002",
+                                "icon003",
+                                "icon004"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text002"
+                            ]
+                        },
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "image001",
+                                "image002"
+                            ]
+                        },
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "image003",
+                                "image004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text003"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "icon005",
+                                "icon006",
+                                "icon007"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text004"
+                            ]
+                        },
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "image005",
+                                "image006"
+                            ]
+                        },
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "image007",
+                                "image008"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text005"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "icon008",
+                                "icon009",
+                                "icon010"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text006"
+                            ]
+                        },
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text007"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

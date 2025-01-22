@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 	<name><![CDATA[2-1차수정 엘리스]]></name>
-	<filenum><![CDATA[5]]></filenum>
+	<filenum><![CDATA[1]]></filenum>
 	<properties>
 		<version><![CDATA[3.6.5.26]]></version>
 		<project-version><![CDATA[3.6.4.39]]></project-version>
@@ -18,7 +18,6 @@
 		<format><![CDATA[text/html]]></format>
 		<identifier><![CDATA[ISBN;not_regist_isbn]]></identifier>
 		<language><![CDATA[ko]]></language>
-		<cover><![CDATA[pubtree_cover.png]]></cover>
 		<orientation><![CDATA[auto]]></orientation>
 		<isvertical><![CDATA[FALSE]]></isvertical>
 		<isrtl><![CDATA[FALSE]]></isrtl>
@@ -67,108 +66,8 @@
 			<MediaOverlayPath><![CDATA[]]></MediaOverlayPath>
 			<MediaOverlayViewMin><![CDATA[-1]]></MediaOverlayViewMin>
 			<MediaOverlayViewMax><![CDATA[-1]]></MediaOverlayViewMax>
-			<path><![CDATA[.\content\page001.xhtml]]></path>
-			<name><![CDATA[ARA Cover]]></name>
-			<bookmark><![CDATA[]]></bookmark>
-			<pdf_thumbnail><![CDATA[]]></pdf_thumbnail>
-			<spread><![CDATA[]]></spread>
-			<flow><![CDATA[]]></flow>
-			<alignXcenter><![CDATA[FALSE]]></alignXcenter>
-			<level><![CDATA[0]]></level>
-			<Isvertical><![CDATA[FALSE]]></Isvertical>
-			<linear><![CDATA[TRUE]]></linear>
-			<addcontenttable><![CDATA[TRUE]]></addcontenttable>
-			<guidelines>
-				<guideline>
-					<IsHorizon><![CDATA[FALSE]]></IsHorizon>
-					<position><![CDATA[300]]></position>
-				</guideline>
-			</guidelines>
-			<inpreview><![CDATA[TRUE]]></inpreview>
-		</file>
-		<file>
-			<isPublish><![CDATA[TRUE]]></isPublish>
-			<MediaOverlayName><![CDATA[]]></MediaOverlayName>
-			<MediaOverlayPath><![CDATA[]]></MediaOverlayPath>
-			<MediaOverlayViewMin><![CDATA[-1]]></MediaOverlayViewMin>
-			<MediaOverlayViewMax><![CDATA[-1]]></MediaOverlayViewMax>
-			<path><![CDATA[.\content\page002.xhtml]]></path>
-			<name><![CDATA[2p]]></name>
-			<bookmark><![CDATA[]]></bookmark>
-			<pdf_thumbnail><![CDATA[]]></pdf_thumbnail>
-			<spread><![CDATA[]]></spread>
-			<flow><![CDATA[]]></flow>
-			<alignXcenter><![CDATA[FALSE]]></alignXcenter>
-			<level><![CDATA[0]]></level>
-			<Isvertical><![CDATA[FALSE]]></Isvertical>
-			<linear><![CDATA[TRUE]]></linear>
-			<addcontenttable><![CDATA[TRUE]]></addcontenttable>
-			<guidelines>
-				<guideline>
-					<IsHorizon><![CDATA[FALSE]]></IsHorizon>
-					<position><![CDATA[300]]></position>
-				</guideline>
-			</guidelines>
-			<inpreview><![CDATA[TRUE]]></inpreview>
-		</file>
-		<file>
-			<isPublish><![CDATA[TRUE]]></isPublish>
-			<MediaOverlayName><![CDATA[]]></MediaOverlayName>
-			<MediaOverlayPath><![CDATA[]]></MediaOverlayPath>
-			<MediaOverlayViewMin><![CDATA[-1]]></MediaOverlayViewMin>
-			<MediaOverlayViewMax><![CDATA[-1]]></MediaOverlayViewMax>
-			<path><![CDATA[.\content\page004.xhtml]]></path>
-			<name><![CDATA[3p]]></name>
-			<bookmark><![CDATA[]]></bookmark>
-			<pdf_thumbnail><![CDATA[]]></pdf_thumbnail>
-			<spread><![CDATA[]]></spread>
-			<flow><![CDATA[]]></flow>
-			<alignXcenter><![CDATA[FALSE]]></alignXcenter>
-			<level><![CDATA[0]]></level>
-			<Isvertical><![CDATA[FALSE]]></Isvertical>
-			<linear><![CDATA[TRUE]]></linear>
-			<addcontenttable><![CDATA[TRUE]]></addcontenttable>
-			<guidelines>
-				<guideline>
-					<IsHorizon><![CDATA[FALSE]]></IsHorizon>
-					<position><![CDATA[300]]></position>
-				</guideline>
-			</guidelines>
-			<inpreview><![CDATA[TRUE]]></inpreview>
-		</file>
-		<file>
-			<isPublish><![CDATA[TRUE]]></isPublish>
-			<MediaOverlayName><![CDATA[]]></MediaOverlayName>
-			<MediaOverlayPath><![CDATA[]]></MediaOverlayPath>
-			<MediaOverlayViewMin><![CDATA[-1]]></MediaOverlayViewMin>
-			<MediaOverlayViewMax><![CDATA[-1]]></MediaOverlayViewMax>
-			<path><![CDATA[.\content\page003.xhtml]]></path>
-			<name><![CDATA[4p]]></name>
-			<bookmark><![CDATA[]]></bookmark>
-			<pdf_thumbnail><![CDATA[]]></pdf_thumbnail>
-			<spread><![CDATA[]]></spread>
-			<flow><![CDATA[]]></flow>
-			<alignXcenter><![CDATA[FALSE]]></alignXcenter>
-			<level><![CDATA[0]]></level>
-			<Isvertical><![CDATA[FALSE]]></Isvertical>
-			<linear><![CDATA[TRUE]]></linear>
-			<addcontenttable><![CDATA[TRUE]]></addcontenttable>
-			<guidelines>
-				<guideline>
-					<IsHorizon><![CDATA[TRUE]]></IsHorizon>
-					<position><![CDATA[764]]></position>
-				</guideline>
-			</guidelines>
-			<inpreview><![CDATA[TRUE]]></inpreview>
-		</file>
-		<file>
-			<isPublish><![CDATA[TRUE]]></isPublish>
-			<MediaOverlayName><![CDATA[]]></MediaOverlayName>
-			<MediaOverlayPath><![CDATA[]]></MediaOverlayPath>
-			<MediaOverlayViewMin><![CDATA[-1]]></MediaOverlayViewMin>
-			<MediaOverlayViewMax><![CDATA[-1]]></MediaOverlayViewMax>
 			<path><![CDATA[.\content\page006.xhtml]]></path>
-			<name><![CDATA[5p]]></name>
+			<name><![CDATA[1 쪽]]></name>
 			<bookmark><![CDATA[]]></bookmark>
 			<pdf_thumbnail><![CDATA[]]></pdf_thumbnail>
 			<spread><![CDATA[]]></spread>
@@ -185,12 +84,12 @@
 		<component>
 			<name><![CDATA[표지]]></name>
 			<type><![CDATA[EBOOKCOMPONENT_COVER_TYPE]]></type>
-			<enable><![CDATA[TRUE]]></enable>
+			<enable><![CDATA[FALSE]]></enable>
 			<spread><![CDATA[]]></spread>
 			<flow><![CDATA[]]></flow>
 			<alignXcenter><![CDATA[FALSE]]></alignXcenter>
 			<Isvertical><![CDATA[FALSE]]></Isvertical>
-			<path><![CDATA[.\content\pubtree_cover.xhtml]]></path>
+			<path><![CDATA[]]></path>
 			<userchange><![CDATA[FALSE]]></userchange>
 			<linear><![CDATA[FALSE]]></linear>
 			<addcontenttable><![CDATA[FALSE]]></addcontenttable>

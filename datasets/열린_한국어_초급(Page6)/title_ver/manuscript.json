@@ -1,0 +1,102 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/baby_011.png"
+    },
+    "text001": {
+        "type": "text",
+        "content": "문제1"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "icon003": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_explain.png"
+    },
+    "icon004": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text002": {
+        "type": "text",
+        "content": "1. 티셔츠를 입는 여자는 어디에 가요?"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/Statsbiblioteket_lsesalen-2.jpg"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/co_so_1.jpg"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/anh-benh-vien.png"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/anh-rap-chieu-phim.jpg"
+    },
+    "text003": {
+        "type": "text",
+        "content": "문제 2"
+    },
+    "icon005": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "icon006": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_explain.png"
+    },
+    "icon007": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text004": {
+        "type": "text",
+        "content": "2. 도서관이 어디에 있어요?"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/c-s-2.jpg"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/co-so-.jpg"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/co_so_3.jpg"
+    },
+    "image008": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/co-sow-3.jpg"
+    },
+    "text005": {
+        "type": "text",
+        "content": "문제 3"
+    },
+    "icon008": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_hint.png"
+    },
+    "icon009": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_explain.png"
+    },
+    "icon010": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19349/OEBPS/nep_image/nac_qs_check.png"
+    },
+    "text006": {
+        "type": "text",
+        "content": "3. 드레스를 입는 여자는 무엇을 내려고 1캠퍼스에 가요?"
+    },
+    "text007": {
+        "type": "text",
+        "content": "내려고 1캠퍼스에 가고 싶은데 같이 갈래요?"
+    }
+}
