@@ -1,4 +1,28 @@
 {
+    "title001": {
+        "type": "title",
+        "content": "차시"
+    },
+    "title002": {
+        "type": "title",
+        "content": "2"
+    },
+    "title003": {
+        "type": "title",
+        "content": "과목명"
+    },
+    "title004": {
+        "type": "title",
+        "content": "인성 덕목 실천"
+    },
+    "title005": {
+        "type": "title",
+        "content": "ChatGPT"
+    },
+    "title006": {
+        "type": "title",
+        "content": "자기주도학습"
+    },
     "text001": {
         "type": "text",
         "content": "행복한 세상"

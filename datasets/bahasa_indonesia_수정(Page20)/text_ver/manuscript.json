@@ -1,0 +1,70 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page7)/image/home.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "1"
+    },
+    "text002": {
+        "type": "text",
+        "content": "tema"
+    },
+    "text003": {
+        "type": "text",
+        "content": "diri sendiri"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page20)/image/na_animation.png?raw=true"
+    },
+    "text004": {
+        "type": "text",
+        "content": "tekan panahr"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page20)/image/hand6.png?raw=true"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page20)/image/image33.JPG?raw=true"
+    },
+    "text005": {
+        "type": "text",
+        "content": "● membedakan bunyi huruf"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page20)/image/image34.png?raw=true"
+    },
+    "text006": {
+        "type": "text",
+        "content": "● melaksanakan perintah  \r\n     - sikap membaca buku\r\n     - sikap duduk\r\n     - sikap membuka buku  \r\n     - sikap menulis"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page20)/image/image35.png?raw=true"
+    },
+    "text007": {
+        "type": "text",
+        "content": "● memperkenalkan diri"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page20)/image/image36.png?raw=true"
+    },
+    "text008": {
+        "type": "text",
+        "content": "● menyebutkan guna anggota tubuh"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page20)/image/image37.png?raw=true"
+    },
+    "text009": {
+        "type": "text",
+        "content": "● menebalkan"
+    }
+}

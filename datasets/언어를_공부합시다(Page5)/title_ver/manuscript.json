@@ -1,4 +1,8 @@
 {
+    "title001": {
+        "type": "title",
+        "content": "가족"
+    },
     "text001": {
         "type": "text",
         "content": "딸"

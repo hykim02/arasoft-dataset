@@ -9,7 +9,9 @@
                 {
                     "symbol_name": "textbox",
                     "direction": "top2down",
-                    "children": []
+                    "children": [
+                        "title001"
+                    ]
                 },
                 "icon001"
             ]

@@ -1,0 +1,78 @@
+{
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page7)/image/na_animation14.png?raw=true"
+    },
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page7)/image/home.png?raw=true"
+    },
+    "title001": {
+        "type": "title",
+        "content": "budi duduk di kelas 1 sd"
+    },
+    "title002": {
+        "type": "title",
+        "content": "budi punya banyak teman baru  "
+    },
+    "title003": {
+        "type": "title",
+        "content": "budi berkenalan dengan teman baru"
+    },
+    "text001": {
+        "type": "text",
+        "content": "Ayo berlatih menyapa"
+    },
+    "text002": {
+        "type": "text",
+        "content": "Tuliskan di kotak persegi"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page7)/image/pencle2.png?raw=true"
+    },
+    "text003": {
+        "type": "text",
+        "content": "kenalkan  \r\n\r\nnama saya budi utama  \r\n\r\nnama panggilan saya budi  \r\n\r\numur saya tujuh tahun  \r\n\r\nrumah saya di dusun teladan  \r\n\r\nsaya bersekolah di sd nusantara"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page7)/image/3-5.JPG?raw=true"
+    },
+    "text004": {
+        "type": "text",
+        "content": "majulah ke depan kelas"
+    },
+    "text005": {
+        "type": "text",
+        "content": "ayo perkenalkan dirimu"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page7)/image/3-6.JPG?raw=true"
+    },
+    "text006": {
+        "type": "text",
+        "content": "hai teman teman  \r\n\r\nkenalkan\r\n\r\nnama saya \r\n\r\nnama panggilan saya \r\n\r\nrumah saya di"
+    },
+    "text007": {
+        "type": "text",
+        "content": "kamu bertemu teman baru"
+    },
+    "text008": {
+        "type": "text",
+        "content": "teman itu tidak satu sekolah denganmu  "
+    },
+    "text009": {
+        "type": "text",
+        "content": "coba kenalkan dirimu"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page7)/image/3-7.JPG?raw=true"
+    },
+    "text010": {
+        "type": "text",
+        "content": "hai kenalkan  \r\n\r\nnama saya \r\n\r\npanggil saja \r\n\r\nsaya tinggal di  \r\n\r\nsaya sekolah di \r\n\r\nsaya kelas "
+    }
+}

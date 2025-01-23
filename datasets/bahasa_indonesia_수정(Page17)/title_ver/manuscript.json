@@ -1,0 +1,58 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page3)/image/oudio1.png?raw=true"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page7)/image/home.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "contoh"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page17)/image/image27.png?raw=true"
+    },
+    "text002": {
+        "type": "text",
+        "content": "dewi bertemu rini di jalan  \r\n\r\ndewi lama tidak bertemu rini  \r\n\r\ndewi menyapa rini  \r\n\r\nbagaimana dewi menyapa rini  \r\n\r\nhei rin  \r\n\r\napa kabar"
+    },
+    "text003": {
+        "type": "text",
+        "content": "pekerjaan rumah"
+    },
+    "text004": {
+        "type": "text",
+        "content": "reni bertemu bu desi  \r\n\r\nbu desi tetangga reni  \r\n\r\nbu desi sedang  \r\n\r\nmemotong tanaman  \r\n\r\nreni menyapa bu desi  \r\n\r\n\r\n\r\nbagaimana reni menyapa \r\n\r\nbu desi"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page17)/image/image28.png?raw=true"
+    },
+    "text005": {
+        "type": "text",
+        "content": "doni bertemu toni di jalan  \r\n\r\ntoni teman doni  \r\n\r\ndoni menyapa toni\r\n\r\n\r\n\r\nbagaimana doni menyapa toni"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page17)/image/image29.png?raw=true"
+    },
+    "text006": {
+        "type": "text",
+        "content": "paman arya datang  \r\n\r\nke rumah mira  \r\n\r\nmira lama tidak bertemu  \r\n\r\npaman arya  \r\n\r\nmira menyapa paman arya\r\n\r\nbagaimana mira menyapa \r\n\r\npaman arya"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page17)/image/image30.png?raw=true"
+    },
+    "text007": {
+        "type": "text",
+        "content": "dini pulang sekolah  \r\n\r\nbersama rani  \r\n\r\nmereka berpisah  \r\n\r\ndi simpang jalan\r\n\r\nbagaimana dini menyapa rani"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/bahasa_indonesia_%EC%88%98%EC%A0%95(Page17)/image/image31.png?raw=true"
+    }
+}

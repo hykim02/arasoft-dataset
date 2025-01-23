@@ -15,6 +15,10 @@
         "type": "text",
         "content": "지도로 이동"
     },
+    "title001": {
+        "type": "title",
+        "content": "2-3.벽화 갤러리"
+    },
     "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/image126.jpg"
