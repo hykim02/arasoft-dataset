@@ -1,0 +1,26 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "안내 메세지"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/1.png"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/2.png"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/3.png"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/4.png"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/5mwuj3j.png"
+    }
+}

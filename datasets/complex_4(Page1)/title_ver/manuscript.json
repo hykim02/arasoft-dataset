@@ -1,0 +1,46 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/4065/OEBPS/nep_image/1r-br.png"
+    },
+    "text001": {
+        "type": "text",
+        "content": "EMPAT PASAR MAKRO"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/4065/OEBPS/nep_image/ffp.png"
+    },
+    "icon003": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/4065/OEBPS/nep_image/g7fp.png"
+    },
+    "text002": {
+        "type": "text",
+        "content": "EMPAT PASAR MAKRO"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image100.png"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image101.png"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image102.png"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/image126.jpg"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/image127.jpg"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/28521/OEBPS/nep_image/124.jpg"
+    }
+}

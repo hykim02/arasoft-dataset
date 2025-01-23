@@ -1,0 +1,34 @@
+{
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19123/OEBPS/nep_image/benteng-keraton-buton.jpg"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19123/OEBPS/nep_image/whatsappimage2023-06-26at13.46.312.jpeg"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19123/OEBPS/nep_image/88310973_210599260136556_8398181001066446848_n-300x1711.jpg"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19123/OEBPS/nep_image/pantai-pulau-bau-bau.jpg"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19553/OEBPS/nep_image/Harga-Tiket-Masuk-Taman-Safari-Bogor-630x.jpg"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19553/OEBPS/nep_image/savillage1.jpg"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19553/OEBPS/nep_image/curug-cilember.jpg"
+    },
+    "text001": {
+        "type": "text",
+        "content": "즐거운 동물원"
+    }
+}
