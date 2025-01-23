@@ -1,0 +1,30 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22409/OEBPS/nep_image/arrow_007.png"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22409/OEBPS/nep_image/arrow_007.png"
+    },
+    "title001": {
+        "type": "title",
+        "content": "Square Two"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22409/OEBPS/nep_image/rplayingwithfiresseconvierteenelquintovideomusicaldeblackpinkenalcanlarlos400millonesdereproducciones.jpeg"
+    },
+    "text001": {
+        "type": "text",
+        "content": "BLACKPINK - PLAYING WITH FIRE"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22409/OEBPS/nep_image/c3b5e550-cb95-4f00-8439-ba082e97e8701.jpeg"
+    },
+    "text002": {
+        "type": "text",
+        "content": "BLACKPINK - STAY"
+    }
+}

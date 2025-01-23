@@ -1,0 +1,46 @@
+{
+    "title001": {
+        "type": "title",
+        "content": "10.2"
+    },
+    "title002": {
+        "type": "title",
+        "content": "積層造形法（概要）"
+    },
+    "text001": {
+        "type": "text",
+        "content": "【集束イオンビーム (FIB：Focused Ion Beam)】"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/KBB(%EC%9D%BC%EB%B3%B8_%EC%BA%90%EB%93%9C_%EC%A0%84%EC%9E%90%EC%B1%85)(Page8)/image/vh13.png?raw=true"
+    },
+    "text002": {
+        "type": "text",
+        "content": "FIB装置の原理"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/KBB(%EC%9D%BC%EB%B3%B8_%EC%BA%90%EB%93%9C_%EC%A0%84%EC%9E%90%EC%B1%85)(Page8)/image/14.png?raw=true"
+    },
+    "text003": {
+        "type": "text",
+        "content": "点群データ作成の例"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/KBB(%EC%9D%BC%EB%B3%B8_%EC%BA%90%EB%93%9C_%EC%A0%84%EC%9E%90%EC%B1%85)(Page8)/image/16.png?raw=true"
+    },
+    "text004": {
+        "type": "text",
+        "content": "マイクロ加工の例"
+    },
+    "text005": {
+        "type": "text",
+        "content": "この図は、マイクロ（集束イオンビーム）加工システムの概要を示したものである。前述までは、新たなものづくりと称して1981年に考案された積層造形法、現在では誰もが知っている3次元プリンタの特徴と応用事例について紹介した。ここでは、これからの新たなものづくりを代表するマイクロ加工の一例として、集束イオンビーム（FIB）加工について紹介する。"
+    },
+    "text006": {
+        "type": "text",
+        "content": "そもそもマイクロ加工がなぜ必要か、という疑念を抱くことと思う。"
+    }
+}

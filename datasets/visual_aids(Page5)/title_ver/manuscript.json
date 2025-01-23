@@ -1,0 +1,14 @@
+{
+    "text001": {
+        "type": "text",
+        "content": "    Fruit and vegetable models should be able to be \"cut\" (divided) in half with a knife model, the separated parts should reflect the internal image of fruits and vegetables, and adhesive velcro should be used in the divided parts. Fruit and vegetable models should reflect their original colors and visual appearance.\r\n\r\nAll models included in the kit must be made of plastic material and painted. Used plastic materials and paints must meet relevant GOST standards. The set should be packed in a square-shaped - 40x40x10 cm cardboard box with a laminated face. An impressive closeup of the kit"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/4063/OEBPS/nep_image/daubeo.png"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/4063/OEBPS/nep_image/0edde95fb0e0db3d07595a804801d861.jpg"
+    }
+}

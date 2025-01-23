@@ -1,0 +1,66 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22411/OEBPS/nep_image/home.png"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22411/OEBPS/nep_image/matahari_2-removebg-preview.png"
+    },
+    "text001": {
+        "type": "text",
+        "content": "Skincare (AM) Routine"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22411/OEBPS/nep_image/facial-foam3.png"
+    },
+    "text002": {
+        "type": "text",
+        "content": "Facial Wash"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22411/OEBPS/nep_image/skincare3.png"
+    },
+    "text003": {
+        "type": "text",
+        "content": "Moisturizer"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22411/OEBPS/nep_image/sunscreen1.png"
+    },
+    "text004": {
+        "type": "text",
+        "content": "Sunscreen"
+    },
+    "text005": {
+        "type": "text",
+        "content": "Skincare (PM) Routine"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22411/OEBPS/nep_image/skincare7181.png"
+    },
+    "text006": {
+        "type": "text",
+        "content": "Double Cleansing"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22411/OEBPS/nep_image/facial-foam4.png"
+    },
+    "text007": {
+        "type": "text",
+        "content": "Facial Wash"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/22411/OEBPS/nep_image/skincare4.png"
+    },
+    "text008": {
+        "type": "text",
+        "content": "Moisturizer"
+    }
+}

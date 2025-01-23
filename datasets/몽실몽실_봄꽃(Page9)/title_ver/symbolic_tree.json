@@ -1,0 +1,112 @@
+{
+    "symbol_name": "container",
+    "direction": "top2down",
+    "children": [
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "icon001",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "title001"
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "icon002",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text001"
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "icon003",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text002"
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "icon004",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text003"
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "icon005",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text004"
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "icon006",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text005"
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "icon007",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text006"
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "textbox",
+            "direction": "top2down",
+            "children": [
+                "text007"
+            ]
+        },
+        "icon008"
+    ]
+}

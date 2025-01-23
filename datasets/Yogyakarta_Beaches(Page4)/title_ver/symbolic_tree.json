@@ -1,0 +1,175 @@
+{
+    "symbol_name": "container",
+    "direction": "top2down",
+    "children": [
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "image001",
+                {
+                    "symbol_name": "container",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text001"
+                            ]
+                        },
+                        {
+                            "symbol_name": "container",
+                            "direction": "left2right",
+                            "children": [
+                                "image002",
+                                "image003",
+                                "image004",
+                                "image005",
+                                "image006",
+                                "image007",
+                                "image008",
+                                "image009",
+                                "image010",
+                                "image011",
+                                "icon001",
+                                "icon002",
+                                "icon003"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "textbox",
+            "direction": "top2down",
+            "children": [
+                "text002"
+            ]
+        },
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                "icon004",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text003"
+                    ]
+                },
+                "icon005",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text004"
+                    ]
+                },
+                "icon006",
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text005"
+                    ]
+                }
+            ]
+        },
+        {
+            "symbol_name": "container",
+            "direction": "left2right",
+            "children": [
+                {
+                    "symbol_name": "textbox",
+                    "direction": "top2down",
+                    "children": [
+                        "text006"
+                    ]
+                },
+                "image012"
+            ]
+        },
+        {
+            "symbol_name": "layerlist_slider",
+            "direction": "left2right",
+            "children": [
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": []
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text007"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": []
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        "image013",
+                        {
+                            "symbol_name": "textbox",
+                            "direction": "top2down",
+                            "children": [
+                                "text008"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": []
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        "image014"
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": []
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        "image015"
+                    ]
+                },
+                {
+                    "symbol_name": "nac_title",
+                    "direction": "top2down",
+                    "children": []
+                },
+                {
+                    "symbol_name": "nac_item",
+                    "direction": "top2down",
+                    "children": [
+                        "image016"
+                    ]
+                }
+            ]
+        }
+    ]
+}

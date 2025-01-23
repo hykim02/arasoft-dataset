@@ -1,0 +1,74 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/korea.png?raw=true"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/title.png?raw=true"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/click.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "Click on the logo to visit the company website."
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/text.png?raw=true"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/phone.png?raw=true"
+    },
+    "text002": {
+        "type": "text",
+        "content": "Dolabs aims to foster children's 'self-control abilities' in an enjoyable way and strives for a safe smartphone care system that prevents exposure to harmful content. Our goal is to launch from this point and become an educational platform for creating a safe environment, extending from homes to schools, communities, children to the elderly, both domestically and globally."
+    },
+    "text003": {
+        "type": "text",
+        "content": "1"
+    },
+    "text004": {
+        "type": "text",
+        "content": "The features of IBELIEVE."
+    },
+    "text005": {
+        "type": "text",
+        "content": "Features"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/easay.png?raw=true"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/heart.png?raw=true"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/pre.png?raw=true"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/nav.png?raw=true"
+    },
+    "image008": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/mode.png?raw=true"
+    },
+    "image009": {
+        "type": "image",
+        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/custom.png?raw=true"
+    },
+    "text006": {
+        "type": "text",
+        "content": " More features, lower prices "
+    },
+    "text007": {
+        "type": "text",
+        "content": "Offering a variety of features compared to other services,\r\n\r\nwe provide our service at a reasonable cost."
+    }
+}

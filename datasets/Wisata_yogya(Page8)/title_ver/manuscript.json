@@ -1,13 +1,13 @@
 {
-    "text001": {
-        "type": "text",
+    "title001": {
+        "type": "title",
         "content": "Wisata QUIZ YOGYA"
     },
     "image001": {
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/tugu-jogja-6263253-51225171.png"
     },
-    "text002": {
+    "text001": {
         "type": "text",
         "content": "1"
     },
@@ -23,7 +23,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_check.png"
     },
-    "text003": {
+    "text002": {
         "type": "text",
         "content": "Manakah foto obyek wisata Malioboro dibawah ini yang benar?"
     },
@@ -59,7 +59,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/10.jpg"
     },
-    "text004": {
+    "text003": {
         "type": "text",
         "content": "2"
     },
@@ -75,7 +75,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_check.png"
     },
-    "text005": {
+    "text004": {
         "type": "text",
         "content": "Manakah menu makanan khas yogya dibawah ini?"
     },
@@ -111,7 +111,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/padang2.jpg"
     },
-    "text006": {
+    "text005": {
         "type": "text",
         "content": "3"
     },
@@ -127,7 +127,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_check.png"
     },
-    "text007": {
+    "text006": {
         "type": "text",
         "content": "Wayang merupakan salah satu kesenian tradisional dari pulau.."
     },
@@ -135,7 +135,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q01.png"
     },
-    "text008": {
+    "text007": {
         "type": "text",
         "content": "Jawa"
     },
@@ -143,7 +143,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q02.png"
     },
-    "text009": {
+    "text008": {
         "type": "text",
         "content": "Sumatra"
     },
@@ -151,7 +151,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q03.png"
     },
-    "text010": {
+    "text009": {
         "type": "text",
         "content": "Kalimantan"
     },
@@ -159,11 +159,11 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q04.png"
     },
-    "text011": {
+    "text010": {
         "type": "text",
         "content": "Sulawesi"
     },
-    "text012": {
+    "text011": {
         "type": "text",
         "content": "4"
     },
@@ -179,7 +179,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_check.png"
     },
-    "text013": {
+    "text012": {
         "type": "text",
         "content": "Candi borobudur adalah peninggalan agama..."
     },
@@ -187,7 +187,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q01.png"
     },
-    "text014": {
+    "text013": {
         "type": "text",
         "content": "Islam"
     },
@@ -195,7 +195,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q02.png"
     },
-    "text015": {
+    "text014": {
         "type": "text",
         "content": "Hindu"
     },
@@ -203,7 +203,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q03.png"
     },
-    "text016": {
+    "text015": {
         "type": "text",
         "content": "Budha"
     },
@@ -211,11 +211,11 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q04.png"
     },
-    "text017": {
+    "text016": {
         "type": "text",
         "content": "konghucu"
     },
-    "text018": {
+    "text017": {
         "type": "text",
         "content": "5"
     },
@@ -231,7 +231,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/nac_qs_check.png"
     },
-    "text019": {
+    "text018": {
         "type": "text",
         "content": "Keraton Ngayogyakarta Hadiningrat atau Keraton Yogyakarta didirikan pada tahun..."
     },
@@ -239,7 +239,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q01.png"
     },
-    "text020": {
+    "text019": {
         "type": "text",
         "content": "Tahun 1775"
     },
@@ -247,7 +247,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q02.png"
     },
-    "text021": {
+    "text020": {
         "type": "text",
         "content": "Tahun 1770"
     },
@@ -255,7 +255,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q03.png"
     },
-    "text022": {
+    "text021": {
         "type": "text",
         "content": "Tahun 1750"
     },
@@ -263,7 +263,7 @@
         "type": "icon",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19585/OEBPS/nep_image/q04.png"
     },
-    "text023": {
+    "text022": {
         "type": "text",
         "content": "Tahun 1755"
     }
