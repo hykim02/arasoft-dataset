@@ -1,17 +1,17 @@
 {
-    "text001": {
-        "type": "text",
+    "title001": {
+        "type": "title",
         "content": "8"
     },
-    "text002": {
-        "type": "text",
+    "title002": {
+        "type": "title",
         "content": "학교 배치도"
     },
-    "text003": {
+    "text001": {
         "type": "text",
         "content": "클릭하면 해당 \r\n\r\n페이지로 이동합니다"
     },
-    "text004": {
+    "text002": {
         "type": "text",
         "content": "1층"
     },
@@ -19,7 +19,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/1.png"
     },
-    "text005": {
+    "text003": {
         "type": "text",
         "content": "2층"
     },
@@ -27,7 +27,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/2.png"
     },
-    "text006": {
+    "text004": {
         "type": "text",
         "content": "3층"
     },
@@ -35,7 +35,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/3.png"
     },
-    "text007": {
+    "text005": {
         "type": "text",
         "content": "4층"
     },
@@ -43,7 +43,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/4.png"
     },
-    "text008": {
+    "text006": {
         "type": "text",
         "content": "5층"
     },
@@ -51,7 +51,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/5mwuj3j.png"
     },
-    "text009": {
+    "text007": {
         "type": "text",
         "content": "2층 갤러리"
     },
@@ -59,7 +59,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/2.jpg"
     },
-    "text010": {
+    "text008": {
         "type": "text",
         "content": "2층 공용공간"
     },
@@ -67,7 +67,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/.jpg"
     },
-    "text011": {
+    "text009": {
         "type": "text",
         "content": "2층 공용공간"
     },
@@ -75,7 +75,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/22.jpg"
     },
-    "text012": {
+    "text010": {
         "type": "text",
         "content": "2층 공용공간"
     },
@@ -83,7 +83,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/23.jpg"
     },
-    "text013": {
+    "text011": {
         "type": "text",
         "content": "2층 스마트실"
     },
@@ -91,7 +91,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/21.jpg"
     },
-    "text014": {
+    "text012": {
         "type": "text",
         "content": "2층 약수터"
     },
@@ -99,7 +99,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/1.jpg"
     },
-    "text015": {
+    "text013": {
         "type": "text",
         "content": "2층 온라인 스튜디오"
     },
@@ -107,7 +107,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/3.jpg"
     },
-    "text016": {
+    "text014": {
         "type": "text",
         "content": "3층 갤러리"
     },
@@ -115,7 +115,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/4.jpg"
     },
-    "text017": {
+    "text015": {
         "type": "text",
         "content": "3층스마트실 "
     },
@@ -123,7 +123,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/32.jpg"
     },
-    "text018": {
+    "text016": {
         "type": "text",
         "content": "3층 약수터"
     },
@@ -131,7 +131,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/5.jpg"
     },
-    "text019": {
+    "text017": {
         "type": "text",
         "content": "4층 스터디카페"
     },
@@ -139,7 +139,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/6.jpg"
     },
-    "text020": {
+    "text018": {
         "type": "text",
         "content": "4층 약수터"
     },
@@ -147,7 +147,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/7.jpg"
     },
-    "text021": {
+    "text019": {
         "type": "text",
         "content": "4층 홈베이스"
     },
@@ -155,7 +155,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/8.jpg"
     },
-    "text022": {
+    "text020": {
         "type": "text",
         "content": "AI실"
     },
@@ -163,7 +163,7 @@
         "type": "image",
         "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29122/OEBPS/nep_image/ai.jpg"
     },
-    "text023": {
+    "text021": {
         "type": "text",
         "content": "AI실"
     },
