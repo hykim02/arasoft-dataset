@@ -1,0 +1,74 @@
+{
+    "title001": {
+        "type": "title",
+        "content": "이럴땐 이렇게"
+    },
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%A0%80%EC%9E%91%EA%B6%8C(%ED%95%9C%EA%B5%AD_%EB%93%9C%EB%9D%BC%EB%A7%88_%EB%B3%BC%EB%9E%98)(Page5)/image/4546-5.png?raw=true"
+    },
+    "title002": {
+        "type": "title",
+        "content": "드라마나 영화를 다운로드할 때 꼭 알아야 할 저작권 핵심을 알아볼까요?"
+    },
+    "text001": {
+        "type": "text",
+        "content": "저작권"
+    },
+    "text002": {
+        "type": "text",
+        "content": "저작자가 자신이 창작한 저작물에 대해 갖는 법적 권리 입니다."
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%A0%80%EC%9E%91%EA%B6%8C(%ED%95%9C%EA%B5%AD_%EB%93%9C%EB%9D%BC%EB%A7%88_%EB%B3%BC%EB%9E%98)(Page5)/image/DFOEEE-37.png?raw=true"
+    },
+    "text003": {
+        "type": "text",
+        "content": "저작자"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%A0%80%EC%9E%91%EA%B6%8C(%ED%95%9C%EA%B5%AD_%EB%93%9C%EB%9D%BC%EB%A7%88_%EB%B3%BC%EB%9E%98)(Page5)/image/vml.jpg?raw=true"
+    },
+    "text004": {
+        "type": "text",
+        "content": "저작물을 창작한 자"
+    },
+    "text005": {
+        "type": "text",
+        "content": "(또는 창작자)"
+    },
+    "text006": {
+        "type": "text",
+        "content": "저작물"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%A0%80%EC%9E%91%EA%B6%8C(%ED%95%9C%EA%B5%AD_%EB%93%9C%EB%9D%BC%EB%A7%88_%EB%B3%BC%EB%9E%98)(Page5)/image/image4.png?raw=true"
+    },
+    "text007": {
+        "type": "text",
+        "content": "사람의 생각 또는 감정을"
+    },
+    "text008": {
+        "type": "text",
+        "content": "독창적으로 표현한 것"
+    },
+    "text009": {
+        "type": "text",
+        "content": "책, 음악, 영화와 같은 창작물은 저작물이라고 합니다. 저작물은 창작자가 만든 작품입니다. 저작물에는 저작권이 있습니다. 저작권은 저작물을 만든 사람이 가지는 권리입니다. 저작권은 저작자가 자신의 작품을 보호하고, 다른 사람들이 허락 없이 사용하는 것을 막을 수 있게 합니다. 예를 들어, 누군가가 저작자의 허락 없이 저작물을 복사하거나 배포하면 저작권을 침해하는 것입니다. 저작권을 침해하면 법적으로 처벌을 받을 수 있습니다. 따라서 책이나 음악을 사용할 때는 반드시 저작자의 허락을 받아야 합니다. 저작권을 존중하는 것은 창작자의 권리를 보호하고, 더 많은 좋은 저작물이 만들어질 수 있도록 도와줍니다. 저작물, 저작권, 저작자에 대해 이해하고 올바르게 사용하는 것이 중요합니다."
+    },
+    "text010": {
+        "type": "text",
+        "content": "인터넷에서 드라마나 영화를 무료로 다운로드하는 것은"
+    },
+    "text011": {
+        "type": "text",
+        "content": "저작자가 저작물에 대해 가지는 저작권을 침해하는"
+    },
+    "text012": {
+        "type": "text",
+        "content": "행위입니다."
+    }
+}
