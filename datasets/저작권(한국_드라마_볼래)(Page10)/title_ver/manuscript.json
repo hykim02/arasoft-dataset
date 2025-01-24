@@ -1,0 +1,22 @@
+{
+    "title001": {
+        "type": "title",
+        "content": "Chapter 2"
+    },
+    "title002": {
+        "type": "title",
+        "content": "한국 드라마 볼래?"
+    },
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%A0%80%EC%9E%91%EA%B6%8C(%ED%95%9C%EA%B5%AD_%EB%93%9C%EB%9D%BC%EB%A7%88_%EB%B3%BC%EB%9E%98)(Page10)/image/4546-.png?raw=true"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EC%A0%80%EC%9E%91%EA%B6%8C(%ED%95%9C%EA%B5%AD_%EB%93%9C%EB%9D%BC%EB%A7%88_%EB%B3%BC%EB%9E%98)(Page10)/image/p002.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "EOIN이 최신 드라마를 인터넷에서 무료로 다운받아서 보려고 하는데요. 무료 사이트라고 해서 마음대로 드라마나 영화를 다운받아도 되는 것일까요?\r\n\r\n대화 속에 숨어 있는 ‘저작권 주요 내용을’을 파악하면서 오늘의 대화를 살펴볼까요?"
+    }
+}
