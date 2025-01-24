@@ -1,0 +1,38 @@
+{
+    "title001": {
+        "type": "title",
+        "content": "Kulineran"
+    },
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19553/OEBPS/nep_image/homebtn.png"
+    },
+    "text001": {
+        "type": "text",
+        "content": "Soto"
+    },
+    "text002": {
+        "type": "text",
+        "content": "Soto Mie Bogor\r\n\r\nSoto Mie Bogor adalah hidangan yang menggabungkan soto dan mie. Kuah kaldu yang gurih disajikan bersama mie kuning, irisan daging sapi, pangsit, tauge, dan bawang goreng. Ini adalah hidangan yang sangat populer di Bogor."
+    },
+    "text003": {
+        "type": "text",
+        "content": "Roti Unyil"
+    },
+    "text004": {
+        "type": "text",
+        "content": "Roti \r\n\r\nUnyil\r\n\r\n\r\n\r\nRoti Unyil Karya Baru adalah roti kecil yang terkenal di Bogor. Roti-roti ini biasanya berisi aneka rasa seperti cokelat, keju, dan kacang. Mereka sangat populer sebagai camilan ringan di Bogor."
+    },
+    "text005": {
+        "type": "text",
+        "content": "Asinan"
+    },
+    "text006": {
+        "type": "text",
+        "content": "Asinan \r\n\r\nBogor\r\n\r\nAsinan Bogor adalah campuran berbagai jenis buah dan sayuran yang disiram dengan kuah kacang pedas dan gurih. Biasanya terdapat buah-buahan seperti nanas, kedondong, mangga muda, serta tahu dan tempe. Asinan Bogor memiliki rasa segar dan pedas yang khas."
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19553/OEBPS/nep_image/tasty-removebg-preview.png"
+    }
+}
