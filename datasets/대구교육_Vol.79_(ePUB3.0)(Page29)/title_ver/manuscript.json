@@ -1,0 +1,86 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/daegu.png"
+    },
+    "text001": {
+        "type": "text",
+        "content": "목차 페이지로 이동"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image18.png"
+    },
+    "text002": {
+        "type": "text",
+        "content": "제갈 민 규  대구교동덕초등학교 교사"
+    },
+    "text003": {
+        "type": "text",
+        "content": "깊이 있는 학습의 필요성"
+    },
+    "text004": {
+        "type": "text",
+        "content": "  4차 산업혁명의 도래로 빅데이터로서의 거대한 지식 소유 주체는 인간에서 기술로 이전되어 가고 있다. 앞으로 인간의 역할은 지식을 축적하는 것이 아닌 기술이 제공해 주는 정보를 바탕으로 빠르게 변화하는 사회 속 여러 문제에 주도적으로 대처하고 새로운 아이디어를 창출해 내며 적용하는 쪽으로 바뀌어 가야 한다. 이에 교사는 학생의 삶을 중심으로 교육과정을 맥락적으로 해석하고, 이해와 전이에 바탕을 둔 시너지적 사고를 내는 전략을 마련하여 학생의 성장과 발달을 촉진할 필요가 있다. 한편 학생은 배움의 주체자로서 목표를 스스로 세워 책임감 있게 행동하며 삶의 변화를 불러올 수 있는 주도성을 가져야 한다. 이와 관련하여 2022 개정 교육과정에서는 교과 간 연계와 통합, 학생의 삶과 연계된 학습, 학습에 대한 성찰을 통해 ‘깊이 있는 학습’을 구현할 것을 강조한다. 그렇다면 ‘깊이 있는 학습’을 어떻게 구체적으로 구현할 수 있을까? 이와 관련하여 미래를 살아갈 학생들의 변혁적 역량을 기르기 위한 ‘깊이 있는 학습’의 설계 방안을 논하고자 한다."
+    },
+    "text005": {
+        "type": "text",
+        "content": "깊이 있는 학습을 위한 HEROES 탐구 과학"
+    },
+    "text006": {
+        "type": "text",
+        "content": "  HEROES 탐구 과정의 설계 의도와 단계별 탐구 과정을 도식화하면 다음과 같다."
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image47.png"
+    },
+    "text007": {
+        "type": "text",
+        "content": "깊이 있는 학습을 위한 STICK 탐구 전략"
+    },
+    "text008": {
+        "type": "text",
+        "content": "성취 기준은 알아야 하는 것(Know)과 할 수 있어야 하는 것(Do)을 함께 명시하고 있는데, 정작 '어떻게 탐구해야 할 것 인가'의 방법적 접근에 대한 중요성은 크게 부각되지 않고 있다. STICK 전략을 적용하여 다양한 기법들을 안내함으로써 학생들이 탐구 과정에서 주도적으로 활용할 수 있다."
+    },
+    "text009": {
+        "type": "text",
+        "content": "Share"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image48.png"
+    },
+    "text010": {
+        "type": "text",
+        "content": "Think"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image52.png"
+    },
+    "text011": {
+        "type": "text",
+        "content": "Investigate"
+    },
+    "image005": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image61.png"
+    },
+    "text012": {
+        "type": "text",
+        "content": "Cooperate"
+    },
+    "image006": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image62.png"
+    },
+    "text013": {
+        "type": "text",
+        "content": "Self-Knowledge"
+    },
+    "image007": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/image104.png"
+    }
+}
