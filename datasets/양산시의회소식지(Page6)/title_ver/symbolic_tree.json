@@ -20,7 +20,7 @@
             "symbol_name": "textbox",
             "direction": "top2down",
             "children": [
-                "text002"
+                "title001"
             ]
         },
         {
@@ -35,7 +35,7 @@
                             "symbol_name": "textbox",
                             "direction": "top2down",
                             "children": [
-                                "text003"
+                                "text002"
                             ]
                         }
                     ]
@@ -48,12 +48,12 @@
                             "symbol_name": "textbox",
                             "direction": "top2down",
                             "children": [
+                                "text003",
                                 "text004",
-                                "text005",
                                 "image001",
-                                "text006",
+                                "text005",
                                 "image002",
-                                "text007"
+                                "text006"
                             ]
                         }
                     ]
@@ -66,7 +66,7 @@
                             "symbol_name": "textbox",
                             "direction": "top2down",
                             "children": [
-                                "text008"
+                                "text007"
                             ]
                         }
                     ]
@@ -79,11 +79,11 @@
                             "symbol_name": "textbox",
                             "direction": "top2down",
                             "children": [
-                                "text009",
+                                "text008",
                                 "image003",
-                                "text010",
+                                "text009",
                                 "image004",
-                                "text011"
+                                "text010"
                             ]
                         }
                     ]
@@ -94,7 +94,7 @@
             "symbol_name": "textbox",
             "direction": "top2down",
             "children": [
-                "text012"
+                "text011"
             ]
         }
     ]

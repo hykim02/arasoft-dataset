@@ -16,7 +16,13 @@
                 "icon001"
             ]
         },
-        "title001",
+        {
+            "symbol_name": "textbox",
+            "direction": "top2down",
+            "children": [
+                "title001"
+            ]
+        },
         {
             "symbol_name": "layerlist_arccodion",
             "direction": "top2down",
@@ -264,7 +270,7 @@
             "symbol_name": "textbox",
             "direction": "top2down",
             "children": [
-                "text023"
+                "title002"
             ]
         }
     ]

@@ -7,11 +7,11 @@
         "type": "icon",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/book.png?raw=true"
     },
-    "text002": {
-        "type": "text",
+    "title001": {
+        "type": "title",
         "content": "제8대 전반기 양산시의회 의원"
     },
-    "text003": {
+    "text002": {
         "type": "text",
         "content": "의장"
     },
@@ -19,11 +19,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/jonghee.png?raw=true"
     },
-    "text004": {
+    "text003": {
         "type": "text",
         "content": "이 종 희\n\n▶ 직 위 : 의장\n\n▶ 선거구 : 다선거구 (상북,하북,강서)\n\n▶ 정 당 : 국민의힘"
     },
-    "text005": {
+    "text004": {
         "type": "text",
         "content": "부의장"
     },
@@ -31,15 +31,15 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/seonho.png?raw=true"
     },
-    "text006": {
+    "text005": {
         "type": "text",
         "content": "최 선 호\n\n▶ 직 위 : 부의장\n\n▶ 선거구 : 마선거구 (동면,양주)\n\n▶ 정 당 : 더불어민주당"
     },
-    "text007": {
+    "text006": {
         "type": "text",
         "content": "의회운영위원회"
     },
-    "text008": {
+    "text007": {
         "type": "text",
         "content": "최복춘"
     },
@@ -47,11 +47,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/bokchun.png?raw=true"
     },
-    "text009": {
+    "text008": {
         "type": "text",
         "content": "최 복 춘\r\n\r\n▶ 직 위 : 위원\r\n\r\n▶ 선거구 : 마선거구 (동면,양주)\r\n\r\n▶ 정 당 : 국민의힘"
     },
-    "text010": {
+    "text009": {
         "type": "text",
         "content": "박일배"
     },
@@ -59,11 +59,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/ilbae.png?raw=true"
     },
-    "text011": {
+    "text010": {
         "type": "text",
         "content": "박 일 배\r\n\r\n▶ 직 위 : 위원장\r\n\r\n▶ 선거구 : 사선거구 (평산,덕계)\r\n\r\n▶ 정 당 : 국민의힘"
     },
-    "text012": {
+    "text011": {
         "type": "text",
         "content": "정성훈"
     },
@@ -71,11 +71,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/sunghun.png?raw=true"
     },
-    "text013": {
+    "text012": {
         "type": "text",
         "content": "정 성 훈\r\n\r\n▶ 직 위 : 부위원장\r\n\r\n▶ 선거구 : 가선거구 (물금읍(범어리))\r\n\r\n▶ 정 당 : 국민의힘"
     },
-    "text014": {
+    "text013": {
         "type": "text",
         "content": "김혜림"
     },
@@ -83,11 +83,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/herim.png?raw=true"
     },
-    "text015": {
+    "text014": {
         "type": "text",
         "content": "김 혜 림\r\n\r\n▶ 직 위 : 위원\r\n\r\n▶ 선거구 : 가선거구 (물금읍(범어리))\r\n\r\n▶ 정 당 : 더불어민주당"
     },
-    "text016": {
+    "text015": {
         "type": "text",
         "content": "최순희"
     },
@@ -95,15 +95,15 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/sunhee.png?raw=true"
     },
-    "text017": {
+    "text016": {
         "type": "text",
         "content": "최 순 희\r\n\r\n▶ 직 위 : 위원\r\n\r\n▶ 선거구 : 비례대표\r\n\r\n▶ 정 당 : 더불어민주당"
     },
-    "text018": {
+    "text017": {
         "type": "text",
         "content": "기획행정위원회"
     },
-    "text019": {
+    "text018": {
         "type": "text",
         "content": "정숙남"
     },
@@ -111,11 +111,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/suknam.png?raw=true"
     },
-    "text020": {
+    "text019": {
         "type": "text",
         "content": "정 숙 남\r\n\r\n▶ 직 위 : 위원장\r\n\r\n▶ 선거구 : 나선거구\r\n\r\n(물급읍(물금리,증산리,가촌리), 원동)\r\n\r\n▶ 정 당 : 국민의힘"
     },
-    "text021": {
+    "text020": {
         "type": "text",
         "content": "김석규"
     },
@@ -123,11 +123,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/sukgyu.png?raw=true"
     },
-    "text022": {
+    "text021": {
         "type": "text",
         "content": "김 석 규\r\n\r\n▶ 직 위 : 부위원장\r\n\r\n▶ 선거구 : 사선거구 (평산,덕계)\r\n\r\n▶ 정 당 : 더불어민주당"
     },
-    "text023": {
+    "text022": {
         "type": "text",
         "content": "박일배"
     },
@@ -135,11 +135,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/ilbae.png?raw=true"
     },
-    "text024": {
+    "text023": {
         "type": "text",
         "content": "박 일 배\r\n\r\n▶ 직 위 : 위원\r\n\r\n▶ 선거구 : 사선거구 (평산,덕계)\r\n\r\n▶ 정 당 : 국민의힘"
     },
-    "text025": {
+    "text024": {
         "type": "text",
         "content": "최선호"
     },
@@ -147,11 +147,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/seonho.png?raw=true"
     },
-    "text026": {
+    "text025": {
         "type": "text",
         "content": "최 선 호\r\n\r\n▶ 직 위 : 위원\r\n\r\n▶ 선거구 : 마선거구 (동면,양주)\r\n\r\n▶ 정 당 : 더불어민주당"
     },
-    "text027": {
+    "text026": {
         "type": "text",
         "content": "신재향"
     },
@@ -159,11 +159,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/jahyang.png?raw=true"
     },
-    "text028": {
+    "text027": {
         "type": "text",
         "content": "신 재 향\r\n\r\n▶ 직 위 : 위원\r\n\r\n▶ 선거구 : 라선거구 (중앙,삼성)\r\n\r\n▶ 정 당 : 더불어민주당"
     },
-    "text029": {
+    "text028": {
         "type": "text",
         "content": "성용근"
     },
@@ -171,11 +171,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/youngeun.png?raw=true"
     },
-    "text030": {
+    "text029": {
         "type": "text",
         "content": "성 용 근\r\n\r\n▶ 직 위 : 위원\r\n\r\n▶ 선거구 : 바선거구 (서창,소주)\r\n\r\n▶ 정 당 : 국민의힘"
     },
-    "text031": {
+    "text030": {
         "type": "text",
         "content": "이묘배"
     },
@@ -183,11 +183,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/myobae.png?raw=true"
     },
-    "text032": {
+    "text031": {
         "type": "text",
         "content": "이 묘 배\r\n\r\n▶ 직 위 : 위원\r\n\r\n▶ 선거구 : 나선거구  \r\n\r\n(물급읍(물금리,증산리,가촌리), 원동)\r\n\r\n▶ 정 당 : 더불어민주당"
     },
-    "text033": {
+    "text032": {
         "type": "text",
         "content": "정성훈"
     },
@@ -195,11 +195,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/sunghun.png?raw=true"
     },
-    "text034": {
+    "text033": {
         "type": "text",
         "content": "정 성 훈\r\n\r\n▶ 직 위 : 위원\r\n\r\n▶ 선거구 : 가선거구 (물금읍(범어리))\r\n\r\n▶ 정 당 : 국민의힘"
     },
-    "text035": {
+    "text034": {
         "type": "text",
         "content": "송은영"
     },
@@ -207,11 +207,11 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/%EC%96%91%EC%82%B0%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%86%8C%EC%8B%9D%EC%A7%80(Page5)/image/young.png?raw=true"
     },
-    "text036": {
+    "text035": {
         "type": "text",
         "content": "송 은 영\r\n\r\n▶ 직 위 : 위원\r\n\r\n▶ 선거구 : 비례대표\r\n\r\n▶ 정 당 : 국민의힘"
     },
-    "text037": {
+    "text036": {
         "type": "text",
         "content": "양산시민과 함께 나누는 건강한 소통 22호"
     }
