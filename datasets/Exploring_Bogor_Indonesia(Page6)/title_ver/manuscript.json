@@ -1,0 +1,46 @@
+{
+    "title001": {
+        "type": "title",
+        "content": "Hotels"
+    },
+    "icon001": {
+        "type": "icon",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19553/OEBPS/nep_image/homebtn.png"
+    },
+    "text001": {
+        "type": "text",
+        "content": "Zest Bogor by Swiss-Belhotel"
+    },
+    "text002": {
+        "type": "text",
+        "content": "Located just a 5-minute drive from Bogor Presidential Palace, Zest Bogor by Swiss-Belhotel International offers modern and colourful accommodation with free WiFi access, meeting facilities, and free on-site parking for guests who drive. Special facilities for disabled guests are also available.\r\n\r"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19553/OEBPS/nep_image/lessfoto.jpg"
+    },
+    "text003": {
+        "type": "text",
+        "content": "Hotel Santika Bogor"
+    },
+    "text004": {
+        "type": "text",
+        "content": "Situated in the city’s largest mall, Botanical Square, Hotel Santika Bogor offers modern rooms with flat-screen TVs and free Wi-Fi. It boasts a spa, fitness centre and pool. Free parking is available. The hotel is accessible from Jagorawi Toll Gate.  "
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19553/OEBPS/nep_image/santikafoto.jpg"
+    },
+    "text005": {
+        "type": "text",
+        "content": "Novotel Bogor Golf Resort"
+    },
+    "text006": {
+        "type": "text",
+        "content": "Situated in the city’s largest mall, Botanical Square,Novotel Bogor is a 45-minute drive from central Jakarta, set among breathtaking gardens and an 18-hole golf course. Guests can relax on the Novotel’s poolside terrace under the shade of tropical trees. The rooms at the Novotel Bogor Golf Resort are modern with air conditioning and 45-channel flat screen TVs."
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/19553/OEBPS/nep_image/novotel.jpg"
+    }
+}
