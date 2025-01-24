@@ -1,0 +1,38 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page17)/image/flag_korea.png?raw=true"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page17)/image/flag_usa.png?raw=true"
+    },
+    "icon003": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page17)/image/flag_china.png?raw=true"
+    },
+    "icon004": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page17)/image/flag_japan.png?raw=true"
+    },
+    "icon005": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page17)/image/flag_vietnam.png?raw=true"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page17)/image/img016-1.png?raw=true"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page17)/image/img016-2.png?raw=true"
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page17)/image/img016-3.png?raw=true"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page17)/image/img016-4.png?raw=true"
+    }
+}

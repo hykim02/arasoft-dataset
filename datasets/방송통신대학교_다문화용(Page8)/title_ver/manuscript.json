@@ -1,0 +1,86 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page8)/image/flag_korea.png?raw=true"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page8)/image/flag_usa.png?raw=true"
+    },
+    "icon003": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page8)/image/flag_china.png?raw=true"
+    },
+    "icon004": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page8)/image/flag_japan.png?raw=true"
+    },
+    "icon005": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page8)/image/flag_vietnam.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "25% 요금할인이란?"
+    },
+    "text002": {
+        "type": "text",
+        "content": "◎공시지원금을 선택하지 않고 1년 혹은 2년을 약정하여 해당 기간 동안 통신요금을 25% 할인해 주는 제도\r\n\r\n※단, 약정기간(12개월 또는 24개월) 전에 해지 시 할인반환금 발생\r\n\r\n◎적용대상\r\n\r\n - 신규 단말기 구매 시 공시지원금을 받지 않은 자\r\n\r\n - 기존 2년 약정 이후에도 동일 단말기를 계속 이용하려는 장기 이용자\r\n\r\n※\"단말기 자급제 홈페이지(www.단말기자급제.한국)\"에서 적용대상 여부 확인"
+    },
+    "text003": {
+        "type": "text",
+        "content": "공시지원금이란?"
+    },
+    "text004": {
+        "type": "text",
+        "content": "- 휴대전화 구입 시 단말기 가격을 할인해 주는 방법"
+    },
+    "text005": {
+        "type": "text",
+        "content": "25% 요금할인 VS 공시지원금 선택 시 비교"
+    },
+    "text006": {
+        "type": "text",
+        "content": "25% 요금할인 선택시 (24개원)"
+    },
+    "text007": {
+        "type": "text",
+        "content": "VS"
+    },
+    "text008": {
+        "type": "text",
+        "content": "지원금 선택 시"
+    },
+    "text009": {
+        "type": "text",
+        "content": "800,000원"
+    },
+    "text010": {
+        "type": "text",
+        "content": "출고가"
+    },
+    "text011": {
+        "type": "text",
+        "content": "800,000원"
+    },
+    "text012": {
+        "type": "text",
+        "content": "- 위의 예상 월 납부액에는 할부수수료가 포함되어 있지 않습니다"
+    },
+    "text013": {
+        "type": "text",
+        "content": "※ 단말기 종류 및 요금제에 따라 25% 요금할인, 공시지원금이 달라지므로 꼭! 확인 후 선택하세요"
+    },
+    "text014": {
+        "type": "text",
+        "content": "무엇이 더 유리할까요?"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page8)/image/img007-2.png?raw=true"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page8)/image/img007-1.png?raw=true"
+    }
+}
