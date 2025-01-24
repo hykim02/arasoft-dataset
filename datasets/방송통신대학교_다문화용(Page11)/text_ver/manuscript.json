@@ -1,0 +1,86 @@
+{
+    "icon001": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page11)/image/flag_korea.png?raw=true"
+    },
+    "icon002": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page11)/image/flag_usa.png?raw=true"
+    },
+    "icon003": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page11)/image/flag_china.png?raw=true"
+    },
+    "icon004": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page11)/image/flag_japan.png?raw=true"
+    },
+    "icon005": {
+        "type": "icon",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page11)/image/flag_vietnam.png?raw=true"
+    },
+    "text001": {
+        "type": "text",
+        "content": "◎ 스미싱이란?"
+    },
+    "text002": {
+        "type": "text",
+        "content": "- 출처가 불분명한 문자메세지에 포함된 인터넷 주소에 접속할 경우, 악성코드가 스마트폰에 설치되어 개인정보, 금융정보 유출,  소액결제 피해 등을 일으키는 사기 수법"
+    },
+    "text003": {
+        "type": "text",
+        "content": "◎ 스미싱 예방법"
+    },
+    "text004": {
+        "type": "text",
+        "content": "- 출처가 확인되지 않은 문자메세지의 인터넷 주소 클릭 금지\n\n- 스마트폰 보안설정 강화 및 백신프로그램 설치하여 주기적으로 업데이트\n\n- 통신사 고객센터를 통해 소액결제를 원천적으로 차단하거나 결제금액 제한\n\n- 스미싱에 의한 악성코드 감영 등이 의심된다면 국번없이 한국인터넷 진흥원\n\n(☎118)으로 신고하여 악성코드 제거 방법 등 상담"
+    },
+    "text005": {
+        "type": "text",
+        "content": "◎ 스미싱 피해사례"
+    },
+    "text006": {
+        "type": "text",
+        "content": "① 가짜 금융회사 앱(App)금융 사기\r\n\r\n- 금융사를 사칭한 문자 발송 후, 어플 설치를 유도하여 개인 금융 정보 유출 후 계좌에서 현금 인출\r\n\r\n\r\n\r\n② 가짜 택배회사 앱(App)금융 사기\r\n\r\n- 택배사를 사칭한 문자 발송 후, URL을 클릭하도록 유도하여 악성코드를 설치하고, 개인·금융정보등을 탈취"
+    },
+    "image001": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page11)/image/robot.png?raw=true"
+    },
+    "image002": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page11)/image/img010-1.png?raw=true"
+    },
+    "text007": {
+        "type": "text",
+        "content": "◎ 파밍이란?"
+    },
+    "text008": {
+        "type": "text",
+        "content": "- PC를 악성코드로 감염시킨 후 금융정보, 공인인증서 등을 탈취하여 피해를 일으키는 수법"
+    },
+    "text009": {
+        "type": "text",
+        "content": "◎ 파밍 예방법"
+    },
+    "text010": {
+        "type": "text",
+        "content": "- 은행 보안카드 번호 전체 입력을 요구하는 경우 100% 파밍 의심\r\n\r\n- 출처가 불분명한 파일이나 이메일은 즉시 삭제하고, 무료 다운로드 사이트 이용을 자제 \r\n\r\n- 컴퓨터, 이메일 등에 공인인증서, 보안카드사진, 계좌 비밀번호 등 저장 금지\r\n\r\n- 윈도우 백신프로그램을 최신 상태로 업데이트하고 실시간 감시 상태 유지"
+    },
+    "text011": {
+        "type": "text",
+        "content": "◎ 파밍 피해사례"
+    },
+    "text012": {
+        "type": "text",
+        "content": "① 가짜 은행사이트(파밍 사이트)접속 사기\r\n\r\n- 인터넷 실행 시 금융감독원 사칭 불법사이트로 연결되어 개인금융 거래정보를 입력하자마자 계좌에서 90만 원이 이체 \r\n\r\n\r\n\r\n② 검색도우미 프로그램 사기\r\n\r\n- 웹 서핑 중 검색도우미 프로그램을 내려받게 한 뒤에 PC에 저장된 공인인증서 탈취 "
+    },
+    "image003": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page11)/image/robot.png?raw=true"
+    },
+    "image004": {
+        "type": "image",
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90_%EB%8B%A4%EB%AC%B8%ED%99%94%EC%9A%A9(Page11)/image/img010-2.png?raw=true"
+    }
+}
