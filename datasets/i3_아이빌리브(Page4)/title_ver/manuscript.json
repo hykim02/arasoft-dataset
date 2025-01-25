@@ -55,14 +55,6 @@
         "type": "image",
         "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/nav.png?raw=true"
     },
-    "image008": {
-        "type": "image",
-        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/mode.png?raw=true"
-    },
-    "image009": {
-        "type": "image",
-        "content": "https://github.com/hykim02/arasoft-dataset/blob/main/datasets/i3_%EC%95%84%EC%9D%B4%EB%B9%8C%EB%A6%AC%EB%B8%8C(Page4)/image/custom.png?raw=true"
-    },
     "text006": {
         "type": "text",
         "content": " More features, lower prices "
