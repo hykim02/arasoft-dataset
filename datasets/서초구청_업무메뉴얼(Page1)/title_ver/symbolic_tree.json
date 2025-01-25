@@ -10,11 +10,11 @@
                     "symbol_name": "textbox",
                     "direction": "top2down",
                     "children": [
-                        "title001"
+                        "title001",
+                        "icon001",
+                        "icon002"
                     ]
-                },
-                "icon001",
-                "icon002"
+                }
             ]
         },
         {

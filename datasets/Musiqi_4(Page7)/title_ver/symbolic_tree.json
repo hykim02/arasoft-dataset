@@ -10,7 +10,6 @@
                 "text001"
             ]
         },
-        "image002",
         {
             "symbol_name": "layerlist_tab",
             "direction": "top",
@@ -19,7 +18,7 @@
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "image003"
+                        "image002"
                     ]
                 },
                 {
@@ -37,7 +36,7 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image004",
+                                "image003",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -53,7 +52,7 @@
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "image005"
+                        "image004"
                     ]
                 },
                 {
@@ -71,7 +70,7 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image006",
+                                "image005",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -87,7 +86,7 @@
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "image007"
+                        "image006"
                     ]
                 },
                 {
@@ -105,7 +104,7 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image008",
+                                "image007",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
@@ -121,7 +120,7 @@
                     "symbol_name": "nac_title",
                     "direction": "top2down",
                     "children": [
-                        "image009"
+                        "image008"
                     ]
                 },
                 {
@@ -139,7 +138,7 @@
                             "symbol_name": "container",
                             "direction": "left2right",
                             "children": [
-                                "image010",
+                                "image009",
                                 {
                                     "symbol_name": "textbox",
                                     "direction": "top2down",
