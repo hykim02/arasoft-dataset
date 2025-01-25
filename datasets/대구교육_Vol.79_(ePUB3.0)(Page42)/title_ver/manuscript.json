@@ -45,7 +45,7 @@
     },
     "image003": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/0311lvbwiflwv2w021.jpg"
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%8C%80%EA%B5%AC%EA%B5%90%EC%9C%A1_Vol.79_%28ePUB3.0%29(Page42)/blur_image/3981-image_blur.jpg?raw=true"
     },
     "text009": {
         "type": "text",
@@ -69,7 +69,7 @@
     },
     "image005": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/05et151f1k7l1r1n15.jpg"
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%8C%80%EA%B5%AC%EA%B5%90%EC%9C%A1_Vol.79_%28ePUB3.0%29(Page42)/blur_image/3998-image_blur.jpg?raw=true"
     },
     "text013": {
         "type": "text",
@@ -77,7 +77,7 @@
     },
     "image006": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/06eticf1v2w3.jpg"
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%8C%80%EA%B5%AC%EA%B5%90%EC%9C%A1_Vol.79_%28ePUB3.0%29(Page42)/blur_image/4003-image_blur.jpg?raw=true"
     },
     "text014": {
         "type": "text",
@@ -97,6 +97,6 @@
     },
     "image008": {
         "type": "image",
-        "content": "https://d1bzdv1wm9phyk.cloudfront.net/local/epub/29125/OEBPS/nep_image/09tftf6rh5n2.jpg"
+        "content": "https://github.com/JangDongHo/arasoft-dataset/blob/main/datasets/%EB%8C%80%EA%B5%AC%EA%B5%90%EC%9C%A1_Vol.79_%28ePUB3.0%29(Page42)/blur_image/4015-image_blur.jpg?raw=true"
     }
 }
